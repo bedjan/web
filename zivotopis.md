@@ -1,4 +1,4 @@
-
+<meta charset="UTF-8">
 
 **Ing. Bc. Jan Bednář**
 

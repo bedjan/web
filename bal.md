@@ -1,5 +1,4 @@
-<script src="https://raw.githubusercontent.com/bedjan/web/main/md-page.js"></script><noscript>
-
+<meta charset="UTF-8">
 
 Jak sbalit ženu
 praktická příručka technologie lovu

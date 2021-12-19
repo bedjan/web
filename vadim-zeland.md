@@ -1,4 +1,4 @@
-
+<meta charset="UTF-8">
 
 
 Vadim Zéland OVLIVŇOVÁNÍ REALITY Díl VIII:

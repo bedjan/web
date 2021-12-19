@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 ###Swiat według kiepskich wszystkie odcinki
 
 

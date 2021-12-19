@@ -1,4 +1,4 @@
-
+<meta charset="UTF-8">
 
 ### Openbox all-in-one
 
