@@ -1,5 +1,6 @@
 <meta charset="UTF-8">
 <base target="_blank">
+<title>Web osobní</title>
 
 [Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
 
