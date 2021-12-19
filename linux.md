@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <base target="_blank">
 
-[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php)
+[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
 
 ### Openbox all-in-one
 
@@ -235,3 +235,5 @@ Vaším úkolem je napsat příkaz, který rekurzivně najde všechny soubory HT
 Pokud používáte MacOS, nezapomeňte, že výchozí BSD findse liší od BSD obsaženého v GNU coreutils . Můžete použít -print0na finda -0vlajka na xargs. Jako uživatel systému macOS byste si měli uvědomit, že nástroje příkazového řádku dodávané se systémem macOS se mohou od protějšků GNU lišit; můžete nainstalovat verze GNU, pokud chcete, pomocí brew .
 
 (Pokročilé) Napište příkaz nebo skript, který rekurzivně najde naposledy upravený soubor v adresáři. Obecněji můžete uvést všechny soubory podle aktuálnosti?
+
+
