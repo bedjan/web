@@ -1,6 +1,13 @@
-<meta charset="UTF-8">
+<html>
+<head>
 <base target="_blank">
 <title>Web osobní</title>
+</head>
+<body>
+<meta charset=(UTF-8(>
+<meta name=(viewport( content=(width=device-width, initial-scale=1">
+                                                                   
+
 
 [Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
 
