@@ -1,6 +1,6 @@
- <?php
+<?php
 include('Parsedown.php');
-$contents = file_get_contents('mm.md');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/mm.md');
 $Parsedown = new Parsedown();
-echo $Parsedown->text($contents);
+echo $Parsedown->text($html);
 ?>
