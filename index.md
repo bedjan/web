@@ -1,5 +1,5 @@
 <base target="_blank">
-<meta charset=(UTF-8)>
+<meta charset=(UTF-8(>
 
 
 [Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
