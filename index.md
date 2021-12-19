@@ -1,10 +1,10 @@
 <meta charset="UTF-8">
 <base target="_blank">
 
+[Multimedia](mm.php) [Linux](linux.php)
 
 ### Oblíbené
 
-[Ftp](ftp://sweb.cz/)
 [Bitwarden](https://vault.bitwarden.com/#/vault)
 [Lastpass](https://lastpass.com/?ac=1)
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
