@@ -5,3 +5,5 @@
 <a href="https://github.com/bedjan/web" target="_blank">WEB VŠE</a>
 
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
