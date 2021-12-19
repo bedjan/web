@@ -1,10 +1,7 @@
 # Web
 
-https://github.com/bedjan/web/blob/main/web.md
+<a href="https://github.com/bedjan/web/blob/main/web.md" target="_blank">WEB</a>
 
-# Web ostatni
+<a href="https://github.com/bedjan/web" target="_blank">WEB VŠE</a>
 
-https://github.com/bedjan/web
-
-[go](http://stackoverflow.com){:target="_blank"}
 
