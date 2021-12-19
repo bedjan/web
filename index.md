@@ -1,16 +1,5 @@
-<html>
-<head>
 <base target="_blank">
-</head>
-<body>
 <meta charset=(UTF-8)>
-<meta name=(viewport( content=(width=device-width, initial-scale=1">
-                                                                   
-
----
-title: "Web osobní"
-pagetitle: Web osobní
----
 
 
 [Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
@@ -28,6 +17,8 @@ maxlength="255" value="" />
 </td></tr></table>
 
 </form>
+
+<br />
 
 <form method="get" action="https://duckduckgo.com/?q=%s">
 
