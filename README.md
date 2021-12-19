@@ -1,9 +1,13 @@
 # Web
 
-<a href="https://github.com/bedjan/web/blob/main/web.md" target="_blank">WEB</a>
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-<a href="https://github.com/bedjan/web" target="_blank">WEB VŠE</a>
+https://htmlpreview.github.io/
+
+https://github.com/bedjan/web/blob/main/web.md
+
+https://github.com/bedjan/web
 
 
-blah blah <a href="http://htmlpreview.github.com/?https://github.com/<repo>/<path>/blob/master/<my html file.html" target="_blank">comment</a>**
+
 
