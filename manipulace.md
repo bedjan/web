@@ -1,27 +1,4 @@
-<html>
-<head>
-<base target="_blank">
-<title>Manipulace</title>
-</head>
-<body>
-<meta charset=(UTF-8(>
-<meta name=(viewport( content=(width=device-width, initial-scale=1">
-<style>
-html {color: white;background-color:black;text-align: left;} 
-a:link { color: #33adff;}
-a:visited {color: #ff9933;}
-a:hover {  color: #ffff1a;}
-a:active {  color: #33ff33;}
-</style>
 
-
----
-title: "Manipulace"
-output:
-  html_document:
-    toc: yes
-pagetitle: Manipulace
----
 
 ### Web odkazy obrana proti manipulaci:
 
