@@ -30,7 +30,7 @@ maxlength="255" value="" />
 </td></tr></table>
 </div>
 </form>
-
+<br />
 
 ### Oblíbené
 
