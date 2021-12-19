@@ -1,4 +1,6 @@
 <meta charset="UTF-8">
+<base target="_blank">
+
 
 ### Oblíbené
 
