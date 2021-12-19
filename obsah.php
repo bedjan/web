@@ -1,5 +1,5 @@
 <?php
-copy("https://raw.githubusercontent.com/bedjan/web/main/index.md", "index.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/web.md", "web.md");
 ?>
 
 <?php
