@@ -2,7 +2,7 @@
 <base target="_blank">
 
 
-[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
+[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php)
 
 <form method="get" action="http://www.google.com/search">
 
