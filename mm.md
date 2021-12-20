@@ -1,8 +1,4 @@
-<meta charset="UTF-8">
-<base target="_blank">
 
-[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
- 
 ### Playlisty
 
 
