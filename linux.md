@@ -1,8 +1,3 @@
-<meta charset="UTF-8">
-<base target="_blank">
-
-[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Github](https://github.com/bedjan/web)
-
 ### Openbox all-in-one
 
 [Openbox all-in-one](https://github.com/bedjan/openbox)
