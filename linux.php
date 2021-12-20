@@ -1,6 +1,10 @@
- <?php
+<?php
 include('Parsedown.php');
-$contents = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/linux.md');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/hlavicka.md');
+$html1 = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/linux.md');
+$html2 = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/paticka.md');
 $Parsedown = new Parsedown();
-echo $Parsedown->text($contents);
+echo $Parsedown->text($html);
+echo $Parsedown->text($html1);
+echo $Parsedown->text($html2);
 ?>
