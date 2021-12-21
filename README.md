@@ -20,8 +20,8 @@ https://htmlpreview.github.io/
 https://github.com/bedjan/web
 
 
-# Postup vytvořeni `XXX.php
-`
+# Postup vytvořeni `XXX.php`
+
 1) na [Repozitari](https://github.com/bedjan/web/tree/main) vytvor soubor `XXX.md`
 
 2) Vytvoř nový php soubor `XXX.php` [XXX.php](https://github.com/bedjan/web/blob/main/XXX.php) a `prepis v php kódu XXX`
