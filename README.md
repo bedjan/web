@@ -49,9 +49,57 @@ echo $Parsedown->text($html2);
 <?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/XXX.php", "XXX.php");
 ?>
+```
 
 5) do `index.php` je vlozeno `obsah.php`
 
 [index.php](https://github.com/bedjan/web/blob/main/index.php)
 
+```
+<?php
+$filename = 'obsah.php';
+
+if (file_exists($filename)) {
+copy("https://raw.githubusercontent.com/bedjan/web/main/obsah.php", "obsah.php");
+include('obsah.php');
+} else {
+copy("https://raw.githubusercontent.com/bedjan/web/main/obsah.php", "obsah.php");
+include('obsah.php');
+}
+?>
+```
+
 [obsah.php](https://github.com/bedjan/web/blob/main/obsah.php)
+
+```
+<?php
+copy("https://raw.githubusercontent.com/bedjan/web/main/mm.php", "mm.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/linux.php", "linux.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/ekologie.php", "ekologie.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/php.php", "php.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/linux-cli.php", "linux-cli.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/germanismy.php", "germanismy.php");
+?>
+
+<?php
+copy("https://raw.githubusercontent.com/bedjan/web/main/Parsedown.php", "Parsedown.php");
+
+?>
+
+<?php
+include('Parsedown.php');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/hlavicka.md');
+$html1 = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/web.md');
+$html2 = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/paticka.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+echo $Parsedown->text($html1);
+echo $Parsedown->text($html2);
+?>
+```
+
