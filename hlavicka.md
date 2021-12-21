@@ -4,6 +4,8 @@
 
 [Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Linux-cli](linux-cli.php) [Ekologie](ekologie.php) [Php](php.php) [Germanismy](germanismy.php) [Výživa](vyziva.php) [Léčba](lecba.php) [Polština](polstina.php)
 
+<hr>
+
 <form method="get" action="http://www.google.com/search">
 
 
