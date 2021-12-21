@@ -6,6 +6,9 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/mm.php", "mm.php");
 copy("https://raw.githubusercontent.com/bedjan/web/main/linux.php", "linux.php");
 ?>
 
+<?php
+copy("https://raw.githubusercontent.com/bedjan/web/main/ekologie.php", "ekologie.php");
+?>
 
 <?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/Parsedown.php", "Parsedown.php");
