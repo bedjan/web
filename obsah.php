@@ -12,6 +12,8 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/linux-cli.php", "linux-c
 copy("https://raw.githubusercontent.com/bedjan/web/main/germanismy.php", "germanismy.php");
 
 copy("https://raw.githubusercontent.com/bedjan/web/main/vyziva.php", "vyziva.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/lecba.php", "lecba.php");
 ?>
 
 <?php
