@@ -11,6 +11,10 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/ekologie.php", "ekologie
 ?>
 
 <?php
+copy("https://raw.githubusercontent.com/bedjan/web/main/php.php", "php.php");
+?>
+
+<?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/Parsedown.php", "Parsedown.php");
 
 ?>
