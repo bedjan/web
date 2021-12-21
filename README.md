@@ -20,10 +20,11 @@ https://htmlpreview.github.io/
 https://github.com/bedjan/web
 
 
-# Postup 
+# Postup vytvořeni `XXX.php
+`
 1) na [Repozitari](https://github.com/bedjan/web/tree/main) vytvor soubor `XXX.md`
 
-2) Vytvor nový php soubor `XXX.php` [XXX.php](https://github.com/bedjan/web/blob/main/XXX.php) a `prepis v php kódu XXX`
+2) Vytvoř nový php soubor `XXX.php` [XXX.php](https://github.com/bedjan/web/blob/main/XXX.php) a `prepis v php kódu XXX`
 ```
 <?php
 include('Parsedown.php');
@@ -37,7 +38,7 @@ echo $Parsedown->text($html2);
 ?>
 ```
 
-3) Uprav Hlavicku, do soboru `hlavicka.md` [hlavicka.md](https://github.com/bedjan/web/blob/main/hlavicka.md) pridej text `[XXX](XXX.php)`
+3) Uprav Hlavičku, do soboru `hlavicka.md` [hlavicka.md](https://github.com/bedjan/web/blob/main/hlavicka.md) pridej text `[XXX](XXX.php)`
 
 
 
