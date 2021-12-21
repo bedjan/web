@@ -20,8 +20,10 @@ https://htmlpreview.github.io/
 https://github.com/bedjan/web
 
 
-# Postup
-1) Vytvor nový php soubor XXX.php a prepis v php kódu XXX
+# Postup 
+1) vytvor soubor XXX.md
+
+2) Vytvor nový php soubor XXX.php a prepis v php kódu XXX
 
 <?php
 include('Parsedown.php');
@@ -34,11 +36,15 @@ echo $Parsedown->text($html1);
 echo $Parsedown->text($html2);
 ?>
 
-2) Uprav Hlavicku
+3) Uprav Hlavicku
 
-do soboru hlavicka.md pridej [XXX](XXX.php)
-
-https://github.com/bedjan/web/blob/main/hlavicka.md
+do soboru [hlavicka.md](https://github.com/bedjan/web/blob/main/hlavicka.md) pridej [XXX](XXX.php)
 
 
-3) 
+
+
+4) Uprav soubor [obsah.php](https://github.com/bedjan/web/blob/main/obsah.php) a pridej radek a prepis XXX
+
+<?php
+copy("https://raw.githubusercontent.com/bedjan/web/main/XXX.php", "XXX.php");
+?>
