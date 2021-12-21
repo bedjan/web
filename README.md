@@ -49,4 +49,9 @@ echo $Parsedown->text($html2);
 <?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/XXX.php", "XXX.php");
 ?>
-```
+
+5) do `index.php` je vlozeno `obsah.php`
+
+[index.php](https://github.com/bedjan/web/blob/main/index.php)
+
+[obsah.php](https://github.com/bedjan/web/blob/main/obsah.php)```
