@@ -1,3 +1,7 @@
+# Klonováni repozitáře
+
+`git clone https://github.com/bedjan/web.git`
+
 # Web -index.php
 
 https://github.com/bedjan/web/blob/main/index.php
