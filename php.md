@@ -1,3 +1,5 @@
+[Php přednášky](https://www.gjszlin.cz/ivt/esf/php/index.php)
+
 # Soubory a adresáře
 Data můžeme ukládat následujícími způsoby
 - Textové soubory sjednoduchou strukturou(.txt, .csv)
