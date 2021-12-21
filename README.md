@@ -39,13 +39,13 @@ echo $Parsedown->text($html2);
 
 3) Uprav Hlavicku
 
-do soboru [hlavicka.md](https://github.com/bedjan/web/blob/main/hlavicka.md) pridej text [XXX](XXX.php)
+do soboru [hlavicka.md](https://github.com/bedjan/web/blob/main/hlavicka.md) pridej text `[XXX](XXX.php)`
 
 
 
 
 4) Uprav soubor [obsah.php](https://github.com/bedjan/web/blob/main/obsah.php) a pridej radek a prepis XXX
-5) 
+
 ```
 <?php
 copy("https://raw.githubusercontent.com/bedjan/web/main/XXX.php", "XXX.php");
