@@ -2,7 +2,7 @@
 <base target="_blank">
 
 
-[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Ekologie](ekologie.php)
+[Domů](index.php) [Multimedia](mm.php) [Linux](linux.php) [Ekologie](ekologie.php) [Php](php.php)
 
 <form method="get" action="http://www.google.com/search">
 
