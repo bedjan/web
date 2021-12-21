@@ -10,6 +10,8 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/php.php", "php.php");
 copy("https://raw.githubusercontent.com/bedjan/web/main/linux-cli.php", "linux-cli.php");
 
 copy("https://raw.githubusercontent.com/bedjan/web/main/germanismy.php", "germanismy.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/vyziva.php", "vyziva.php");
 ?>
 
 <?php
