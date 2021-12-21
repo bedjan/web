@@ -14,6 +14,8 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/germanismy.php", "german
 copy("https://raw.githubusercontent.com/bedjan/web/main/vyziva.php", "vyziva.php");
 
 copy("https://raw.githubusercontent.com/bedjan/web/main/lecba.php", "lecba.php");
+
+copy("https://raw.githubusercontent.com/bedjan/web/main/polstina.php", "polstina.php");
 ?>
 
 <?php
