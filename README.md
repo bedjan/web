@@ -23,7 +23,7 @@ https://github.com/bedjan/web
 # Postup 
 1) vytvor soubor XXX.md
 
-2) Vytvor nový php soubor XXX.php a prepis v php kódu XXX
+2) Vytvor nový php soubor [XXX.php](https://github.com/bedjan/web/blob/main/XXX.php) a prepis v php kódu XXX
 
 <?php
 include('Parsedown.php');
