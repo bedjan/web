@@ -6,6 +6,7 @@
 [Radia Cesko](https://raw.githubusercontent.com/bedjan/openbox/main/radio.m3u)
 [Radia Svet](https://raw.githubusercontent.com/bedjan/openbox/main/radia_all.m3u)
 [TV Cesko](https://raw.githubusercontent.com/bedjan/openbox/main/tv.m3u)
+[Podcasty](https://ceskepodcasty.cz/)
 [TV Nemecko](https://raw.githubusercontent.com/bedjan/openbox/main/tv_nemecko.m3u)
 
 
