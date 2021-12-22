@@ -1,3 +1,5 @@
+
+[Polsko český slovnik](https://www.slovnicek.cz/cesko-polsky-prekladac)
 [Polsky institut](https://instytutpolski.pl/praha/polstina/)
 [Učení polštiny](https://www.loecsen.com/cs/naucitse-pol%C5%A1tina)
 [Swiat według kiepskich wszystkie odcinki](https://raw.githack.com/bedjan/openbox/main/swk.html)
