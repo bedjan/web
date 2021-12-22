@@ -21,6 +21,7 @@
 [Openbox](https://github.com/bedjan/openbox)
 [OCR](https://www.onlineocr.net/)
 [Zdrava vyziva](https://vyzivujicitradice.cz/)
+[Podcasty](https://ceskepodcasty.cz/)
 
 
 ### Download
