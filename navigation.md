@@ -7,7 +7,7 @@
   * [Linux-cli](linux-cli.md)
   - - - -
   * # Multimedia
-  * [Multimedia](multimedia.md)
+  * [Multimedia](mm.md)
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
@@ -16,7 +16,7 @@
 
   * # SubMenu Heading 1
   * [Polština](polstina.md)
-  * [Multimedia](multimedia.md)
+  * [Multimedia](mm.md)
   - - - -
   * # SubMenu Heading 2
   * [SubMenu Item 3](subitem3.md)
