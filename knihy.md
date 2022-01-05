@@ -11,14 +11,16 @@
 
 <details>
 <p><summary>- Další -</summary></p>
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/sd.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/hkpm.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/bal.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/citaty.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/carnegie.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm2.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm3.md)
-[Vadim Zealand](https://github.com/bedjan/web/blob/main/bzkm.md)
-  https://github.com/bedjan/web/blob/main/bal.md
-    https://github.com/bedjan/web/blob/main/zeny.md
+  
+[Citaty](https://github.com/bedjan/web/blob/main/citaty.md)
+[Carnegie](https://github.com/bedjan/web/blob/main/carnegie.md)
+  
+[SMARAGDOVÉ DESKY](https://github.com/bedjan/web/blob/main/sd.md)
+[Kurs praktické magie.](https://github.com/bedjan/web/blob/main/hkpm.md)
+[Učebnice vysoké magie 2](https://github.com/bedjan/web/blob/main/buvm2.md)
+[Učebnice vysoké magie 3](https://github.com/bedjan/web/blob/main/buvm3.md)
+[ZLATÁ KNIHA MOUDROSTI](https://github.com/bedjan/web/blob/main/bzkm.md)
+
+[Balení](https://github.com/bedjan/web/blob/main/bal.md)
+[Ženy](https://github.com/bedjan/web/blob/main/zeny.md)
 </details>
