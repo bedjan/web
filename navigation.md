@@ -26,6 +26,7 @@
 [Psychologie]()
 
   * # Psychologie
+  * [Řeč](rec.md)
   * [Manipulace](manipulace.md)
   
 - - - -  
@@ -63,4 +64,15 @@
   * [Germanismy](germanismy.md)
   
 - - - -
-[Multimedia](mm.md)
+[Ostatni]()
+
+  * # Ostatní
+  * [Předpony](predpony.md)
+  * [CV](zivotopis.md)
+
+- - - -
+[Multimedia]()
+
+  * # Multimedia
+  * [Radia](radia.md)
+  * [Multimedia](mm.md)
