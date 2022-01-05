@@ -11,6 +11,7 @@
 
 <details>
 <p><summary>- Další -</summary></p>
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/sd.md)
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/hkpm.md)
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/bal.md)
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/citaty.md)
@@ -18,4 +19,6 @@
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm2.md)
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm3.md)
 [Vadim Zealand](https://github.com/bedjan/web/blob/main/bzkm.md)
+  https://github.com/bedjan/web/blob/main/bal.md
+    https://github.com/bedjan/web/blob/main/zeny.md
 </details>
