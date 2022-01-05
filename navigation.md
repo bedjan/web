@@ -24,7 +24,7 @@
   * [Carnegie](https://github.com/bedjan/web/blob/main/carnegie.md)
 
 [Jazyky]()
-  - - - -
+
   * # Jazyky
   * [Polština](polstina.md)
   * [Germanismy](germanismy.md)
