@@ -15,7 +15,7 @@
   * # Léčba
   * [Výživa](vyziva.md)
   * [Léčba](lecba.md)
-  * 
+
 [Jazyky]()
 
   * # Jazyky
