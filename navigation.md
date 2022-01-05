@@ -9,6 +9,7 @@
   
 - - - -
 [IT]()
+
   * # IT
   * [Php](php.md)
   * [Git](git.md)
@@ -16,11 +17,13 @@
   
 - - - -
 [Ekologie]()
+
   * # Ekologie
   * [Ekologie](ekologie.md)
   
 - - - -
 [Léčba]()
+
   * # Léčba
   * [Výživa](vyziva.md)
   * [Léčba](lecba.md)
@@ -28,6 +31,7 @@
   
 - - - -
 [Knihy]()
+
   * # Knihy
   * [Knihy](knihy.md)
   * [Carnegie](https://github.com/bedjan/web/blob/main/carnegie.md)
