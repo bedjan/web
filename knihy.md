@@ -1,4 +1,4 @@
-﻿<meta charset="UTF-8">
+<meta charset="UTF-8">
 
 #### Knihy
 
@@ -9,4 +9,13 @@
 [Vadim Zealand](https://drive.google.com/drive/folders/0B9kFGOWyGNcpenAyd3UzT3BBQ28)
 
 
-Další esoterické
+<details>
+<p><summary>- Další -</summary></p>
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/hkpm.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/bal.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/citaty.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/carnegie.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm2.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/buvm3.md)
+[Vadim Zealand](https://github.com/bedjan/web/blob/main/bzkm.md)
+</details>
