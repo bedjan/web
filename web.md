@@ -131,8 +131,7 @@
 [Arnika zerowaste](http://arnika.org/zero-waste) 
 [Český blog o životě bez odpadu](http://www.czechzerowaste.cz/) 
 [Bezobalu - o zerowaste](http://zerowaste.bezobalu.org/) 
-[Zero waste europe](https://translate.google.cz/translate?sl=en&tl=cs&js=y&prev=_t&hl=cs&ie=UTF-8&u=zerowasteeurope.eu&edit-
-text=&act=url) 
+[Zero waste europe](https://translate.google.cz/translate?sl=en&tl=cs&js=y&prev=_t&hl=cs&ie=UTF-8&u=zerowasteeurope.eu&edit-text=&act=url) 
 [Zero waste obchody v čr](https://www.greenglasses.cz/cs/business-category/zero-waste-obchody-jidlo-piti/)
 
 ### Minimalismus
@@ -190,7 +189,7 @@ mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0
 
 ### Další
 
-[laspass cli](https://github.com/lastpass/lastpass-cli)
+[lastpass cli](https://github.com/lastpass/lastpass-cli)
 [biodopad](https://www.tsduchcov.cz/svoz-odpadu/svoz-brko/)
 [prepper](http://www.prepper.cz/)
 [prepper - forum](http://preppers.cz/forum/)
