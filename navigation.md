@@ -8,6 +8,9 @@
   - - - -
   * # IT
   * [Php](php.md)
+  * [Git](git.md)
+  * [Markdown](markdown.md)
+
   - - - -
   * # Ekologie
   * [Ekologie](ekologie.md)
