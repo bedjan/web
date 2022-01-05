@@ -32,8 +32,8 @@
 - - - -  
   [Sociologie]()
 
-  * # Psychologie
-  * [Ekologie](ekologie.md)
+  * # Sociologie
+  * [Sociologie](sociologie.md)
   
 - - - -
 [Léčba]()
