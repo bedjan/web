@@ -23,4 +23,6 @@
 
 [Balení](https://github.com/bedjan/web/blob/main/bal.md)
 [Ženy](https://github.com/bedjan/web/blob/main/zeny.md)
+[narcismus_poznamky](https://github.com/bedjan/web/blob/main/narcismus_poznamky.md)
+[Asertivita_pro_pozemske_andely](https://github.com/bedjan/web/blob/main/asertivita_pro_pozemske_andely..md)
 </details>
