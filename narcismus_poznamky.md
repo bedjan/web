@@ -1,16 +1,8 @@
-<span id="Narcismus.xhtml"></span>
-
 <span class="c21"> [URL adresa
 dokumentu](https://www.google.com/url?q=https://docs.google.com/document/d/1I-s0wH_CY1eWzJpn8G4kcEVKHAp0iyLL8wyqkOzBs2Q/edit?usp%3Dsharing&sa=D&source=editors&ust=1641466321148000&usg=AOvVaw1Eqf8Zhtq0oZ84hKF-tBHw)
 </span>
 
-<span class="c3"></span>
 
-# <span class="c18"></span>
-
------
-
-# <span class="c18"></span>
 
 # <span class="c18">Definice narcismu</span>
 
