@@ -1,20 +1,3 @@
-![](cover_image.jpg)
-
-<span id="titlepage.xhtml"></span>
-
-<div>
-
-<svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewbox="0 0 1200 1600" preserveaspectratio="none">
-
-<image width="1200" height="1600" href="cover_image.jpg"></image>
-
-</svg>
-
-</div>
-
-<span id="index_split_000.html"></span>
-
-<span id="index_split_000.html#p1"></span>\*\*\*
 
 *Asertivita*
 
@@ -40,7 +23,7 @@
 
 *Doreen Virtue, Ph.D.*
 
-<span id="index_split_000.html#p2"></span> ***Obsah***
+**Obsah***
 
 *Předmluva……………………………………………………………………………………...3*
 
