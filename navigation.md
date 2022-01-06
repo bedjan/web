@@ -76,3 +76,13 @@
   * # Multimedia
   * [Radia](radia.md)
   * [Multimedia](mm.md)
+ 
+- - - -
+[Adm]()
+
+  * # Adm
+  * [Upload](upload.php)
+  * # Adm
+  * [Menu](https://github.com/bedjan/web/blob/main/navigation.md)
+  * [Markdown soubory](https://github.com/bedjan/web)
+
