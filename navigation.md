@@ -45,7 +45,7 @@
   * [Psychosomatika](psychosomatika.md)
   * [Akne a nemoc](jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md)
   * [Hooponopono](hooponopono.md)
-  * [Asertivita ppa](asertivita_pro_pozemske_andely..md)
+  * [Asertivita ppa](asertivita_pro_pozemske_andely.md)
   
 - - - -
 [Knihy]()
