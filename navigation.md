@@ -82,9 +82,13 @@
 - - - -
 [Adm]()
 
-  * # Adm
-  * [Upload](upload.php)
-  * # Adm
+  * # Upload
+  * [Upload na web](upload.php)
+  * [Upload soubory](https://github.com/bedjan/w1/blob/main/upload.php)
+  * # Web
+  * [Web soubory](https://github.com/bedjan/w1)
+  * [Mdwiki soubor](https://github.com/bedjan/w1/blob/main/mdwiki.html)
+  * # Menu a soubory
   * [Menu](https://github.com/bedjan/web/blob/main/navigation.md)
   * [Markdown soubory](https://github.com/bedjan/web)
 
