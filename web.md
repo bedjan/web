@@ -60,7 +60,9 @@
 ### Banky
 
 [Česká spořitelna](https://bezpecnost.csas.cz/login/?client_id=georgeclient_cz)
+
 [Equa](https://www.equabanking.cz/IBS/)
+
 [Sparkasse](https://www.ostsaechsische-sparkasse-dresden.de/de/home/service/online-mobile-banking.html)
 
 ### Úprava textu
