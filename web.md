@@ -68,6 +68,8 @@
 
 [Sparkasse](https://www.ostsaechsische-sparkasse-dresden.de/de/home/service/online-mobile-banking.html)
 
+[Goldengate](https://moje.goldengate.cz/dashboards)
+
 ### Úprava textu
 
 [Psani textu online 1](https://write-box.appspot.com/)
