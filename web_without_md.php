@@ -107,7 +107,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
             if ($filename == $currentPage) { ?>
         <li><?php echo $pageTitle ; ?></li>
             <?php } else { ?>
-       <a href="<?php echo 'https://github.com/bedjan/web/blob/main/' , $filename , '.md' ; ?>"><?php echo $pageTitle ; ?></a>&nbsp;
+       <a href="<?php echo 'https://github.com/bedjan/web/blob/main/' , $filename , '.md' ; ?>" target="_blank"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
             } //if 
          } //foreach 
@@ -115,10 +115,11 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
     </ul>
 </div>
 
-<a href="https://github.com/bedjan/web/blob/main/web_without_md.php">web_without_md</a>
-<a href="https://github.com/bedjan/web/">Github</a>
 
 
+
+<a href="https://github.com/bedjan/web/blob/main/web_without_md.php" target="_blank">web_without_md</a>
+<a href="https://github.com/bedjan/web/" target="_blank">Github</a>
 
 </body>
 </html>
