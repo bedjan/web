@@ -66,9 +66,10 @@ form {
 
 $pages = array(
 'https://github.com/bedjan/web/blob/main/web.md' => 'Oblíbené',
-'https://github.com/bedjan/web/blob/main/multimedia.md' => 'Multimedia',
-'https://github.com/bedjan/web/blob/main/ekologie.md' => 'ekologie',
-'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
+'https://github.com/bedjan/web/blob/main/mm.md' => 'Multimedia',
+  'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
+'https://github.com/bedjan/web/blob/main/ekologie.md' => 'Ekologie',
+
 'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
 ) ;
 
