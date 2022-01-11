@@ -65,11 +65,11 @@ form {
 <?php
 
 $pages = array(
-    'https://github.com/bedjan/web/blob/main/ekologie.md' => 'ekologie',
-    'index.php?sekce=multimedia' => 'mm',
-    'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
-    'faq.php' => 'FAQ',
-    'tutorials.php' => 'Tutorials',
+'https://github.com/bedjan/web/blob/main/web.md' => 'Oblíbené',
+'https://github.com/bedjan/web/blob/main/multimedia.md' => 'Multimedia',
+'https://github.com/bedjan/web/blob/main/ekologie.md' => 'ekologie',
+'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
+'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
 ) ;
 
 $currentPage = basename($_SERVER['REQUEST_URI']) ;
