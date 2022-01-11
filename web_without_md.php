@@ -9,8 +9,8 @@
 
 <style>
 body {
-  background-color: black;
-  font-family: cursive;
+  background-color: lavender;
+  font-family: monospace;
 }
 a {
   color: white;
