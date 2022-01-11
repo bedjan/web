@@ -85,6 +85,19 @@ $pages = array(
  'https://github.com/bedjan/web/blob/main/vyziva.md' => 'Výživa',
                                  'https://github.com/bedjan/web/blob/main/psychosomatika.md' => 'Psychosomatika',
                                  'https://github.com/bedjan/web/blob/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md' => 'Akne a nemoc',
+  'https://github.com/bedjan/web/blob/main/hooponopono.md' => 'Hooponopono',
+'https://github.com/bedjan/web/blob/main/asertivita_pro_pozemske_andely.md' => 'Asertivita ppa',
+'https://github.com/bedjan/web/blob/main/knihy.md' => 'Knihy',
+'https://github.com/bedjan/web/blob/main/vadim-zeland.md' => 'Vadim Zeland',
+'https://github.com/bedjan/web/blob/main/carnegie.md' => 'Carnegie',
+'https://github.com/bedjan/web/blob/main/polstina.md' => 'Polština',
+'https://github.com/bedjan/web/blob/main/nemcina.md' => 'Němčina',
+'https://github.com/bedjan/web/blob/main/nemecko_gramatika.md' => 'Německá gramatika',
+'https://github.com/bedjan/web/blob/main/germanismy.md' => 'Germanismy',
+'https://github.com/bedjan/web/blob/main/predpony.md' => 'Předpony',
+'https://github.com/bedjan/web/blob/main/zivotopis.md' => 'Radia',
+'https://github.com/bedjan/web/blob/main/radia.md' => 'Radia',
+                                 
 'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
 ) ;
 
