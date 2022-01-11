@@ -1,3 +1,24 @@
+<?php
+session_start();
+
+$userinfo = array(
+                'admin'=>'opicak',
+                'user'=>'opicak'
+                );
+
+if(isset($_GET['logout'])) {
+    $_SESSION['username'] = '';
+    header('Location:  ' . $_SERVER['PHP_SELF']);
+}
+
+if(isset($_POST['username'])) {
+    if($userinfo[$_POST['username']] == $_POST['password']) {
+        $_SESSION['username'] = $_POST['username'];
+    }else {
+        //Invalid Login
+    }
+}
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -60,9 +81,10 @@ form {
 <body>
 
 <h2><a href="#">Osobní stránky</a></h2>
-
-
-<?php
+        <?php if($_SESSION['username']): ?>
+            <p>Jsi prihlasen jako <?=$_SESSION['username']?></p>
+            <p><a href="?logout=1">Odhlásit</a></p>
+            <?php
 
 $pages = array(
 'web' => 'Oblíbené',
@@ -94,7 +116,7 @@ $pages = array(
 'zivotopis' => 'CV',
 'radia' => 'Radia',
  
-'web_without_md.php' => 'Admin',
+
 ) ;
 
 $currentPage = basename($_SERVER['REQUEST_URI']) ;
@@ -112,6 +134,11 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
             } //if 
          } //foreach 
             ?>
+
+
+
+
+
     </ul>
 </div>
 
@@ -120,6 +147,18 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 <a href="https://github.com/bedjan/web/blob/main/web_without_md.php" target="_blank">web_without_md</a>
 <a href="https://github.com/bedjan/web/" target="_blank">Github</a>
+
+        <?php endif; ?>
+        <form name="login" action="" method="post">
+            Uživatel:<br /><input type="text" name="username" value="" /><br />
+            Heslo:<br /><input type="password" name="password" value="" /><br />
+            <input type="submit" name="submit" value="Odeslat" />
+        </form>
+
+
+
+
+
 
 </body>
 </html>
