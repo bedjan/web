@@ -158,9 +158,9 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
         <br />
         <form name="login" action="" method="post">
          <br />
-            Uživatel:<br /><input type="text" name="username" value="" /><br />
+            Uživatel:<br /><input type="password" name="username" value="" /><br />
             Heslo:<br /><input type="password" name="password" value="" /><br />
-            <input type="password" name="submit" value="Odeslat" />
+                        <input type="submit" name="submit" value="Odeslat" />
         </form>
 
 
