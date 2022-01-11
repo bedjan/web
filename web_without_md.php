@@ -69,7 +69,22 @@ $pages = array(
 'https://github.com/bedjan/web/blob/main/mm.md' => 'Multimedia',
   'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
 'https://github.com/bedjan/web/blob/main/ekologie.md' => 'Ekologie',
-
+'https://github.com/bedjan/web/blob/main/web.md' => 'Oblíbené',
+'https://github.com/bedjan/web/blob/main/mm.md' => 'Multimedia',
+  'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
+    'https://github.com/bedjan/web/blob/main/linux-cli.md' => 'Linux-cli',
+        'https://github.com/bedjan/web/blob/main/systemd.md' => 'Systemd',
+                'https://github.com/bedjan/web/blob/main/php.md' => 'Php',
+                                'https://github.com/bedjan/web/blob/main/git.md' => 'Git',
+                                                'https://github.com/bedjan/web/blob/main/markdown.md' => 'Markdown',
+'https://github.com/bedjan/web/blob/main/ekologie.md' => 'Ekologie',
+                'https://github.com/bedjan/web/blob/main/rec.md' => 'Řeč',
+                'https://github.com/bedjan/web/blob/main/narcismus_poznamky.md' => 'Narcismus -poznamky',
+                                'https://github.com/bedjan/web/blob/main/manipulace.md' => 'Manipulace',
+                                                                'https://github.com/bedjan/web/blob/main/Sociologie.md' => 'Sociologie',
+ 'https://github.com/bedjan/web/blob/main/vyziva.md' => 'Výživa',
+                                 'https://github.com/bedjan/web/blob/main/psychosomatika.md' => 'Psychosomatika',
+                                 'https://github.com/bedjan/web/blob/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md' => 'Akne a nemoc',
 'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
 ) ;
 
