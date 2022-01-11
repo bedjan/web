@@ -6,7 +6,6 @@
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 <base target="_blank">
-
 <style>
 body {
   background-color: black;
@@ -51,6 +50,7 @@ form {
 
 
 
+
 </style>
 
 
@@ -59,48 +59,42 @@ form {
 
 <body>
 
-
-
 <h2><a href="#">Osobní stránky</a></h2>
 
 
 <?php
 
 $pages = array(
-'https://github.com/bedjan/web/blob/main/web.md' => 'Oblíbené',
-'https://github.com/bedjan/web/blob/main/mm.md' => 'Multimedia',
-  'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
-'https://github.com/bedjan/web/blob/main/ekologie.md' => 'Ekologie',
-'https://github.com/bedjan/web/blob/main/web.md' => 'Oblíbené',
-'https://github.com/bedjan/web/blob/main/mm.md' => 'Multimedia',
-  'https://github.com/bedjan/web/blob/main/linux.md' => 'Linux',
-    'https://github.com/bedjan/web/blob/main/linux-cli.md' => 'Linux-cli',
-        'https://github.com/bedjan/web/blob/main/systemd.md' => 'Systemd',
-                'https://github.com/bedjan/web/blob/main/php.md' => 'Php',
-                                'https://github.com/bedjan/web/blob/main/git.md' => 'Git',
-                                                'https://github.com/bedjan/web/blob/main/markdown.md' => 'Markdown',
-'https://github.com/bedjan/web/blob/main/ekologie.md' => 'Ekologie',
-                'https://github.com/bedjan/web/blob/main/rec.md' => 'Řeč',
-                'https://github.com/bedjan/web/blob/main/narcismus_poznamky.md' => 'Narcismus -poznamky',
-                                'https://github.com/bedjan/web/blob/main/manipulace.md' => 'Manipulace',
-                                                                'https://github.com/bedjan/web/blob/main/Sociologie.md' => 'Sociologie',
- 'https://github.com/bedjan/web/blob/main/vyziva.md' => 'Výživa',
-                                 'https://github.com/bedjan/web/blob/main/psychosomatika.md' => 'Psychosomatika',
-                                 'https://github.com/bedjan/web/blob/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md' => 'Akne a nemoc',
-  'https://github.com/bedjan/web/blob/main/hooponopono.md' => 'Hooponopono',
-'https://github.com/bedjan/web/blob/main/asertivita_pro_pozemske_andely.md' => 'Asertivita ppa',
-'https://github.com/bedjan/web/blob/main/knihy.md' => 'Knihy',
-'https://github.com/bedjan/web/blob/main/vadim-zeland.md' => 'Vadim Zeland',
-'https://github.com/bedjan/web/blob/main/carnegie.md' => 'Carnegie',
-'https://github.com/bedjan/web/blob/main/polstina.md' => 'Polština',
-'https://github.com/bedjan/web/blob/main/nemcina.md' => 'Němčina',
-'https://github.com/bedjan/web/blob/main/nemecko_gramatika.md' => 'Německá gramatika',
-'https://github.com/bedjan/web/blob/main/germanismy.md' => 'Germanismy',
-'https://github.com/bedjan/web/blob/main/predpony.md' => 'Předpony',
-'https://github.com/bedjan/web/blob/main/zivotopis.md' => 'CV',
-'https://github.com/bedjan/web/blob/main/radia.md' => 'Radia',
-                                 
-'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
+'web' => 'Oblíbené',
+'mm' => 'Multimedia',
+'linux' => 'Linux',
+'linux-cli' => 'Linux-cli',
+'systemd' => 'Systemd',
+'php' => 'Php',
+'git' => 'Git',
+'markdown' => 'Markdown',
+'ekologie' => 'Ekologie',
+'rec' => 'Řeč',
+'narcismus_poznamky' => 'Narcismus -poznamky',
+'manipulace' => 'Manipulace',
+'Sociologie' => 'Sociologie',
+'vyziva' => 'Výživa',
+'psychosomatika' => 'Psychosomatika',
+'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
+'hooponopono' => 'Hooponopono',
+'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
+'knihy' => 'Knihy',
+'vadim-zeland' => 'Vadim Zeland',
+'carnegie' => 'Carnegie',
+'polstina' => 'Polština',
+'nemcina' => 'Němčina',
+'nemecko_gramatika' => 'Německá gramatika',
+'germanismy' => 'Germanismy',
+'predpony' => 'Předpony',
+'zivotopis' => 'CV',
+'radia' => 'Radia',
+ 
+'web_without_md.php' => 'Admin',
 ) ;
 
 $currentPage = basename($_SERVER['REQUEST_URI']) ;
@@ -110,11 +104,10 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 <div>
     <ul>
         <?php foreach ($pages as $filename => $pageTitle) { 
-        
             if ($filename == $currentPage) { ?>
         <li><?php echo $pageTitle ; ?></li>
             <?php } else { ?>
-       <a href="<?php echo $filename ; ?>"><?php echo $pageTitle ; ?></a>&nbsp;
+       <a href="<?php echo 'https://github.com/bedjan/web/blob/main/' , $filename , '.md' ; ?>"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
             } //if 
          } //foreach 
@@ -124,9 +117,8 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-
-
-
+<a href="https://github.com/bedjan/web/blob/main/web_without_md.php>web_without_md</a>
+<a href="https://github.com/bedjan/web/>Github</a>
 
 </body>
 </html>
