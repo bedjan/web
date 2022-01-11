@@ -26,11 +26,11 @@ if(isset($_POST['username'])) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
-<base target="_blank">
+<base target="_self">
 <style>
 body {
   background-color: black;
-  font-family: monospace;
+  font-family: Arial;
 }
 a {
   color: white;
@@ -83,7 +83,7 @@ form {
 <h2><a href="#">Osobní stránky</a></h2>
         <?php if($_SESSION['username']): ?>
             <p>Jsi prihlasen jako <?=$_SESSION['username']?></p>
-            <p><a href="?logout=1">Odhlásit</a></p>
+           <p><a href="?logout=1" target="_self">Odhlásit</a></p>
             <?php
 
 $pages = array(
@@ -145,14 +145,22 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-<a href="https://github.com/bedjan/web/blob/main/web_without_md.php" target="_blank">web_without_md</a>
+
+
+<a href="https://github.com/bedjan/web/edit/main/web_without_md.php" target="_blank">web_without_md</a>
 <a href="https://github.com/bedjan/web/" target="_blank">Github</a>
 
+
+   
+
+ 
         <?php endif; ?>
+        <br />
         <form name="login" action="" method="post">
+         <br />
             Uživatel:<br /><input type="text" name="username" value="" /><br />
             Heslo:<br /><input type="password" name="password" value="" /><br />
-            <input type="submit" name="submit" value="Odeslat" />
+            <input type="password" name="submit" value="Odeslat" />
         </form>
 
 
