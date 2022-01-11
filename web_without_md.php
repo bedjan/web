@@ -61,6 +61,8 @@ form {
 
 
 
+<h2><a href="#">Osobní stránky</a></h2>
+
 
 <?php
 
@@ -105,14 +107,14 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 ?>
 
-<div id="menu">
-    <ul id="menuList">
+<div>
+    <ul>
         <?php foreach ($pages as $filename => $pageTitle) { 
-        echo "$filename => $pageTitle  ";
+        
             if ($filename == $currentPage) { ?>
-        <li class="current"><?php echo $pageTitle ; ?></li>
+        <li><?php echo $pageTitle ; ?></li>
             <?php } else { ?>
-        <li><a href="<?php echo $filename ; ?>"><?php echo $pageTitle ; ?></a></li>
+       <a href="<?php echo $filename ; ?>"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
             } //if 
          } //foreach 
