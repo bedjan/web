@@ -9,7 +9,7 @@
 
 <style>
 body {
-  background-color: lavender;
+  background-color: black;
   font-family: monospace;
 }
 a {
