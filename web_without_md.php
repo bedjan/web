@@ -1,24 +1,3 @@
-<?php
-session_start();
-
-$userinfo = array(
-                'admin'=>'opicak',
-                'user'=>'opicak'
-                );
-
-if(isset($_GET['logout'])) {
-    $_SESSION['username'] = '';
-    header('Location:  ' . $_SERVER['PHP_SELF']);
-}
-
-if(isset($_POST['username'])) {
-    if($userinfo[$_POST['username']] == $_POST['password']) {
-        $_SESSION['username'] = $_POST['username'];
-    }else {
-        //Invalid Login
-    }
-}
-?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -26,7 +5,7 @@ if(isset($_POST['username'])) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
-<base target="_self">
+<base target="_blank">
 <style>
 body {
   background-color: black;
@@ -81,10 +60,8 @@ form {
 <body>
 
 <h2><a href="#">Osobní stránky</a></h2>
-        <?php if($_SESSION['username']): ?>
-            <p>Jsi prihlasen jako <?=$_SESSION['username']?></p>
-           <p><a href="?logout=1" target="_self">Odhlásit</a></p>
-            <?php
+
+<?php
 
 $pages = array(
 'web' => 'Oblíbené',
@@ -147,21 +124,13 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-<a href="https://github.com/bedjan/web/edit/main/web_without_md.php" target="_blank">web_without_md</a>
+<a href="https://github.com/bedjan/web/blob/main/web_without_md.php" target="_blank">web_without_md</a>
 <a href="https://github.com/bedjan/web/" target="_blank">Github</a>
 
 
    
 
- 
-        <?php endif; ?>
-        <br />
-        <form name="login" action="" method="post">
-         <br />
-            Uživatel:<br /><input type="password" name="username" value="" /><br />
-            Heslo:<br /><input type="password" name="password" value="" /><br />
-                        <input type="submit" name="submit" value="Odeslat" />
-        </form>
+
 
 
 
