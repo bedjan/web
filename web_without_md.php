@@ -108,7 +108,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 <div id="menu">
     <ul id="menuList">
         <?php foreach ($pages as $filename => $pageTitle) { 
-        echo "$filename => $pageTitle<br />";
+        echo "$filename => $pageTitle  ";
             if ($filename == $currentPage) { ?>
         <li class="current"><?php echo $pageTitle ; ?></li>
             <?php } else { ?>
