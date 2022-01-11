@@ -95,7 +95,7 @@ $pages = array(
 'https://github.com/bedjan/web/blob/main/nemecko_gramatika.md' => 'Německá gramatika',
 'https://github.com/bedjan/web/blob/main/germanismy.md' => 'Germanismy',
 'https://github.com/bedjan/web/blob/main/predpony.md' => 'Předpony',
-'https://github.com/bedjan/web/blob/main/zivotopis.md' => 'Radia',
+'https://github.com/bedjan/web/blob/main/zivotopis.md' => 'CV',
 'https://github.com/bedjan/web/blob/main/radia.md' => 'Radia',
                                  
 'https://github.com/bedjan/web/blob/main/web_without_md.php' => 'Admin',
