@@ -23,12 +23,12 @@ time, mark, audio, video
 {
   background-color: black;
   color: white; 
-  margin: 1;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
+  margin: 3;
+  padding: 1;
+  border: 3;
+//  font-size: 100%;
 //  font: inherit;
-  vertical-align: baseline;
+//    vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -95,6 +95,8 @@ $sekce = "index";
 
 ?>
 
+
+
 <header>
 <nav role="">
             <ul>
@@ -135,6 +137,7 @@ $sekce = "index";
 <a href="index.php?sekce=germanismy">Germanismy</a>
 <a href="index.php?sekce=zivotopis">CV</a>
 <a href="index.php?sekce=predpony">Předpony</a>
+
             </ul>
         </nav>
     </header>
@@ -142,6 +145,10 @@ $sekce = "index";
  <br />  
 <hr>
  <br /> 
+ 
+<?php
+echo "<h1>" .$sekce . "</h1>";
+?>
      
 <?php
 if ($sekce == "index"){
@@ -351,11 +358,20 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
 
+if ($sekce == "vadim-zeland"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/vadim-zeland.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
 ?>
 
  <br />  
 <hr>
  <br />  
+
+
 
 
 <?php
