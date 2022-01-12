@@ -12,7 +12,8 @@ I když je dobré chodit na preventivní léka&#345;ské prohlídky, potenciáln
 ### Diagnostika podle akné v obli&#269;eji
 Následující metodou si m&#367;žete diagnostikovat potenciální zdravotní problémy a to jednoduše na základ&#283; polohy akné na obli&#269;eji. Budete pot&#345;ebovat jen zrcadlo, abyste zjistili, zda máte na obli&#269;eji n&#283;jaké akné nebo vyrážky. Pak ur&#269;íte p&#345;esnou polohu a podíváte na obrázek níže, který nazna&#269;uje daná místa.
 
-Pozice akné na obli&#269;eji m&#367;že odhalit n&#283;kdy i p&#345;ekvapivý druh zdravotního problému, který máte, a o kterém jste dosud ani jen netušili.
+#### Pozice akné na obli&#269;eji m&#367;že odhalit n&#283;kdy i p&#345;ekvapivý druh zdravotního problému, který máte, a o kterém jste dosud ani jen netušili.
+
 
 1. problém s kone&#269;níkem
 
