@@ -181,8 +181,11 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
  <br /> 
  
 <?php
-echo "<h1>" .$sekce . "</h1>";
+echo "<h1>" . $sekce . "</h1>";
 ?>
+
+
+
      
 <?php
 if ($sekce == "web"){
@@ -395,6 +398,20 @@ echo $Parsedown->text($html);
 if ($sekce == "vadim-zeland"){
 include('Parsedown.php');
 $html = file_get_contents('https://github.com/bedjan/web/raw/main/vadim-zeland.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "carnegie"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/carnegie.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "sociologie"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/sociologie.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
