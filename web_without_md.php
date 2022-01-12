@@ -108,7 +108,6 @@ $sekce = "index";
 <a href="index.php?sekce=git">Git</a>
 <a href="index.php?sekce=markdown">Markdown</a>
 <a href="index.php?sekce=ekologie">Ekologie</a> 
-<a href="index.php?sekce=php">Php</a> 
 <a href="index.php?sekce=germanismy">Germanismy</a> 
 <a href="index.php?sekce=vyziva">Výživa</a> 
 <a href="index.php?sekce=lecba">Léčba</a> 
@@ -118,8 +117,8 @@ $sekce = "index";
 <a href="index.php?sekce=narcismus_poznamky">Narcismus -poznamky</a>
 <a href="index.php?sekce=manipulace">Manipulace</a>
 <a href="index.php?sekce=sociologie">Sociologie</a>
-<a href="index.php?sekce=vyziva">Výživa</a>
-<a href="index.php?sekce=lecba">Léčba</a>
+
+
 
 <a href="index.php?sekce=psychosomatika">Psychosomatika</a>
 <a href="index.php?sekce=jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho">Akne a nemoc</a>
@@ -129,7 +128,7 @@ $sekce = "index";
 <a href="index.php?sekce=vadim-zeland">Vadim Zeland</a>
 <a href="index.php?sekce=carnegie">Carnegie</a>
 
-<a href="index.php?sekce=polstina">Polština</a>
+
 <a href="index.php?sekce=nemcina">Němčina</a>
 <a href="index.php?sekce=nemecko_gramatika">Německá gramatika</a>
 <a href="index.php?sekce=nemecko">Německo</a>
@@ -269,6 +268,85 @@ echo $Parsedown->text($html);
 if ($sekce == "manipulace"){
 include('Parsedown.php');
 $html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/manipulace.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "zivotopis"){
+include('Parsedown.php');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/zivotopis.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "predpony"){
+include('Parsedown.php');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/predpony.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "sociologie"){
+include('Parsedown.php');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/sociologie.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "psychosomatika"){
+include('Parsedown.php');
+$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/psychosomatika.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+
+if ($sekce == "hooponopono"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/hooponopono.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+
+if ($sekce == "asertivita_pro_pozemske_andely"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/asertivita_pro_pozemske_andely.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "knihy"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/knihy.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "nemcina"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemcina.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "nemecka_gramatika"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemecka_gramatika.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+
+if ($sekce == "nemecko"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemecko.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
