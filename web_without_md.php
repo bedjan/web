@@ -70,7 +70,18 @@ table {
   
 <h2><a href="#">Osobní stránky</a></h2>
 
+<?php
+$filename = 'Parsedown.php';
 
+if (file_exists($filename)) {
+
+} else {
+copy("https://raw.githubusercontent.com/erusev/parsedown/master/Parsedown.php", "Parsedown.php");
+//copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown.php");
+}
+// vykreslení menu
+include "https://raw.githubusercontent.com/bedjan/web/main/paticka.php";
+?>
 
 
 <?php
