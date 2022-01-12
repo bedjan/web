@@ -1,5 +1,3 @@
-﻿<meta charset="UTF-8">
-
 # Podstatná jména:
 
 -začíná vždy velkým písmenem
