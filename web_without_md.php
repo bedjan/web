@@ -68,7 +68,7 @@ table {
 
 
   
-<h2><a href="#">Osobní stránky</a></h2>
+<h2><a href="index.php?sekce=index">Osobní stránky</a></h2>
 
 <?php
 $filename = 'Parsedown.php';
