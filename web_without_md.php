@@ -130,7 +130,7 @@ $sekce = "index";
 
 
 <a href="index.php?sekce=nemcina">Němčina</a>
-<a href="index.php?sekce=nemecko_gramatika">Německá gramatika</a>
+<a href="index.php?sekce=nemecka_gramatika">Německá gramatika</a>
 <a href="index.php?sekce=nemecko">Německo</a>
 <a href="index.php?sekce=germanismy">Germanismy</a>
 <a href="index.php?sekce=zivotopis">CV</a>
