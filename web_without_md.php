@@ -7,51 +7,57 @@
 
 <base target="_blank">
 <style>
-body {
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video 
+{
   background-color: black;
-  font-family: Arial;
+  color: white; 
+  margin: 1;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+//  font: inherit;
+  vertical-align: baseline;
 }
-a {
-  color: white;
-  margin-left: 2px;
-} 
-p {
-  color: white;
-  margin-left: 2px;
-} 
-pre {
-  color: white;
-  margin-left: 2px;
-} 
-h1 {
-  color: white;
-  margin-left: 2px;
-} 
-h2 {
-  color: white;
-  margin-left: 2px;
-} 
-h3 {
-  color: white;
-  margin-left: 2px;
-} 
-h4 {
-  color: white;
-  margin-left: 2px;
-} 
-h5 {
-  color: white;
-  margin-left: 2px;
-} 
-form {
-  color: white;
-  margin-left: 2px;
-} 
-
-
-
-
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
 </style>
+
+
+
+
 
 
 <title>Osobní stránky</title>
@@ -59,6 +65,9 @@ form {
 
 <body>
 
+
+
+  
 <h2><a href="#">Osobní stránky</a></h2>
 
 <?php
