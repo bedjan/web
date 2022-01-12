@@ -68,7 +68,7 @@ table {
 
 
   
-<h2><a href="index.php?sekce=index">Osobní stránky</a></h2>
+<h2><a href="index.php?sekce=web">Osobní stránky</a></h2>
 
 <?php
 $filename = 'Parsedown.php';
@@ -90,7 +90,7 @@ error_reporting(E_ALL ^ E_NOTICE);
 $sekce = $_GET["sekce"];
 
 if ($sekce == ""){
-$sekce = "index";
+$sekce = "web";
 }
 
 ?>
@@ -100,46 +100,80 @@ $sekce = "index";
 <header>
 <nav role="">
             <ul>
-<a href="index.php?sekce=index">Domů</a>
-<a href="index.php?sekce=multimedia">Multimedia</a>
-<a href="index.php?sekce=radia">Radia</a>
-<a href="index.php?sekce=linux">Linux</a>
-<a href="index.php?sekce=linux-cli">Linux-cli</a>
-<a href="index.php?sekce=systemd">Systemd</a>
-<a href="index.php?sekce=php">Php</a>
-<a href="index.php?sekce=git">Git</a>
-<a href="index.php?sekce=markdown">Markdown</a>
-<a href="index.php?sekce=ekologie">Ekologie</a> 
-<a href="index.php?sekce=germanismy">Germanismy</a> 
-<a href="index.php?sekce=vyziva">Výživa</a> 
-<a href="index.php?sekce=lecba">Léčba</a> 
-<a href="index.php?sekce=polstina">Polština</a>
 
-<a href="index.php?sekce=rec">Řeč</a>
-<a href="index.php?sekce=narcismus_poznamky">Narcismus -poznamky</a>
-<a href="index.php?sekce=manipulace">Manipulace</a>
-<a href="index.php?sekce=sociologie">Sociologie</a>
+<?php
+
+$pages = array(
+'web' => 'Domů',
+'mm' => 'Multimedia',
+'linux' => 'Linux',
+'linux-cli' => 'Linux-cli',
+'systemd' => 'Systemd',
+'php' => 'Php',
+'git' => 'Git',
+'markdown' => 'Markdown',
+'ekologie' => 'Ekologie',
+'rec' => 'Řeč',
+'germanismy' => 'Germanismy',
+'vyziva' => 'Výživa',
+'narcismus_poznamky' => 'Narcismus -poznamky',
+'manipulace' => 'Manipulace',
+'Sociologie' => 'Sociologie',
+'lecba' => 'Léčba',
+'psychosomatika' => 'Psychosomatika',
+'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
+'hooponopono' => 'Hooponopono',
+'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
+'knihy' => 'Knihy',
+'vadim-zeland' => 'Vadim Zeland',
+'carnegie' => 'Carnegie',
+'polstina' => 'Polština',
+'nemcina' => 'Němčina',
+'nemecka_gramatika' => 'Německá gramatika',
+
+'germanismy' => 'germanismy',
+'rec' => 'Řeč',
+'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
+'hooponopono' => 'Hooponopono',
+'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
+'knihy' => 'Knihy',
+'vadim-zeland' => 'Vadim Zeland',
+'carnegie' => 'Carnegie',
+'narcismus_poznamky' => 'Narcismus -poznamky',
+'manipulace' => 'manipulace',
+'sociologie' => 'Sociologie',
+'psychosomatika' => 'Psychosomatika',
+'predpony' => 'Předpony',
+'zivotopis' => 'CV',
+'radia' => 'Radia',
+ 
+
+) ;
+
+$currentPage = basename($_SERVER['REQUEST_URI']) ;
+
+?>
+
+<div>
+    <ul>
+        <?php foreach ($pages as $filename => $pageTitle) { 
+            if ($filename == $currentPage) { ?>
+        <li><?php echo $pageTitle ; ?></li>
+            <?php } else { ?>
+       <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self"><?php echo $pageTitle ; ?></a>&nbsp;
+            <?php
+            } //if 
+         } //foreach 
+            ?>
 
 
 
-<a href="index.php?sekce=psychosomatika">Psychosomatika</a>
-<a href="index.php?sekce=jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho">Akne a nemoc</a>
-<a href="index.php?sekce=hooponopono">Hooponopono</a>
-<a href="index.php?sekce=asertivita_pro_pozemske_andely">Asertivita ppa</a>
-<a href="index.php?sekce=knihy">Knihy</a>
-<a href="index.php?sekce=vadim-zeland">Vadim Zeland</a>
-<a href="index.php?sekce=carnegie">Carnegie</a>
 
 
-<a href="index.php?sekce=nemcina">Němčina</a>
-<a href="index.php?sekce=nemecka_gramatika">Německá gramatika</a>
-<a href="index.php?sekce=nemecko">Německo</a>
-<a href="index.php?sekce=germanismy">Germanismy</a>
-<a href="index.php?sekce=zivotopis">CV</a>
-<a href="index.php?sekce=predpony">Předpony</a>
+    </ul>
+</div>
 
-            </ul>
-        </nav>
+
     </header>
     
  <br />  
@@ -151,14 +185,14 @@ echo "<h1>" .$sekce . "</h1>";
 ?>
      
 <?php
-if ($sekce == "index"){
+if ($sekce == "web"){
 include('Parsedown.php');
 $html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/web.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
 
-if ($sekce == "multimedia"){
+if ($sekce == "mm"){
 include('Parsedown.php');
 $html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/mm.md');
 $Parsedown = new Parsedown();
@@ -374,44 +408,6 @@ echo $Parsedown->text($html);
 
 
 
-<?php
-
-$pages = array(
-'web' => 'Oblíbené',
-'mm' => 'Multimedia',
-'linux' => 'Linux',
-'linux-cli' => 'Linux-cli',
-'systemd' => 'Systemd',
-'php' => 'Php',
-'git' => 'Git',
-'markdown' => 'Markdown',
-'ekologie' => 'Ekologie',
-'rec' => 'Řeč',
-'narcismus_poznamky' => 'Narcismus -poznamky',
-'manipulace' => 'Manipulace',
-'Sociologie' => 'Sociologie',
-'vyziva' => 'Výživa',
-'psychosomatika' => 'Psychosomatika',
-'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
-'hooponopono' => 'Hooponopono',
-'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
-'knihy' => 'Knihy',
-'vadim-zeland' => 'Vadim Zeland',
-'carnegie' => 'Carnegie',
-'polstina' => 'Polština',
-'nemcina' => 'Němčina',
-'nemecko_gramatika' => 'Německá gramatika',
-'germanismy' => 'Germanismy',
-'predpony' => 'Předpony',
-'zivotopis' => 'CV',
-'radia' => 'Radia',
- 
-
-) ;
-
-$currentPage = basename($_SERVER['REQUEST_URI']) ;
-
-?>
 
 <div>
     <ul>
