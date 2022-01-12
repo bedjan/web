@@ -408,7 +408,8 @@ echo $Parsedown->text($html);
 
 
 
-
+<details>
+  <summary> > Admin < </summary>
 <div>
     <ul>
         <?php foreach ($pages as $filename => $pageTitle) { 
@@ -438,7 +439,7 @@ echo $Parsedown->text($html);
 
 
  <br />  
-
+</details>
 
 </body>
 </html>
