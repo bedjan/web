@@ -53,11 +53,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+.stranka {margin: auto; width: 98%; background: #ccc}
+.logo {float: left; width: 8%; }
+.menu {float: right; width: 90%;  background: #7F8DCD}
+.obsah {float: left; width: 100%; }
+.paticka {width: 100%;clear: both; background: #7F8DCD}
 </style>
 
 
 
-
+<div class="stranka">
 <title>Osobní stránky</title>
 </head>
 
@@ -66,7 +72,7 @@ table {
 
 
 
-
+<div class="logo">
 <a href="index.php?sekce=web" target="_self">
 <svg style="width: 50px;  height: 50px;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
@@ -105,6 +111,8 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 // include "https://raw.githubusercontent.com/bedjan/web/main/paticka.php";
 ?>
 
+</div>
+<div class="menu">
 
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
@@ -200,10 +208,10 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
     </header>
     
- <br />  
-<hr>
- <br /> 
- 
+
+</div>
+<div class="obsah"> 
+
 <?php
 echo "<h1>" . $sekce . "</h1>";
 ?>
@@ -442,16 +450,14 @@ echo $Parsedown->text($html);
 
 ?>
 
- <br />  
-<hr>
- <br />  
 
 
-
+</div>
+<div class="paticka">
 
 <details>
   <summary> > Admin < </summary>
-<div>
+
     <ul>
         <?php foreach ($pages as $filename => $pageTitle) { 
             if ($filename == $currentPage) { ?>
@@ -468,7 +474,6 @@ echo $Parsedown->text($html);
 
 
     </ul>
-</div>
 
 
 
@@ -481,6 +486,12 @@ echo $Parsedown->text($html);
 
  <br />  
 </details>
+
+
+</div>
+
+
+</div>
 
 </body>
 </html>
