@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <base target="_blank">
 <style>
@@ -50,15 +50,18 @@ form {
 
 
 
-// html {width: 100%;}
-// .stranka {width: 100%; background: #FFFFFF}
-// .logo {width: 100%;border-radius: 10px; background: #FFFFFF}
-// .menu {width: 100%; border-radius: 10px; background: #000000}
-// .menu * {color: #FFFFFF}
-// .obsah {border-radius: 10px; background: #000000}
-// .obsah * {color: #FFFFFF}
-// .paticka {width: 100%;border-radius: 10px; background: #000000}
-// .paticka * {color: #FFFFFF}
+/* 
+html {width: 100%;}
+.stranka {width: 100%; background: #FFFFFF}
+.logo {width: 100%;border-radius: 10px; background: #FFFFFF}
+.menu {width: 100%; border-radius: 10px; background: #000000}
+.menu * {color: #FFFFFF}
+.obsah {border-radius: 10px; background: #000000}
+.obsah * {color: #FFFFFF}
+.paticka {width: 100%;border-radius: 10px; background: #000000}
+.paticka * {color: #FFFFFF}
+*/
+
 </style>
 
 
