@@ -56,6 +56,28 @@ form {
   }
 }
 
+/* navigace zacatek */
+.navigace {
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navigace a {
+  float: left;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navigace a:hover {
+  color: yellow;
+}
+/* navigace konec */
+
 /* 
 html {width: 100%;}
 .stranka {width: 100%; background: #FFFFFF}
@@ -83,7 +105,7 @@ html {width: 100%;}
 
 
 
-
+<div class="navigace
 
 
 <?php
@@ -192,7 +214,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-    </header>
+    </div>
     
 
 
