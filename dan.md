@@ -15,13 +15,18 @@
 
 
 
-[Ikatastr](https://www.ikatastr.cz/)
+
 
 [Nejčastější dotazy na dani z nemovitých věcí](https://www.financnisprava.cz/cs/dane/dane/dan-z-nemovitych-veci/dotazy-a-odpovedi/nejcastejsi-dotazy-na-dani-z-nemovitych)
 
-Daňové tiskopisy](https://www.financnisprava.cz/cs/dane/danove-tiskopisy)
+[Daňové tiskopisy](https://www.financnisprava.cz/cs/dane/danove-tiskopisy)
 
 [Urcení směrné hodnoty](https://www.financnisprava.cz/cs/dane/dane/dan-z-nabyti-nemovitych-veci/urceni-smerne-hodnoty/2020)
+
+-----
+# Další odkazy
+
+[Ikatastr](https://www.ikatastr.cz/)
 
 -----
 
