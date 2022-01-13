@@ -17,8 +17,9 @@
 
 # Dořešit
 
-Sdělit společenství vlastníků ze jsme Novi vlastníci
-Poplatky za odpady rychnov a dobruska
+- Sdělit společenství vlastníků ze jsme Novi vlastníci
+
+- Poplatky za odpady rychnov a dobruska
 
 
 			
