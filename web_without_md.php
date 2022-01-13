@@ -21,11 +21,11 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video 
 {
-  background-color: black;
-  color: white; 
-  margin: 3;
-  padding: 1;
-  border: 3;
+//    background-color: black;
+//    color: white; 
+  margin: 3px;
+  padding: 3px;
+  border: 3px;
 //  font-size: 100%;
 //  font: inherit;
 //    vertical-align: baseline;
@@ -54,8 +54,6 @@ table {
   border-spacing: 0;
 }
 </style>
-
-
 
 
 
@@ -124,7 +122,7 @@ $sekce = "web";
 
 <header>
 <nav role="">
-            <ul>
+           
 
 <?php
 
@@ -179,7 +177,8 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 ?>
 
-<div  style="vertical-align: top;horizontal-align: right;padding: 20px;" >
+
+
     <ul>
         <?php foreach ($pages as $filename => $pageTitle) { 
             if ($filename == $currentPage) { ?>
@@ -196,7 +195,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
     </ul>
-</div>
+
 
 
     </header>
