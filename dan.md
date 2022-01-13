@@ -1,7 +1,6 @@
-
-<a href="https://www.finance.cz/503479-dan-z-nemovitosti/#Nem11" target="_blank" title="Daň z nemovitosti">Zdroj:</a>
-
- # Výpočet daně z nemovitostí
+# Výpočet daně z nemovitostí
+ 
+ <a href="https://www.finance.cz/503479-dan-z-nemovitosti/#Nem11" target="_blank" title="Daň z nemovitosti">Zdroj:</a>
 
 <p>Daň z nemovitostí putuje do obecních a městských kas, které její výši ovlivňují stanovením místního koeficientu. Výpočet daně z nemovitostí by se dal shrnout do třech kroků:</p>
 
