@@ -15,4 +15,10 @@
 
 <a href="https://www.ikatastr.cz/" target="_blank" >Ikatastr</a>
 
+# Dořešit
+
+Sdělit společenství vlastníků ze jsme Novi vlastníci
+Poplatky za odpady rychnov a dobruska
+
+
 			
