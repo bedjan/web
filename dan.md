@@ -1,7 +1,7 @@
 
 <a href="https://www.finance.cz/503479-dan-z-nemovitosti/#Nem11" target="_blank" title="Daň z nemovitosti">Zdroj:</a>
 
-<h2>Výpočet daně z nemovitostí</h2>
+ # Výpočet daně z nemovitostí
 
 <p>Daň z nemovitostí putuje do obecních a městských kas, které její výši ovlivňují stanovením místního koeficientu. Výpočet daně z nemovitostí by se dal shrnout do třech kroků:</p>
 
@@ -13,7 +13,17 @@
 
 <p>Pokud si chcete lehce <a href="https://www.finance.cz/dane-a-mzda/kalkulacky-a-aplikace/nemovitost/" target="_blank" title="Daň z nemovitosti">vypočítat daň z nemovitosti, tak využijte naši&nbsp;kalkulačku.</a></p>
 
-<a href="https://www.ikatastr.cz/" target="_blank" >Ikatastr</a>
+
+
+[Ikatastr](https://www.ikatastr.cz/)
+
+[Nejčastější dotazy na dani z nemovitých věcí](https://www.financnisprava.cz/cs/dane/dane/dan-z-nemovitych-veci/dotazy-a-odpovedi/nejcastejsi-dotazy-na-dani-z-nemovitych)
+
+Daňové tiskopisy](https://www.financnisprava.cz/cs/dane/danove-tiskopisy)
+
+[Urcení směrné hodnoty](https://www.financnisprava.cz/cs/dane/dane/dan-z-nabyti-nemovitych-veci/urceni-smerne-hodnoty/2020)
+
+-----
 
 # Dořešit
 
