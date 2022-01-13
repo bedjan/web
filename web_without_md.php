@@ -49,34 +49,7 @@ form {
   margin-left: 2px;
 } 
 
-/* Use a media query to add a breakpoint at 800px: */
-@media screen and (max-width: 800px) {
-  .left, .main, .right {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
-}
 
-/* navigace zacatek */
-.navigace {
-  overflow: hidden;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-}
-
-/* Links inside the navbar */
-.navigace a {
-  float: left;
-  display: block;
-  text-align: center;
-  text-decoration: none;
-}
-
-/* Change background on mouse-over */
-.navigace a:hover {
-  color: yellow;
-}
-/* navigace konec */
 
 /* 
 html {width: 100%;}
@@ -105,7 +78,7 @@ html {width: 100%;}
 
 
 
-<div class="navigace
+
 
 
 <?php
@@ -214,7 +187,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-    </div>
+    </header>
     
 
 
