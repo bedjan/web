@@ -461,7 +461,7 @@ echo $Parsedown->text($html);
 
  <br />  
 
-<a href="#nahoru" target="_self">Nahoru</a>
+<a href="#nahoru" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">Nahoru</h1></a>
 
  <br />   <br />  
 
