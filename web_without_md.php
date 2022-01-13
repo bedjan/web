@@ -55,14 +55,14 @@ table {
 }
 
 
-html {margin: auto; width: 98%;}
-.stranka {margin: auto; width: 98%;height: 100%;border-radius: 10px; background: #FFFFFF}
+html {width: 99%;}
+.stranka {width: 99%;border-radius: 10px; background: #FFFFFF}
 .logo {float: left; width: 8%;border-radius: 10px; background: #FFFFFF}
-.menu {float: left; width: 90%; border-radius: 10px; background: #000000}
+.menu {float: left; width: 91%; border-radius: 10px; background: #000000}
 .menu * {color: #FFFFFF}
 .obsah {float: left; width: 99%;border-radius: 10px; background: #000000}
 .obsah * {color: #FFFFFF}
-.paticka {width: 99%;clear: both;border-radius: 10px; background: #000000}
+.paticka {float: left;width: 99%;border-radius: 10px; background: #000000}
 .paticka * {color: #FFFFFF}
 </style>
 
