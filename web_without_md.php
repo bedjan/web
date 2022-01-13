@@ -157,7 +157,7 @@ $pages = array(
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
 'zivotopis' => 'CV',
-'dane' => 'Daně'
+'dane' => 'Daně',
 'radia' => 'Radia',
  
 
