@@ -57,12 +57,12 @@ table {
 
 html {width: 100%;}
 .stranka {width: 100%; background: #FFFFFF}
-.logo {float: left; width: 100%;border-radius: 10px; background: #FFFFFF}
-.menu {float: left; width: 100%; border-radius: 10px; background: #000000}
+.logo {width: 100%;border-radius: 10px; background: #FFFFFF}
+.menu {width: 100%; border-radius: 10px; background: #000000}
 .menu * {color: #FFFFFF}
-.obsah {float: left; width: 100%;border-radius: 10px; background: #000000}
+.obsah {border-radius: 10px; background: #000000}
 .obsah * {color: #FFFFFF}
-.paticka {float: left;width: 100%;border-radius: 10px; background: #000000}
+.paticka {width: 100%;border-radius: 10px; background: #000000}
 .paticka * {color: #FFFFFF}
 </style>
 
