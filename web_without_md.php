@@ -54,11 +54,11 @@ table {
   border-spacing: 0;
 }
 
-.stranka {margin: auto; width: 98%; background: #ccc}
-.logo {float: left; width: 8%; }
-.menu {float: right; width: 90%;  background: #7F8DCD}
-.obsah {float: left; width: 100%; }
-.paticka {width: 100%;clear: both; background: #7F8DCD}
+.stranka {margin: auto; width: 98%;border-radius: 30px; background: #ccc}
+.logo {float: left; width: 8%;border-radius: 30px; }
+.menu {float: right; width: 90%; border-radius: 30px; background: #7F8DCD}
+.obsah {float: left; width: 100%;border-radius: 30px; }
+.paticka {width: 100%;clear: both;border-radius: 30px; background: #7F8DCD}
 </style>
 
 
