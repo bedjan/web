@@ -54,11 +54,15 @@ table {
   border-spacing: 0;
 }
 
-.stranka {margin: auto; width: 98%;border-radius: 30px; background: #ccc}
-.logo {float: left; width: 8%;border-radius: 30px; }
-.menu {float: right; width: 90%; border-radius: 30px; background: #7F8DCD}
-.obsah {float: left; width: 100%;border-radius: 30px; }
-.paticka {width: 100%;clear: both;border-radius: 30px; background: #7F8DCD}
+
+html {height: 100%;background: #adad85}
+.stranka {margin: auto; width: 98%;border-radius: 10px; background: #FFFFFF}
+.logo {float: left; width: 8%;border-radius: 10px; background: #FFFFFF}
+.menu {float: right; width: 90%; border-radius: 10px; background: #7F8DCD}
+.menu a {color: #FFFFFF}
+.obsah {float: left; width: 98%;border-radius: 10px; background: #FFFFFF}
+.obsah a, h1, h2, h3, h4, h5, h6  {color: #000000}
+.paticka {width: 99%;clear: both;border-radius: 10px; background: #7F8DCD}
 </style>
 
 
@@ -187,10 +191,10 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-    <ul>
+
         <?php foreach ($pages as $filename => $pageTitle) { 
             if ($filename == $currentPage) { ?>
-        <li><?php echo $pageTitle ; ?></li>
+        <?php echo $pageTitle ; ?>
             <?php } else { ?>
        <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
@@ -202,7 +206,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-    </ul>
+
 
 
 
@@ -213,7 +217,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 <div class="obsah"> 
 
 <?php
-echo "<h1>" . $sekce . "</h1>";
+echo '<h1 style="color: #7F8DCD;text-decoration: underline;">' . $sekce . '</h1>' . '</br>' ;
 ?>
 
 
@@ -458,10 +462,10 @@ echo $Parsedown->text($html);
 <details>
   <summary> > Admin < </summary>
 
-    <ul>
+
         <?php foreach ($pages as $filename => $pageTitle) { 
             if ($filename == $currentPage) { ?>
-        <li><?php echo $pageTitle ; ?></li>
+        <?php echo $pageTitle ; ?>
             <?php } else { ?>
        <a href="<?php echo 'https://github.com/bedjan/web/blob/main/' , $filename , '.md' ; ?>" target="_blank"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
@@ -473,7 +477,6 @@ echo $Parsedown->text($html);
 
 
 
-    </ul>
 
 
 
