@@ -55,7 +55,7 @@ table {
 }
 
 
-
+html {margin: auto; width: 98%;}
 .stranka {margin: auto; width: 98%;height: 100%;border-radius: 10px; background: #FFFFFF}
 .logo {float: left; width: 8%;border-radius: 10px; background: #FFFFFF}
 .menu {float: right; width: 90%; border-radius: 10px; background: #000000}
