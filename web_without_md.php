@@ -157,7 +157,7 @@ $pages = array(
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
 'zivotopis' => 'CV',
-'dane' => 'Daně',
+'dan' => 'Daň',
 'radia' => 'Radia',
  
 
@@ -458,9 +458,9 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
 
-if ($sekce == "dane"){
+if ($sekce == "dan"){
 include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/dane.md');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/dan.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
