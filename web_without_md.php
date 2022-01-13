@@ -4,8 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <base target="_blank">
+<a name="nahoru"></a>
+
 <style>
 body {
   background-color: white;
@@ -63,6 +64,7 @@ html {width: 100%;}
 */
 
 </style>
+
 
 
 
@@ -220,7 +222,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <?php
-echo '<h1 style="color: #ccccb3;text-decoration: underline;">' . $sekce . '</h1>' . '</br>' ;
+echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">' . $sekce . '</h1></a>' . '</br>' ;
 ?>
 
 
@@ -457,9 +459,11 @@ echo $Parsedown->text($html);
 
 ?>
 
+ <br />  
 
+<a href="#nahoru" target="_self">Nahoru</a>
 
-
+ <br />   <br />  
 
 <details>
   <summary> > Admin < </summary>
@@ -497,6 +501,6 @@ echo $Parsedown->text($html);
 
 
 
-
+<a name="dolu"></a>
 </body>
 </html>
