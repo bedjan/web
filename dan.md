@@ -21,5 +21,11 @@
 
 - Poplatky za odpady rychnov a dobruska
 
+- zdravotka 
+
+- soud rychnov ověřit 
+
+   [soud rychnov](https://www.justice.cz/web/okresni-soud-v-rychnove-nad-kneznou)
+
 
 			
