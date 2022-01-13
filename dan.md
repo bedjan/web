@@ -35,6 +35,8 @@
 
 - Poplatky za odpady rychnov a dobruska
 
+- finančák Rychnov
+
 - zdravotka 
 
 - soud rychnov ověřit 
