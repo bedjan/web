@@ -5,8 +5,49 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<base target="_self">
+<base target="_blank">
 <style>
+body {
+  background-color: white;
+font-family: "Times New Roman", Times, serif;
+}
+a {
+  color: black;
+  margin-left: 2px;
+} 
+p {
+  color: black;
+  margin-left: 2px;
+} 
+pre {
+  color: black;
+  margin-left: 2px;
+} 
+h1 {
+  color: black;
+  margin-left: 2px;
+} 
+h2 {
+  color: black;
+  margin-left: 2px;
+} 
+h3 {
+  color: black;
+  margin-left: 2px;
+} 
+h4 {
+  color: black;
+  margin-left: 2px;
+} 
+h5 {
+  color: black;
+  margin-left: 2px;
+} 
+form {
+  color: black;
+  margin-left: 2px;
+} 
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -55,20 +96,20 @@ table {
 }
 
 
-html {width: 100%;}
-.stranka {width: 100%; background: #FFFFFF}
-.logo {width: 100%;border-radius: 10px; background: #FFFFFF}
-.menu {width: 100%; border-radius: 10px; background: #000000}
-.menu * {color: #FFFFFF}
-.obsah {border-radius: 10px; background: #000000}
-.obsah * {color: #FFFFFF}
-.paticka {width: 100%;border-radius: 10px; background: #000000}
-.paticka * {color: #FFFFFF}
+// html {width: 100%;}
+// .stranka {width: 100%; background: #FFFFFF}
+// .logo {width: 100%;border-radius: 10px; background: #FFFFFF}
+// .menu {width: 100%; border-radius: 10px; background: #000000}
+// .menu * {color: #FFFFFF}
+// .obsah {border-radius: 10px; background: #000000}
+// .obsah * {color: #FFFFFF}
+// .paticka {width: 100%;border-radius: 10px; background: #000000}
+// .paticka * {color: #FFFFFF}
 </style>
 
 
 
-<div class="stranka">
+
 <title>Osobní stránky</title>
 </head>
 
@@ -93,8 +134,7 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 // include "https://raw.githubusercontent.com/bedjan/web/main/paticka.php";
 ?>
 
-</div>
-<div class="menu">
+
 
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
@@ -191,10 +231,10 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
     </header>
     
 
-</div>
 
 
-<div class="logo">
+
+
 <a href="index.php?sekce=web" target="_self">
 <svg style="width: 50px;  height: 50px;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
@@ -218,9 +258,9 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 	C434.693,207.929,439.613,203.01,445.731,203.01z"/>
 </svg>
 </a>
-</div>
 
-<div class="obsah"> 
+
+
 
 <?php
 echo '<h1 style="color: #ccccb3;text-decoration: underline;">' . $sekce . '</h1>' . '</br>' ;
@@ -462,8 +502,7 @@ echo $Parsedown->text($html);
 
 
 
-</div>
-<div class="paticka">
+
 
 <details>
   <summary> > Admin < </summary>
@@ -497,10 +536,10 @@ echo $Parsedown->text($html);
 </details>
 
 
-</div>
 
 
-</div>
+
+
 
 </body>
 </html>
