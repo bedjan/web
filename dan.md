@@ -13,4 +13,6 @@
 
 <p>Pokud si chcete lehce <a href="https://www.finance.cz/dane-a-mzda/kalkulacky-a-aplikace/nemovitost/" target="_blank" title="Daň z nemovitosti">vypočítat daň z nemovitosti, tak využijte naši&nbsp;kalkulačku.</a></p>
 
+<a href="https://www.ikatastr.cz/" target="_blank" >Ikatastr</a>
+
 			
