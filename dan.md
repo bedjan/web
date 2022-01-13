@@ -7,7 +7,7 @@
 
 <ol>
 	<li>Určete základ daně, což je <strong>výměra a druh pozemku, staveb a jednotek</strong></li>
-	<li>Nyní výměru <strong>vynásobte koeficientem, dle počtu obyvatel obce</strong></li>
+	<li>Nyní výměru <a href="https://www.financnisprava.cz/cs/dane/dane/dan-z-nemovitych-veci/informace-stanoviska-a-sdeleni/2021/doporuceni-pro-obce-pri-vydavani-obecne-koeficienty">vynásobte koeficientem, dle počtu obyvatel obce</a></li>
 	<li>Poté použijte <a href="http://adisreg.mfcr.cz/adistc/adis/idpr_reg/dne/koef/vyhledani.faces" target="_blank" title="Místní koeficient">místní koeficient stanovený vaší obcí (městem), který naleznete zde</a>.</li>
 </ol>
 
