@@ -55,14 +55,15 @@ table {
 }
 
 
-html {height: 100%;background: #adad85}
-.stranka {margin: auto; width: 98%;border-radius: 10px; background: #FFFFFF}
+
+.stranka {margin: auto; width: 98%;height: 100%;border-radius: 10px; background: #FFFFFF}
 .logo {float: left; width: 8%;border-radius: 10px; background: #FFFFFF}
-.menu {float: right; width: 90%; border-radius: 10px; background: #7F8DCD}
-.menu a {color: #FFFFFF}
-.obsah {float: left; width: 98%;border-radius: 10px; background: #FFFFFF}
-.obsah a, h1, h2, h3, h4, h5, h6  {color: #000000}
-.paticka {width: 99%;clear: both;border-radius: 10px; background: #7F8DCD}
+.menu {float: right; width: 90%; border-radius: 10px; background: #000000}
+.menu * {color: #FFFFFF}
+.obsah {float: left; width: 99%;border-radius: 10px; background: #000000}
+.obsah * {color: #FFFFFF}
+.paticka {width: 99%;clear: both;border-radius: 10px; background: #000000}
+.paticka * {color: #FFFFFF}
 </style>
 
 
@@ -217,7 +218,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 <div class="obsah"> 
 
 <?php
-echo '<h1 style="color: #7F8DCD;text-decoration: underline;">' . $sekce . '</h1>' . '</br>' ;
+echo '<h1 style="color: #ccccb3;text-decoration: underline;">' . $sekce . '</h1>' . '</br>' ;
 ?>
 
 
