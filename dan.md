@@ -90,3 +90,5 @@ Uplny vypis k otisku, a ten poslat )
 ## Kancelář
 
 [Q property](http://www.qproperty.cz/)
+
+[Pronájem](https://www.pronajemprostor.cz/nemovitost/99/)
