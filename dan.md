@@ -65,3 +65,16 @@ ID datové schránky: uqvabkk
 E-Mail: ybartosova@osoud.rkn.justice.cz
 
 Kontaktní osoba: Yveta Bartošová	
+
+## Daně
+
+[Moje dane ](http://mojedane.cz) - neni potreba registrace
+
+Email: iveta.mihulkova@fs.mfcr.cz
+
+Uplny vypis k otisku
+
+V polozce 221 se da majetek delit ( citatel 1, jmenovatel 2 )
+
+( modra obrazovka, v pravo sloupky, skoupky rozkliknout, v zaveru - 
+Uplny vypis k otisku, a ten poslat )
