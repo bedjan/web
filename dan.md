@@ -47,7 +47,8 @@
 ## Na soude reseno s:
 
 
-		Vedoucí kanceláře dědického oddělení
+Vedoucí kanceláře dědického oddělení
+
 
 Ulice: Poláčkovo nám. č.5 - detaš. pracoviště
 
