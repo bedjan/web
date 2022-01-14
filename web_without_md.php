@@ -38,6 +38,9 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 
 
+<a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
+
+
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
 
@@ -133,8 +136,6 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
     </header>
     
-
-
 
 
 
