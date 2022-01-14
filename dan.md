@@ -87,4 +87,6 @@ Uplny vypis k otisku, a ten poslat )
 
 [Pokyny](https://adisspr.mfcr.cz/dpr/adis/idpr_pub/dne/dp4/doc/pokyny_dnedp4_2022.pdf)
 
+## Kancelář
 
+[Q property](http://www.qproperty.cz/)
