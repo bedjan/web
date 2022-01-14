@@ -16,7 +16,9 @@
 </head>
 
 <body>
-<div class="container-fluid">
+<div class="jumbotron">
+<!--<div class="container-fluid"> -->
+
 
 
 
@@ -56,7 +58,8 @@ $sekce = "web";
 
 
 <header>
-<nav role="">
+<nav>
+  
            
 
 <?php
@@ -135,10 +138,10 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
     </header>
-    
+ 
 
 
-
+<br />
 <a href="index.php?sekce=web" target="_self">
 <svg style="width: 10%;height: 10%;  background-color: white;padding: 1%;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
@@ -162,7 +165,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 	C434.693,207.929,439.613,203.01,445.731,203.01z"/>
 </svg>
 </a>
-
+<br />
 
 
 
