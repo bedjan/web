@@ -7,16 +7,64 @@
 <base target="_blank">
 <a name="nahoru"></a>
 
-<!-- Google Fonts -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+<style>
+body {
+  background-color: white;
+font-family: "Times New Roman", Times, serif;
+}
+a {
+  color: black;
+  margin-left: 2px;
+} 
+p {
+  color: black;
+  margin-left: 2px;
+} 
+pre {
+  color: black;
+  margin-left: 2px;
+} 
+h1 {
+  color: black;
+  margin-left: 2px;
+} 
+h2 {
+  color: black;
+  margin-left: 2px;
+} 
+h3 {
+  color: black;
+  margin-left: 2px;
+} 
+h4 {
+  color: black;
+  margin-left: 2px;
+} 
+h5 {
+  color: black;
+  margin-left: 2px;
+} 
+form {
+  color: black;
+  margin-left: 2px;
+} 
 
-<!-- CSS Reset -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
 
-<!-- Milligram CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
 
-<!-- You should properly set the path from the main file. -->
+/* 
+html {width: 100%;}
+.stranka {width: 100%; background: #FFFFFF}
+.logo {width: 100%;border-radius: 10px; background: #FFFFFF}
+.menu {width: 100%; border-radius: 10px; background: #000000}
+.menu * {color: #FFFFFF}
+.obsah {border-radius: 10px; background: #000000}
+.obsah * {color: #FFFFFF}
+.paticka {width: 100%;border-radius: 10px; background: #000000}
+.paticka * {color: #FFFFFF}
+*/
+
+</style>
+
 
 
 
@@ -148,7 +196,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <a href="index.php?sekce=web" target="_self">
-<svg style="width: 10%;  height: 10%;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg style="width: 50px;  height: 50px;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
 	 xml:space="preserve">
 <ellipse fill="#C6C6C6" cx="283.5" cy="487.5" rx="259" ry="80"/>
