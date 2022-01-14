@@ -70,6 +70,8 @@ Kontaktní osoba: Yveta Bartošová
 
 [Moje dane ](http://mojedane.cz) - neni potreba registrace
 
+[Elektronicky formular](https://adisspr.mfcr.cz/dpr/adis/idpr_epo/epo2/uvod/vstup.faces )
+
 Email: iveta.mihulkova@fs.mfcr.cz
 
 Uplny vypis k otisku
