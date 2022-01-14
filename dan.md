@@ -44,4 +44,23 @@
    [soud rychnov](https://www.justice.cz/web/okresni-soud-v-rychnove-nad-kneznou)
 
 
-			
+## Na soude reseno s:
+
+
+		Vedoucí kanceláře dědického oddělení
+
+Ulice: Poláčkovo nám. č.5 - detaš. pracoviště
+
+Obec: Rychnov nad Kněžnou
+
+Psč: 516 19
+
+Tel: +420 494 548 362
+
+Fax: +420 494 548 331
+
+ID datové schránky: uqvabkk
+
+E-Mail: ybartosova@osoud.rkn.justice.cz
+
+Kontaktní osoba: Yveta Bartošová	
