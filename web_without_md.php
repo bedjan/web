@@ -7,65 +7,9 @@
 <base target="_blank">
 <a name="nahoru"></a>
 
-<style>
-body {
-  background-color: white;
-font-family: "Times New Roman", Times, serif;
-}
-a {
-  color: black;
-  margin-left: 2px;
-} 
-p {
-  color: black;
-  margin-left: 2px;
-} 
-pre {
-  color: black;
-  margin-left: 2px;
-} 
-h1 {
-  color: black;
-  margin-left: 2px;
-} 
-h2 {
-  color: black;
-  margin-left: 2px;
-} 
-h3 {
-  color: black;
-  margin-left: 2px;
-} 
-h4 {
-  color: black;
-  margin-left: 2px;
-} 
-h5 {
-  color: black;
-  margin-left: 2px;
-} 
-form {
-  color: black;
-  margin-left: 2px;
-} 
 
 
-
-/* 
-html {width: 100%;}
-.stranka {width: 100%; background: #FFFFFF}
-.logo {width: 100%;border-radius: 10px; background: #FFFFFF}
-.menu {width: 100%; border-radius: 10px; background: #000000}
-.menu * {color: #FFFFFF}
-.obsah {border-radius: 10px; background: #000000}
-.obsah * {color: #FFFFFF}
-.paticka {width: 100%;border-radius: 10px; background: #000000}
-.paticka * {color: #FFFFFF}
-*/
-
-</style>
-
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 
 
@@ -196,7 +140,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <a href="index.php?sekce=web" target="_self">
-<svg style="width: 50px;  height: 50px;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg style="width: 10%;height: 10%;  background-color: white;padding: 1%;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
 	 xml:space="preserve">
 <ellipse fill="#C6C6C6" cx="283.5" cy="487.5" rx="259" ry="80"/>
