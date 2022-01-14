@@ -82,3 +82,9 @@ V polozce 221 se da majetek delit ( citatel 1, jmenovatel 2 )
 
 ( modra obrazovka, v pravo sloupky, skoupky rozkliknout, v zaveru - 
 Uplny vypis k otisku, a ten poslat )
+
+[Elektronické formuláře](https://adisspr.mfcr.cz/pmd/epo/formulare)
+
+[Pokyny](https://adisspr.mfcr.cz/dpr/adis/idpr_pub/dne/dp4/doc/pokyny_dnedp4_2022.pdf)
+
+
