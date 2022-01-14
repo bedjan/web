@@ -148,7 +148,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <a href="index.php?sekce=web" target="_self">
-<svg style="width: 20%;  height: 20%;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg style="width: 10%;  height: 10%;background-color: white;vertical-align: top;horizontal-align: left;padding: 20px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
 	 xml:space="preserve">
 <ellipse fill="#C6C6C6" cx="283.5" cy="487.5" rx="259" ry="80"/>
