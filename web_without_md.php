@@ -15,9 +15,11 @@
 <title>Osobní stránky</title>
 </head>
 
-<body>
 <div class="jumbotron">
 <!--<div class="container-fluid"> -->
+
+<body>
+
 
 
 
@@ -459,7 +461,8 @@ echo $Parsedown->text($html);
 <a name="dolu"></a>
 
 
-</div>
+
 
 </body>
+</div>
 </html>
