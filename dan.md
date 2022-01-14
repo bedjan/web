@@ -33,6 +33,8 @@
 
 - Sdělit společenství vlastníků ze jsme Novi vlastníci
 
+(Kontakt na Sodomu: Mgr. Bc. Marek Sodoma, e-mail: msodoma@sitel.cz, tel.: 777004130 )
+
 - Poplatky za odpady rychnov a dobruska
 
 - finančák Rychnov
