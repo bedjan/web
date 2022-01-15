@@ -693,11 +693,7 @@ přijmout tyto Kroky za vlastní jako součást našeho osobního uzdravení.
 
 **_Přiznali jsme svoji bezmocnost nad jinými - naše životy začaly být neovladatelné._**
 **O bezmocnosti –** Až do nynějška jsme ke svým životním problémům
-přistupovali s použitím sebekontroly, ulpívavého myšlení a vlastního
-
-
-```
-zatemněného uvažování. Když se naše vztahy zhroutily, mnozí z nás se
+přistupovali s použitím sebekontroly, ulpívavého myšlení a vlastního zatemněného uvažování. Když se naše vztahy zhroutily, mnozí z nás se
 prostě snažili ještě víc a používali pomstychtivě celý svůj arsenál chybných
 informací. Naše svévole a umíněnost na sebe brala různé podoby. Byli jsme
 panovační. Snažili jsme se zavděčit se druhým. Přizpůsobovali a podřizovali
@@ -1060,22 +1056,7 @@ znázorněna na straně XY. Při procházení našeho života, minulého i souč
 lidí, kteří byli zasaženi a ovlivněni naším kodependentním chováním. Do seznamu zahrneme Boha,
 sebe samé, naše partnery, děti, přátele, rodinné příslušníky, kolegy z práce a všechny, kdo se s námi
 účastní různých činností.
-Do druhého sloupce vypíšeme naše kodependentní chování vůči každému z těchto lidí a
-v každém vztahu. Může být obtížné si vzpomenout na konkrétní specifické chování. Toto chování je
-definováno v pěti oblastech: emocionální, fyzické, sexuální, duchovní a intelektuální. Naše chování
-mohlo zahrnovat například následující:
-
-```
-lhaní distancování se manipulování trestání
-vyhýbání se snižování zapírání urážení
-pasivita hořkost agresivita zneužívání
-zatrpklost vměšování zuření přehnaná pozornost
-opouštění škádlení posuzování nesamostatnost
-```
-
-```
-zanedbávání zostuzování nenávist pronásledování
-mlčení kontrolování přehnaná snaha potěšit a zalíbit se
+Do druhého sloupce vypíšeme naše kodependentní chování vůči každému z těchto lidí a v každém vztahu. Může být obtížné si vzpomenout na konkrétní specifické chování. Toto chování je definováno v pěti oblastech: emocionální, fyzické, sexuální, duchovní a intelektuální. Naše chování mohlo zahrnovat například následující: lhaní distancování se manipulování trestání vyhýbání se snižování zapírání urážení pasivita hořkost agresivita zneužívání zatrpklost vměšování zuření přehnaná pozornost opouštění škádlení posuzování nesamostatnost zanedbávání zostuzování nenávist pronásledování mlčení kontrolování přehnaná snaha potěšit a zalíbit se
 ```
 Výše uvedený seznam není všeobsažný; nabízíme jej pro zahájení průzkumu. Abychom byli
 opravdu poctiví a důkladní, musíme se sami sebe ptát, jestli jsme se k Bohu, sobě a ostatním chovali
