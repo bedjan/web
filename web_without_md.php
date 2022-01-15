@@ -80,6 +80,7 @@ $pages = array(
 'git' => 'Git',
 'markdown' => 'Markdown',
 'ekologie' => 'Ekologie',
+'priroda' => 'Příroda',
 'rec' => 'Řeč',
 'germanismy' => 'Germanismy',
 'vyziva' => 'Výživa',
@@ -113,6 +114,7 @@ $pages = array(
 'predpony' => 'Předpony',
 'zivotopis' => 'CV',
 'dan' => 'Daň',
+'prepper' => 'Prepper',
 'radia' => 'Radia',
  
 
@@ -761,7 +763,39 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
    break; 
-      
+ 
+ case priroda;
+
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break; 
+ 
+ case prepper;
+
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break; 
+          
 }
 ?> 
 
