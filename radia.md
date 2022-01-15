@@ -119,6 +119,12 @@
 
 * * *
 
-#### Anglická radia - popisek na odkaze
+#### Britskáradia 
 
-[Radio1](http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=1478006549&e=1478020949&h=a2900c0b2d227caf20f6e0cb18c0f09c) [Radio2](http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1478183353&e=1478197753&h=da94bce9f4a7d4e6d36fcc2cbcb666ba) [Radio Lancashire](http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p?s=1478183833&e=1478198233&h=d435b7884353d0f8ea5fc3ed75589114) [BBC Radio Manchester](http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p?s=1478185638&e=1478200038&h=f415a008517d84c4575ca7e9520d91ce) [Absolute 60's](http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=1478006549&e=1478020949&h=a2900c0b2d227caf20f6e0cb18c0f09c) [Absolute 70's](http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute60s.mp3) [Absolute 80's](http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute70s.mp3) [Absolute 90's](http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute80s.mp3) [Radio1](http://icy-e-bab-04-cr.sharp-stream.com:8000/absolute90s.mp3) [Capital Radio Manchester](http://icy-e-bab-04-cr.sharp-stream.com:8000/absoluteclassicrock.mp3) [Heart North West](http://media-the.musicradio.com:80/HeartNorthWestMP3) [Key 103](http://icy-e-bl-06-cr.sharp-stream.com:8000/key.mp3)
+[Britská radia 1](https://www.radio-uk.co.uk/) 
+
+[Britská radia 2](https://internetradiouk.com/)
+
+[Britská radia  - shoutcast](http://www.radiofeeds.co.uk/mp3.asp)
+
+[Heart North West](http://media-the.musicradio.com:80/HeartNorthWestMP3)
