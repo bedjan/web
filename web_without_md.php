@@ -22,10 +22,12 @@
 
 <body class="jumbotron">
 
+		
+	</head>
+	<body>
+		
 
-
-
-
+<a href="http://www.google.com" target="_blank" onclick="window.open(&quot;http://www.facebook.com&quot;); window.open(&quot;http://www.seznam.cz&quot;);">Top</a>
 
 
 
@@ -96,16 +98,16 @@ $pages = array(
 'nemcina' => 'Němčina',
 'nemecka_gramatika' => 'Německá gramatika',
 
-'germanismy' => 'Germanismy',
+'germanismy' => 'germanismy',
 'rec' => 'Řeč',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
 'hooponopono' => 'Hooponopono',
+'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
 'knihy' => 'Knihy',
 'vadim-zeland' => 'Vadim Zeland',
 'carnegie' => 'Carnegie',
 'narcismus_poznamky' => 'Narcismus -poznamky',
-'manipulace' => 'Manipulace',
-'kodependence' => 'Kodependence',
+'manipulace' => 'manipulace',
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
@@ -412,13 +414,6 @@ echo $Parsedown->text($html);
 if ($sekce == "dan"){
 include('Parsedown.php');
 $html = file_get_contents('https://github.com/bedjan/web/raw/main/dan.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-	
-if ($sekce == "kodependence"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/kodependence.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
