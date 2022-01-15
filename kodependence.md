@@ -692,10 +692,10 @@ přijmout tyto Kroky za vlastní jako součást našeho osobního uzdravení.
 # První krok
 
 **_Přiznali jsme svoji bezmocnost nad jinými - naše životy začaly být neovladatelné._**
-**O bezmocnosti –** Až do nynějška jsme ke svým životním problémům
-přistupovali s použitím sebekontroly, ulpívavého myšlení a vlastního zatemněného uvažování. Když se naše vztahy zhroutily, mnozí z nás se
-prostě snažili ještě víc a používali pomstychtivě celý svůj arsenál chybných
-informací. Naše svévole a umíněnost na sebe brala různé podoby. Byli jsme
+**O bezmocnosti –** 
+Až do nynějška jsme ke svým životním problémům přistupovali s použitím sebekontroly, ulpívavého myšlení 
+a vlastního zatemněného uvažování. Když se naše vztahy zhroutily, mnozí z nás se prostě snažili ještě víc 
+a používali pomstychtivě celý svůj arsenál chybných informací. Naše svévole a umíněnost na sebe brala různé podoby. Byli jsme
 panovační. Snažili jsme se zavděčit se druhým. Přizpůsobovali a podřizovali
 jsme se. Rebelovali jsme. Obviňovali. Zraňovali jsme sebe a zraňovali jsme
 druhé. Někteří se dostali až na hranici nepříčetnosti nebo smrti, dříve než byli
