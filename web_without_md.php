@@ -75,6 +75,7 @@ $pages = array(
 'linux' => 'Linux',
 'linux-cli' => 'Linux-cli',
 'systemd' => 'Systemd',
+'debian' => 'Debian',
 'php' => 'Php',
 'git' => 'Git',
 'markdown' => 'Markdown',
@@ -745,7 +746,22 @@ echo $Parsedown->text($html);
 
    break; 
       
-   
+case debian;
+
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break; 
+      
 }
 ?> 
 
