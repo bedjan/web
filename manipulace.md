@@ -4,6 +4,51 @@
 
 - zaútočit na jejich stud, stačí i pohled beze slov (" Že se nestydíte" , " Jak se to chováte")
 
+------
+
+### Projevy
+#### Co je narcistické zneužívání
+
+##### Zneužívání může být emocionální , mentální, fyzické, finanční, duchovní nebo sexuální. Zde je několik příkladů zneužití, které jste možná nezjistili:
+
+Slovní napadání - Slovní napadání zahrnuje zlehčování, šikanu, obviňování, obviňování, zahanbování, dožadování se, nařizování, vyhrožování, kritizaci, sarkasmus, běsnění, odporování, podkopávání, vyrušování, blokování a nadávky. Všimněte si, že mnoho lidí občas vznáší požadavky, používá sarkasmus, přerušuje vás, odporuje vám, kritizuje vás, obviňuje vás nebo vás blokuje. Zvažte kontext, zlomyslnost a frekvenci chování, než jej označíte za narcistické zneužívání.
+
+Manipulace - Manipulace je obecně nepřímý vliv na někoho, aby se choval způsobem, který podporuje cíle manipulátora. Často vyjadřuje skrytou agresi. Představte si „vlka v rouše beránčím“. Navenek se slova zdají neškodná – dokonce pochvalná; ale pod tím se cítíte ponížení nebo cítíte nepřátelský záměr. Pokud jste v dětství zažili manipulaci, možná ji jako takovou nepoznáte. Podívejte se na můj blog o manipulaci se skvrnami .
+
+Citové vydírání - Citové vydírání může zahrnovat hrozby, hněv, varování, zastrašování nebo tresty. Je to forma manipulace, která ve vás vyvolává pochybnosti. Cítíte strach, povinnost nebo vinu, někdy označované jako „MLHA“
+
+Gaslighting- Záměrně vás nutí nedůvěřovat svému vnímání reality nebo věřit, že jste duševně neschopní.
+
+Konkurence - Soutěžení a zvyšování počtu vždy na vrcholu, někdy i neetickými prostředky. Například podvádění ve hře.
+
+Negativní kontrast- Zbytečné srovnávání, které vás negativně kontrastuje s narcisem nebo jinými lidmi.
+
+Sabotáž - Rušivé zasahování do vašeho úsilí nebo vztahů za účelem pomsty nebo osobního prospěchu.
+Vykořisťování a objektivizace - Využívání nebo využívání vás pro osobní účely bez ohledu na vaše pocity nebo potřeby.
+
+Lhaní - Trvalé klamání s cílem vyhnout se odpovědnosti nebo dosáhnout narcistických vlastních cílů.
+
+Zadržování - Zadržování takových věcí, jako jsou peníze, sex, komunikace nebo náklonnost.
+
+Zanedbávání - Ignorování potřeb dítěte, za které nese odpovědnost násilník. Zahrnuje ohrožení dítěte; tj. umístění nebo ponechání dítěte v nebezpečné situaci.
+Invaze do soukromí: Ignorování svých hranic prohlížením svých věcí, telefonu, pošty; popírat vaše fyzické soukromí nebo vás pronásledovat nebo sledovat; ignorování soukromí, o které jste požádali.
+
+Vražda postavy nebo pomluva - Šíření zlomyslných pomluv nebo lží o vás dalším lidem.
+
+Násilí - To zahrnuje blokování vašeho pohybu, tahání za vlasy, házení věcí nebo ničení vašeho majetku.
+
+Finanční zneužívání - Finanční zneužívání může zahrnovat vaši kontrolu prostřednictvím ekonomické nadvlády nebo vyčerpání vašich financí vydíráním, krádeží, manipulací nebo hazardními hrami nebo nahromaděním dluhů vaším jménem nebo prodejem vašeho osobního majetku.
+Izolace - Izolace od přátel, rodiny nebo přístupu k externím službám a podpoře prostřednictvím kontroly, manipulace, verbálního napadání, atentátu na postavu nebo jiných způsobů zneužívání.
+
+Narcismus a závažnost zneužívání existují v kontinuu. Může se pohybovat od ignorování vašich pocitů až po násilnou agresi. Narcisté obvykle nepřebírají odpovědnost za své chování a nesou vinu na vás nebo na ostatní; někteří však ano a jsou schopni cítit vinu a sebereflexi.
+
+#### Maligní narcismus a sociopatie
+
+Někdo s více narcistickými rysy, který se chová zlomyslně, nepřátelsky, je považován za „maligního narcismu“. Zhoubné narcisty pocit viny netrápí. Dokážou být sadističtí a mít radost z způsobení bolesti. Mohou být tak soutěživí a bezzásadoví, že se zapojí do asociálního chování. Paranoia je staví do režimu obranného útoku jako prostředku sebeobrany.
+
+Maligní narcismus může připomínat sociopatii . Sociopati mají zdeformovaný nebo poškozený mozek. Vykazují narcistické rysy, ale ne všichni narcisté jsou sociopati. Jejich motivace se liší. Zatímco narcisté podporují ideální osobnost, kterou je třeba obdivovat, sociopati mění, kým jsou, aby dosáhli své vlastní agendy. Potřebují za každou cenu vyhrát a nemyslet na to, že porušují společenské normy a zákony. Nepřipoutá se k lidem jako narcisté. Narcisté nechtějí být opuštěni. Jsou spoluzávislí na souhlasu ostatních, ale sociopati mohou snadno odejít ze vztahů, které jim neslouží. I když někteří narcisté občas piknou, aby dosáhli svých cílů, jsou obvykle reaktivnější než sociopati, kteří své plány chladně kalkulují.
+
+------
 
 ### Web odkazy obrana proti manipulaci:
 
