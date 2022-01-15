@@ -13,12 +13,14 @@
 
 
 <title>Osobní stránky</title>
+<head>
+<!--<div class="jumbotron"> -->
+<!--<div class="container-fluid"> -->
 </head>
 
-<div class="jumbotron">
-<!--<div class="container-fluid"> -->
 
-<body>
+
+<body class="jumbotron">
 
 
 
@@ -423,7 +425,11 @@ echo $Parsedown->text($html);
  <br />   <br />  
 
 <details>
-  <summary> > Admin < </summary>
+
+  <summary>&#169; <?php
+$datum = StrFTime("%Y", Time());
+echo($datum);
+?> </summary>
 
 
         <?php foreach ($pages as $filename => $pageTitle) { 
@@ -464,5 +470,5 @@ echo $Parsedown->text($html);
 
 
 </body>
-</div>
+
 </html>
