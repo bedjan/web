@@ -106,6 +106,7 @@ $pages = array(
 'carnegie' => 'Carnegie',
 'narcismus_poznamky' => 'Narcismus -poznamky',
 'manipulace' => 'manipulace',
+'kodependence' => 'Kodependence',
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
@@ -412,6 +413,13 @@ echo $Parsedown->text($html);
 if ($sekce == "dan"){
 include('Parsedown.php');
 $html = file_get_contents('https://github.com/bedjan/web/raw/main/dan.md');
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+}
+	
+if ($sekce == "kodependence"){
+include('Parsedown.php');
+$html = file_get_contents('https://github.com/bedjan/web/raw/main/kodependence.md');
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 }
