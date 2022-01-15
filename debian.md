@@ -1,4 +1,4 @@
-[Debian officia cz](http://www.debian.cz/)
+[Debian official cz](http://www.debian.cz/)
 
 [Debian official eng](https://www-debian-org.translate.goog/?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
 
