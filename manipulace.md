@@ -1,8 +1,15 @@
+### Diagnostika
+
+- bez empatie
+
+- sebestřednost
+-----
+
 ### Obrana
 
 - vyjádřit hněv, odpor, ignoraci
 
-- zaútočit na jejich stud, stačí i pohled beze slov (" Že se nestydíte" , " Jak se to chováte")
+- zaútočit na jejich *stud*, stačí i pohled beze slov (" Že se nestydíte" , " Jak se to chováte")
 
 ------
 
