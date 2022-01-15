@@ -1,6 +1,8 @@
 ### Obrana
 
-hněv, odpor, ignorace
+- vyjádřit hněv, odpor, ignorace
+
+- zaútočit na jejich stud (" Že se nestydíte" , " Jak se to chováte")
 
 
 ### Web odkazy obrana proti manipulaci:
