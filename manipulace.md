@@ -1,4 +1,7 @@
-<meta charset="UTF-8">
+### Obrana
+
+hněv, odpor, ignorace
+
 
 ### Web odkazy obrana proti manipulaci:
 
@@ -16,7 +19,7 @@
 
 co, proc, zdroj
 
-negac - a co s tim budes delat?
+negativita - a co s tim budes delat?
 
 ### 8 tipů, jak se vyrovnat s kritickým narcisem:
 
