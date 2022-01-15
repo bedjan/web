@@ -1,5 +1,7 @@
 [Google podcasty](https://podcasts.google.com/)
 
+[Můj rozhlas - pořady](https://www.mujrozhlas.cz/porady)
+
 [Český rozhlas](https://portal.rozhlas.cz/podcasty/porady)
 
 [České podcasty](https://ceskepodcasty.cz/)
