@@ -48,7 +48,323 @@ Někdo s více narcistickými rysy, který se chová zlomyslně, nepřátelsky, 
 
 Maligní narcismus může připomínat sociopatii . Sociopati mají zdeformovaný nebo poškozený mozek. Vykazují narcistické rysy, ale ne všichni narcisté jsou sociopati. Jejich motivace se liší. Zatímco narcisté podporují ideální osobnost, kterou je třeba obdivovat, sociopati mění, kým jsou, aby dosáhli své vlastní agendy. Potřebují za každou cenu vyhrát a nemyslet na to, že porušují společenské normy a zákony. Nepřipoutá se k lidem jako narcisté. Narcisté nechtějí být opuštěni. Jsou spoluzávislí na souhlasu ostatních, ale sociopati mohou snadno odejít ze vztahů, které jim neslouží. I když někteří narcisté občas piknou, aby dosáhli svých cílů, jsou obvykle reaktivnější než sociopati, kteří své plány chladně kalkulují.
 
-------
+
+-----
+
+# Narcistická porucha osobnosti
+
+## Overt narcissist - otevření narcisové - otevřeně agresivní lidé
+
+*   Cholerici, co se brzy odhalí
+*   Brzy zjistíte, že pohrdají lidmi
+*   Když začnou pohrdat i Vámi, nejspíše na to přijdete - neumí se tolik ovládat a přetvařovat
+*   Brzy si o nich uděláte svůj vlastní obraz a nepustíte si je k tělu příliš blízko a nebudete od ních mít přehnaná očekávání blízkosti aj.
+
+*   Těmto lidem normálně říkáme náfukové nebo arogantní blbové, hulváti aj. a držíme se od nich dál
+
+*   Tito lidé nejsou to největší nebezpečí pro Vás a Vaši psychiku
+
+## Covert narcissist - skrytě pasivně agresivní maskovaní narcisové
+
+*   Tito jsou podobní jako ti overt, ale jsou mnohem rafinovanější a mnohem záludnější a představují skutečné nebezpečí
+*   Jejich zevní fasáda bývá zcela dokonalá - šarmatní, elegantní, dokonalí ve všem, co prezentují, bezchybní, pěkně obelčení, upravení, suverénní, sebejistí, přátelští, vtipní, akční, cokoliv, co si jenom vzpomenete...
+
+*   V krátkém okamžiku Vás dokáží uplně uchvátit, ohormit, okouzit, omámit,...
+
+*   Rychle si je oblíbíte a těšíte se na to, kdy je potkáte příště
+
+*   Většinou jsou o něco chytřejší a rafinovanější než overt narcissist, ale závidí jim jejich schopnost dát průchod svým pravým emocím, které strategicky potalčují
+
+*   Možná i ze strachu z toho, co všechno by se stalo, kdyby lidé kolem zjistili, co si o nich skutečně myslí
+
+*   Takže tihle arogantní hrubiáni jim imponují jako hrdinové, co jim mulví z duše a tím jsou jim sympatičtí a ještě je obdivují
+
+*   Samozřejmě velmi dobře vědí, jak se mají chovat, aby je i tito lidé milovali - jsou jim tak podobní, že to pro ně není ani těžké
+
+*   Není tedy náhodou, že těmto lidem velmi imponují právě tito otevřeně narcističtí jedinci
+
+*   Bývají to jejich nejlepší kamarádi
+
+*   Skrytě pasivní narcisové vedle nich září jako diplomaté, kteří naoko urovnávají jejich aféry a výstupy u ostatních
+
+*   Ale ve skutečnosti se dokonale baví tím, proti komu dalšímu poštvou svého agresivnšjšího parťáka a jaká u toho budou hrát neviňátka
+
+*   Budou se bavit vzniklou situací, dramatem
+
+*   I když se budou stavět do pozice toho nejférovějšího pozorovatele, učitele nebo jaké autority, časem si budete klást otázky:
+
+*   Jak je možné, že tak úžasný člověk si vybral za nejlepšího kamaráda takového podrazáka, náfuku, arognantího protivného člověka, který pohrdá všemi fajn lidmi kolem
+*   Jak je možné, že chodí s holkou, co má tak neuvěřitelně nos nahoru........nebo naopak, co je tak neuvěřitelně uťáplá a tichá...
+*   Jak je možné, že člověk s tak dobrým postřehem a schopností dokonale zapadnout do jakékoliv společenské atmosfery, může koukat na to, jak se jeho drzý kamarád nestydatě odporně naváží a vysmívá někomu dalšímu ve skupině a nezastane se ho, jen tiše přihlíží nebo se blbě usmívá?
+
+*   Ne nadarmo se říká, že narcistu zvládne rozdýchat nebo ovldánout ještě jenom větší narcista
+
+*   Takže pokud nejste tohle, tak raději vezměte [nohy](?p=nemoci-sympt/dk) na ramena
+
+### O narcistických osobnostech
+
+*   Není nad to vidět a slyset, jaká je realita
+
+*   Zbavte se posledních iluzí a přestaňte se trápit tím, že jste přišli o přízeň nějakého skvělého člověka
+
+*   Celé to charisma je jen pár laciných triků, které se také můžete naučit
+
+*   Manipulátor to má jenom jako kouřovou clonu, opiovou vlnu, které mu slouží jenom k tomu, aby dostal, co chce
+*   Mysleli jste si, že vás má rád a že tomu neskutečně dokonalému člověku že na vás záleží, ale byli jste jenom lapeni do jakési laciné iluze - dobře secvičené hry, nic víc. Nevěděli jste, co je skutečná láska a tak jste to sežrali i s navijákem a nabídli jste svá srdce a teď si jen bolestně rvete háček až z hloubi hrudníku. Udělejte to však, dokud ještě visíte nad [vodou](?p=leky-latky/h2o) vašeho rybníčku...
+
+*   Pochopení vám pomůže
+
+*   Přestat se tím trápit
+*   Přestaňte ho vidět jako někoho skvělého, kdo se jevil na začátku - byla to jen maska
+
+*   Je to jen součást dokonalé strategie manipulátorů a narcisů - nic víc
+*   Prokoukněte jejich hru, zbavte se svých iluzí
+*   Viďte realitu
+
+*   Chtějí jediné – zůstat s Tebou ve spojení dokud je jim to výhodné - a jenom když se jim to bude hodit
+*   Co milují, jsou benefity, které jim dává Tvoje poslušnost.
+*   Pro udržení tohoto spojení jim stačí dělat minimum.
+*   Občas telefonát, občas esemeska, občas vlídné slovo.
+*   Hlavně ale kontrolují to, zda na ně myslíš.
+*   Udržují spojení, aby – kdykoli to potřebují – Tě mohli přitáhnout, nebo šlehnout.
+*   Mnozí si myslí, že jim to dává energii – když mají moc nad druhými.
+*   Ve skutečnosti úspěšní manipulátoři získávají mnohem víc
+
+*   Svobodu
+*   Nadřazenost
+
+*   Oběť akceptuje to, co by žádný rozumný člověk neakceptoval.
+*   Přichází o přátele, majetek i sebe sama.
+*   Z „lásky“ je schopna zříci se čehokoli.
+
+*   Dokonce i odchodu od manipulátora.
+
+*   Manipulátoři nejsou hlupáci. Proto jsou tak zákeřní.
+
+*   Na světě neexistuje nebezpečnější kombinace než špatný člověk se skvělými schopnostmi.
+
+*   Jde za tím, co chce, bez ohledu na to, komu nebo kolika lidem ublíží.
+
+*   Často se chová jako ten, komu bychom měli pomoci.
+
+*   Když se o to ale pokusíme a všechno mu obětujeme, ve výsledku jsme ti špatní.
+
+*   Potřebujete pochopit že manipulace a láska jsou dvě různé dimenze
+
+*   Jako černá a bílá
+*   Nikde se neprolínají
+*   Kde je láska, není manipulace
+*   Kde začíná manipulace, tam skončila láska
+*   Je třeba to vnímat hned u prvního kroku
+
+#### Pár oči otvírajích přednášek
+
+-lidé na kterých býváme závislí
+
+*   Jak nás v té závislosti drží a proč
+*   Jak nám záměrně svým chováním působí bolest a proč
+*   Jak s tím naložit
+
+*   Přestaňte je pořád za něco omlouvat, ubližují vám naprosto vědomě a záměrně. Nejsou jako vy a nemilují Vás. Užívají si tu moc nad vámi. Baví je to.
+
+*   [www.youtube.com/watch?v=ZSc54LWSNlA](http://www.youtube.com/watch?v=ZSc54LWSNlA)
+*   [www.youtube.com/watch?v=_Q30qFspvNM](http://www.youtube.com/watch?v=_Q30qFspvNM)
+*   [www.youtube.com/watch?v=SBB1frSKkug](http://www.youtube.com/watch?v=SBB1frSKkug)
+*   [www.youtube.com/watch?v=6S92B99j6AY](http://www.youtube.com/watch?v=6S92B99j6AY)
+*   [www.youtube.com/watch?v=6S92B99j6AY](http://www.youtube.com/watch?v=6S92B99j6AY)
+*   [www.youtube.com/watch?v=2oiQ708Q7D0](http://www.youtube.com/watch?v=2oiQ708Q7D0)
+*   [www.youtube.com/watch?v=-WVLZXLyO-M](http://www.youtube.com/watch?v=-WVLZXLyO-M)
+
+### Rysy manipulátora dle Isabelle Nazare-Aga
+
+#### Osobnost, která vyhovuje aspoň 10-ti znakům:
+
+*   Je egocentrický.
+*   Přenáší zodpovědnost ze sebe na druhé.
+*   Navozuje u oběti pocit viny.
+*   Nesděluje jasně své požadavky, potřeby.
+*   Odpovídá většinou neurčitě.
+*   Mění své postoje podle situace a podle osoby, s níž právě komunikuje.
+*   Své potřeby zakrývá logickými důvody.
+*   Požaduje od druhých dokonalost, neměnnost názorů apod.
+*   Zpochybňuje kvality druhých, nenápadně druhé kritizuje a soudí, hovoří o nich s despektem.
+*   Rád komunikuje nepřímo. Přes třetí osobu, telefonicky, písemně apod.
+*   Zasívá nesvár, podněcuje podezíravost. Rozděluje, aby mohl lépe panovat.
+*   Často ze sebe dělá oběť, aby ho ostatní litovali.
+*   Nedbá na žádosti druhých, přičemž tvrdí pravý opak.
+*   Využívá morálních zásad druhých k naplnění vlastních potřeb.
+*   Citově či jinak vydírá nebo vyhrožuje. Skrytě nebo otevřeně.
+*   Často mění téma uprostřed hovoru.
+*   Vyhýbá se pracovním schůzkám a poradám.
+*   Zaměřuje se na neznalosti druhých a snaží se tak vyvolat dojem, že „má navrch“.
+*   Lže.
+*   Hlásá lež, aby se dozvěděl pravdu. Překrucuje a interpretuje výroky druhých.
+*   Závidí třeba i osobám velmi blízkým.
+*   Nesnáší kritiku. Dokáže popírat zcela zřejmá fakta.
+*   Nedbá na práva, potřeby a přání druhých.
+*   Často vydává pokyny a nutí druhé jednat na poslední chvíli.
+*   Jeho slovní projev zní logicky, avšak jeho postoje, činy nebo způsob života svědčí o pravém opaku.
+*   Dává dary, snaží se zalíbit, lichotí a nečekaně projevuje drobné úsluhy.
+*   V jeho přítomnosti se ostatní cítí nepříjemně a nesvobodně.
+*   Jde naprosto důsledně za svým cílem, ovšem na úkor druhých.
+*   Přiměje oběť k jednání, které by o vlastní vůli nedopustila.
+*   Lidé, kteří ho znají, o něm stále hovoří, i když není přítomen.
+
+### Nejlepší ochrana je rychlé rozpoznání s kým máte skutečně tu čest
+
+*   [How to Rip the Mask Off a Narcissist](https://www.youtube.com/watch?v=b3VL342M8K8&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI&index=291)
+*   [Best Way of Dealing With a Sociopath](https://www.youtube.com/watch?v=NU1SGqUEk4M&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI&index=32)
+*   [3 Words The Narcissist Will Never Say](https://www.youtube.com/watch?v=6PUOV57fR8s&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI&index=46)
+*   [Psychopathen und Soziopathen - Rüdiger Lenz über die Gesichter des Bösen](https://www.youtube.com/watch?v=haQtW6gjkDA&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI&index=136)
+*   [Using Your Body to Recognize a Toxic Person or Situation](https://www.youtube.com/watch?v=EBkx6rkSPDE&index=230&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI)
+*   [4 Behaviors That Unmask Narcissists | Conscious Reminder | #BeTheLight](https://www.youtube.com/watch?v=ibRPC8urm-w&index=338&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI)
+
+#### Pak se nestane
+
+*   že jim svěříte peníze, citlivá data,
+*   že vás jejich lhaní zaskočí,
+*   že byste se vystavili riziku, že na nich budete závislí
+*   že byste jim dovolili rozhodovat o vašem životě či dětech
+*   že nad vámi budou mít nepřiměřenou moc a vytřou si s vámi...
+*   že by vás dostali do deprese, bezmocnosti a dohnali k sebevraždě či jiné zoufalosti
+
+Pro každého člověka je vitálně důležité umět tyto lidi včas rozpoznat a chránit se před nimi a jejich predátorskými tendencemi.  
+
+## Diagnostika
+
+*   Pasivně agresivní narcistická osobnost
+*   Forma sociopata / sociálního deprivanta
+*   Lehká dokonale maskovaná úspěšná forma psychopatie
+*   Alfa samci a alfa samice a jejich stinná zákoutí
+
+#### Varovné symptomy
+
+*   [www.bezpecnavina.cz/](http://www.bezpecnavina.cz/)
+*   [www.psychotesty.psyx.cz/texty/narcisticka-porucha-osobnosti.htm](http://www.psychotesty.psyx.cz/texty/narcisticka-porucha-osobnosti.htm)
+*   Hlavní příznak - utrpení lidí kolem, kteří odpadávají s bolestí v duši
+*   [ona.idnes.cz/pet-rysu-podle-nichz-poznate-narcistu-dhc-/vztahy-sex.aspx?c=A150429_215941_vztahy-sex_jup](http://ona.idnes.cz/pet-rysu-podle-nichz-poznate-narcistu-dhc-/vztahy-sex.aspx?c=A150429_215941_vztahy-sex_jup)
+*   [www.bezpecnavina.cz/result/report/?id=O4C5](http://www.bezpecnavina.cz/result/report/?id=O4C5)
+*   [7 Things That Terrify Narcissists To Their Core | Conscious Reminder | #BeTheLight](https://www.youtube.com/watch?v=2ZuJwOPmIJg&list=PLBZ0PvBLzy2pbKzEwuq5V1LQ5GGbUK3QI&index=35)
+
+## Narcistická porucha osobnosti
+
+*   Ranné dětské trauma vlivem manipulujícího rodiče - pak je však otázka, co bude z dětí
+
+*   Buď si ditě zažije tak silné znusení z těchto způsobů, že mu to bude cizí, ale nadále bude zranitelné vůči podobným osobnostem - tedy tendence stát se kodependentním na nějakém dalším manipulátorovi, co bude rodičovi podobný v jeho způsobech
+*   Nebo se ditě hbitě naučí tyto strategie aplikovat nazpět a na všechny kolem a vašechny tímto způsobem také ovládat, aniž by mu to připadalo nějak nefér nebo blbé - zcela nekriticky přejme strategie svých rodičů a dál je zdokonaluje... a stane se z něj takovej neferovej hajzl, co si ničeho a nikoho neváží, jen sebe
+
+*   Narazila jsem na psychologické definice narcistické poruchy osobnosti v českém jazyce
+
+*   A tam se tímto pojmem označovaly defacto všechny důsledky dětských traumat, které mají dopad na utváření pocitu vlastní hodnoty, schopností aj.
+*   Tedy bez ohledu na to, zda to vedlo u člověka k závislosti a rozpadu vlastní sebedůvěry a sebehodnoty nebo naopak k malignímu opaku - narcismu v užším slova smyslu s nabubřelým egem a pocitem vlastní důležitosti
+*   Tento aspekt a pojmenování značně ztěžuje orientaci v tom, kdo hraje roli beránka a kdo vlka a kdo je více ohrožen...
+*   Zohledňuje však lépe realitu toho, že svět není černobílý a tyto 2 aspekty se často prolínají skrz na skrz a že ne vždy je beránek od vlka snadno čistě odříznutelný
+
+*   S jedním člověkem / v jednom prostředí může být tentýž člověk "uťápnutý" v jiném prostředí naopak silně dominantní. Extrémy považuji za známku poruchy, která právě může být někde jinde obdobně extrémně silně kompenzována.
+
+*   Lze se tedy bavit o nějaké plynulé škále přecházejícího z 1 extrému do druhého a lidi, kteří mají narušené těžičtě na této škále nějakým traumatem, se mohou posunovat do extrémních poloh v závislosti na okolnostech a dalších apsektech jejich osobnosti
+
+*   Toto pojetí je však jen takové zevní pro zevního pozorovatele
+
+*   Nezohledňuje zásadní moment
+
+*   **skutečné úmysly a hnací motivační síly hráčů a jejich vnitřní etiku - žebříček hodnot ap.**
+*   Typ jejich emočních deficitů, ambice, a to kam směřují
+*   Jejich schopnost empatie - soucitu s ostataními lidmi
+
+### Predátorská narcisitická osobnost
+
+*   Necítí soucit s ostatními - jenom se sebou
+
+*   Soucit s ostatními lidmi jenom předstírá, když se snaží je zmanipulovat na svoji stranu
+*   Pohání je především touha po tom být obdivováni, mít moc, kontrolovat a ovládat ostatní, být navrcholu, nejlepší, nejkrásnější, nej..., nej... ev. mít peníze aj.
+
+*   Na tomto pocitu a jeho neustálém dokazování si a potvrzování si toho může být takto směrovaný člověk závislý
+
+*   Nutkavě aktivní v tomto směru
+*   Zažívající silné pocity dyskomfortu až paniky a ohrožení, pokud se mu to nebude dařit nebo když mu to někdo překazí...
+
+### Závislá osobnost
+
+*   Může také manipulovat
+
+*   Také tím chce získat to, co jí v duši chybí
+
+*   Je to však přijetí, hřejivý pocit lásky, pocit vlastní ceny a hodnoty, ochranu, jistotu, harmonii........
+*   Touží po tom, aby s nimi byla druhá osoba šťastná, aby pro ni nebyli zklamáním, aby jí byli dost dobří....
+*   O peníze, ambice, kontrolu a ovládání či moc jim nejde, nepřejí si utrpení druhých lidí, nesní o své slávě a obdivu druhými.....
+
+*   Soucit - empatii - však mají
+
+*   Když vidí druhé lidi trpět, je jim smutno a trpí také...přejí si pomoct jim a cítí se zle, když nemají jak
+
+*   Jsou plni strachu z toho, co si o nich kdo pomyslí špatného
+
+*   A tak jsou tím ovladatelní
+*   Jsou závislí na dobrém mínění druhých lidech o nich
+
+*   Nevyžadují zbožňování a bezmezný obdiv a poslušnost jako predátorské osobnosti
+
+*   Jsou v tomto ohledu mnohem skromější, touží jen po lásce a přijetí, ne o podřízenosti a oddanosti
+*   Partnera vnímají jako živou bytost, ne jako věc k použití
+
+*   A tak jim nakonec imponují ti nehorázní suveréni, kteří nemají strach ze selhání, z odmítnutí, ze ztrapnění se, z....
+
+*   Lidé, kteří si z ničeho nic nedělají (narcistická osobnosti si z druhých lidí nic nedělá, když si jich neváží...)
+
+*   Co jedněm chybí, kdruhým přebývá....
+
+*   Skoro by se dobře doplňovali, ale všechno to pak nějčastěji krachne na tom, že narcisitcká osobnost si neumí nikoho a ničeho doopravdy vážit
+
+*   Ani svých oddaných závislých osob
+
+*   Jednu po druhé budou postupně vykořisťovat a vydeptávat a následně odhazovat podle potřeby
+
+*   Citově se nenavážou, nesoucítí, neberou ohledy na emoce druhých lidí
+
+*   Ani jeden z těchto partnerů není duševně zralý a vyrovnaný
+
+*   šanci na dozrání a změnu v životě má ten, kdo zažívá emoční bolest - skutečnou - nikoliv předstíranou, pokdu je schopen připustit, že něco je jinak nebo hodně špatně
+
+*   Celá věc potom vede k tomu, že tito 2 emočně nedovivinutí partneři jsou k sobě přitahováni
+
+*   A narcisitcký partner zneužívá touhy po přijetí a strachu ze samoty svého závislého partnera, který "se necítí být dost dobrý"
+
+*   Oba dva mají emoční deficity, své vlastní závislosti a touhy si něco doplnit
+
+*   Oba se dopouští různých zkreslní
+*   Oba mají nereálná očekávání od vztahu a druhého z partnerů
+*   Oba se dopouští nějakých iluzí
+*   Možná oba používají něaké manipulace
+*   Oba mají lehce posunuté vnímání toho, co je zdravý nebo normální vztah
+
+*   Snadno se v tom ten méně jistý partner zamotá až po uši...a nechá si namluvit, že on je ten zlý a že všechno zlé, co se děje, je kvůli němu
+
+*   Ten závislý - "codependent", co o sobě pochybuje
+
+*   Si snadno nechá rozložit své vlastní vnímání reality tím druhým, co je nezdravě suverénní
+*   Díky schopnosti sebekritického náhledu závislejší osobnost pak i snadno uvěří všem možným výmyslům - projekcím, které mu podsune jeho narcistický partner = gaslighting - včetně toho, že on sám je
+
+*   Psychicky narušená, zlá, narcistická osobnost, žárlivá, sobecká, manupulující, závislá, psychicky nevyrovnaná co potřebuje nějakého ochránce, hyperprotektivní, depresivní, vztahovačná, nemožná, nespolehlivá, neschopná, nepořádná, nehezká, hloupá, atd.......
+
+*   Závislý člověk na lásce druhého cítí enormní zničující bolest, když vidí byť i jen prchavé projevy pohrdání, nenávisti nebo nelásky...
+
+*   Asi jako malé dítě, když cítí, že ho jeho milovaná maminka nesnáší, nenávidí ap... málo co bolí víc - dítě v tu chvíli ztrácí chuť do života a chce umřít - častá reakce - ale mohou se objevit i jiné vystupňované intenzivní emoce.....a mohou se pak ve vztahu s partnerem v dospělosti spuštět, když ten se začne chovat jako rodič kdysi...
+*   Manipulátor bez empatie, kterému nezáleží na tom, aby se jeho partner vedle něho cítil dobře, ale jen na tom, aby ho mohl kontrolovat - k čemukoliv donucovat nebo trestat podle chuti, aby si tím spravil pocit sám ze sebe a ze své moci - umí dokonale takto citlivého partnera mučit a bavit se tím
+
+*   Dokonce před očima celého zástupu lidí, kteří si vůbec nevšimnou těch jemných zdrcujících signálů v komunikaci, které manipulátor posílá přímo do srdce závislého
+
+*   Umí ho vybrnkat tak, aby před pozorovateli zvenčí vypadl jako psychicky nemocný člověk a aby se tak sám dokonce i cítil
+
+*   Vězte, že pokud se vám to s nějakým člověkem děje znovu a znovu a vy pořád jen hledáte chybu sami v sobě a jen je vám pokaždé hůř a hůř z toho, jak jste vztahovační, jak vám je líto, že vás zase ignoruje, že vás zase zazdil, že se vám zase za něco posmívá, že se mu na vás zase něco nelíbí, že se k vám zase uprostřed řeči otočil zády..., tak vězte, že váš nejvyšší hřích spočívá v neschopnosti vidět realitu a vidět, že vám to ten prevít dělá schválně a že je to zlý úmysl vůči vám, a i kdyby nebyl, ať je to cokoliv, není to žádná láska ani projev sympatií a že kdybyste vy sami sebe měli skutečně rádi a nezpochybňovali své emoce a pocity z toho člověka a vyslechli svoji ukřivděnou dušičku, jako to měla dělat vaše milující matka a naučit vás to, věděli byste hned, že to není ždáná láska ani kamarádství a že tohle všechno je potřeba jít hledat jinám.
+
+*   Ale protože tohle všechno vám asi chybí, vidět realitu je tak děsně bolestivé, že ji raději popřete na úkor vlastního duševního zdraví i kdybyste ji měli před očima, ušima a nebo na vlastní kůži cítili, že vás bije.....v některých případech
+
+*   Děti mají někdy představu, že když vydrží bití a snesou všechny iracionální i přehnané tresty rodičů, že ti je budou mít radši... Co všechno si pak nechají ve své naději na zlepšení vztahu nechat líbit od patologického partnera, to je neuvěření - než aby si připustili, v jaké strašlivé hrůze žijí zcela zbytečně a jak si nechávají mařit život nějakým hajzlem, raději hledají zdůvodnění, proč si to celé přivodili nebo zasloužili a zdůvodnění sahají od boha a různých duchovních mouder až po sebeobviňování a sebeponižování
+
+*   Realita je dále totálně nepřehledná pro lidi z vneční, když se vlk dokonale přepíná do modu hodného beránka, když se potřebuje zamaskovat před širším publikem, že nakonec křivdou a zklamáním rozzuřený beránek může vypadat jako vlk, kterého je potřeba odstřelit
+
+-----
 
 ### Web odkazy obrana proti manipulaci:
 
