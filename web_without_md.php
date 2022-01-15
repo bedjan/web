@@ -182,242 +182,79 @@ echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: 
 
      
 <?php
-if ($sekce == "web"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/web.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "mm"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/mm.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "radia"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/radia.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "linux"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/linux.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "linux-cli"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/linux-cli.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "systemd"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/systemd.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "php"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/php.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "git"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/git.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "markdown"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/markdown.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "ekologie"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/ekologie.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "php"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/php.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "germanismy"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/germanismy.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "vyziva"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/vyziva.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "lecba"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/lecba.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "polstina"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/polstina.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-
-if ($sekce == "rec"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/rec.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "narcismus_poznamky"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/narcismus_poznamky.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-
-if ($sekce == "manipulace"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/manipulace.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "zivotopis"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/zivotopis.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "predpony"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/predpony.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "sociologie"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/sociologie.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "psychosomatika"){
-include('Parsedown.php');
-$html = file_get_contents('https://raw.githubusercontent.com/bedjan/web/main/psychosomatika.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-
-if ($sekce == "hooponopono"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/hooponopono.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-
-if ($sekce == "asertivita_pro_pozemske_andely"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/asertivita_pro_pozemske_andely.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "knihy"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/knihy.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "nemcina"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemcina.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "nemecka_gramatika"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemecka_gramatika.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "nemecko"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/nemecko.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "vadim-zeland"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/vadim-zeland.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "carnegie"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/carnegie.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "sociologie"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/sociologie.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
-if ($sekce == "dan"){
-include('Parsedown.php');
-$html = file_get_contents('https://github.com/bedjan/web/raw/main/dan.md');
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
-}
-
+$urls = "https://github.com/bedjan/web/raw/main/" . $sekce .".md" ;
 ?>
+
+<?php
+include('Parsedown.php');
+
+switch ($sekce) {
+
+case web;    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;
+
+case linux;    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;
+
+
+case linux-cli;    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;
+   
+case mm;    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;   
+   
+   
+}
+?> 
+
 
  <br />  
 
