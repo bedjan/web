@@ -1,8 +1,8 @@
 ### Obrana
 
-- vyjádřit hněv, odpor, ignorace
+- vyjádřit hněv, odpor, ignoraci
 
-- zaútočit na jejich stud (" Že se nestydíte" , " Jak se to chováte")
+- zaútočit na jejich stud, stačí i pohled beze slov (" Že se nestydíte" , " Jak se to chováte")
 
 
 ### Web odkazy obrana proti manipulaci:
