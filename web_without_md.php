@@ -84,7 +84,7 @@ $pages = array(
 'vyziva' => 'Výživa',
 'narcismus_poznamky' => 'Narcismus -poznamky',
 'manipulace' => 'Manipulace',
-'Sociologie' => 'Sociologie',
+
 'lecba' => 'Léčba',
 'psychosomatika' => 'Psychosomatika',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
@@ -97,7 +97,7 @@ $pages = array(
 'nemcina' => 'Němčina',
 'nemecka_gramatika' => 'Německá gramatika',
 
-'germanismy' => 'germanismy',
+'germanismy' => 'Germanismy',
 'rec' => 'Řeč',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
 'hooponopono' => 'Hooponopono',
@@ -106,7 +106,7 @@ $pages = array(
 'vadim-zeland' => 'Vadim Zeland',
 'carnegie' => 'Carnegie',
 'narcismus_poznamky' => 'Narcismus -poznamky',
-'manipulace' => 'manipulace',
+'manipulace' => 'Manipulace',
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
