@@ -23,6 +23,89 @@ Vřele doporučuji Codependents Anonymous pro ty, kteří se snaží osvobodit z
 
 Pokud jde o pomoc narcisovi...hmmmm, nejlepší je setřást prach z nohou a vyhýbat se, aby neměli šanci vás zneužít. Jedinou nadějí pro narcisty je, že si vypěstují závislost a mohou hledat pomoc tam, kde se mohou naučit jiný způsob, jak se vztahovat ke světu. Anonymní alkoholici jsou v současnosti nejlepší léčebnou modalitou pro narcistický typ...ale šance na uzdravení jsou mizivé.
 
+-----
+
+# Co je to spoluzávislost?
+
+Pokud jste zavítali na tuto stránku, je pravděpodobné, že jste již někde narazili na termín „spoluzávislost“, „kodependence“ nebo anglicky „codependency“. Možná máte nějakou představu, co se pod těmito pojmy skrývá, a tušíte, že by mohli mít něco společného s vámi a vaším duševním stavem.
+
+Definic spoluzávislosti je mnoho a všechny se vzájemně doplňují a prolínají. Nejedná se o vědecky uznávaný termín, proto je těžké ho v plné šíři postihnout.
+
+*   Spoluzávislost může znamenat, že máme potřebu se stále starat o druhé místo o sebe.
+*   Spoluzávislý člověk se nechává ovlivňovat chováním druhých (ať už partnerů, přátel, rodiny nebo dětí), a zároveň je posedlý kontrolováním tohoto chování.
+*   Spoluzávislý se ve svých vztazích pohybuje v [trojúhelníku](https://www.pronaladu.cz/potrebuji-jsem-bezmocny/), kde střídá role oběti, zachránce a potřebného.
+*   Spoluzávislý potřebuje ve své blízkosti někoho, ke komu by se mohl připoutat a jehož problémy převzít jako svoje – je to pro něj totiž jednodušší, než se starat o svoje vlastní.
+*   Spoluzávislí lidé často vyhledávají vztahy se závislými (alkoholici, drogově závislý, workoholici…) nebo mentálně nemocnými (narcisové, lidé s hraniční poruchou osobnosti nebo lidé trpící chronickou depresí).
+*   V těchto vztazích je často dlouhodobě nespokojený, ale přesto je neopustí, protože cítí potřebu druhého jedince zachránit nebo mu neustále pomáhat. Často si tuto nespokojenost ani neumí připustit (spoluzávislí jsou experty v sebeklamu a popírání).
+*   Vztahy spoluzávislých jsou založené na pocitu „potřebnosti“, spoluzávislý nechce být ve vztahu s rovnocenným partnerem.
+*   Spoluzávislí mají problémy naplňovat své potřeby – často si je vůbec neuvědomují nebo je popírají, a už vůbec si o jejich naplnění nejsou schopni říct. Automaticky se ale snaží naplňovat potřeby druhých, ač jsou třeba domnělé.
+
+Žádný z těchto rysů není definující, ale jedná se o ty z nejčastějších případů. Protože je spoluzávislost tak těžké postihnout, uvádíme na konci této stránky i vyčerpávající seznam projevů a charakteristik.
+
+#### Je se mnou něco špatně?
+
+Než se do něj ale začtete, je nutné podotknout jednu zásadní věc: **pokud u sebe rozpoznáte některé z těchto problémů, v žádném případě to neznamená, že jste špatní, podřadní nebo „poškozené zboží“.** Drtivá většina těchto vzorců chování pochází z období dětství, kdy jsme se je byli donuceni naučit čistě kvůli vlastnímu přežití (ať už fyzickému nebo emocionálnímu).
+
+Jako děti jsme nebyli schopní pochopit složitý svět kolem nás a protože většina z nás vyrůstala s více či méně narušenými nebo nemocnými lidmi, nezbylo nám než se obrnit těmito a dalšími mechanismy, které nám pomohly projít dětstvím v relativním bezpečí. V danou chvíli jsme naši situaci lépe zvládnout nemohli.
+
+Tyto mechanismy ale postupně přestaly být užitečné a potřebné a nakonec pro většinu z nás přerostly v chiméru, která nás udržuje konstantně zmatené, zraněné a ztracené. Je načase se jich zbavit a nahradit je lepšími.
+
+Pokud byste si chtěli přečíst o spoluzávislosti více, doporučujeme nahlédnout do naší sekce [Často kladených otázek](http://codependentanonymous.cz/beta/casto-kladene-otazky/). A pokud na vaši otázku nenaleznete odpověď ani tam, [neváhejte nás kontaktovat](http://codependentanonymous.cz/beta/kontakt/). 🙂
+
+
+
+
+
+#### Mohu s tím něco udělat?
+
+Pokud se v některých z těchto rysů vzhlédnete a rozhodnete se, že byste se o nich rádi pobavili s lidmi v podobné situaci nebo se dozvěděli něco o možných způsobech, jak se je naučit zvládat a změnit, rádi vás uvidíme na jednom z [našich  
+setkání CoDA](http://codependentanonymous.cz/beta/nase-setkani/).
+
+CoDA? Cože? Pokud jste slyšeli o organizaci Anonymních alkoholiků, bude vám princip CoDA – Codependent Anonymous – velice povědomý. Jedná se o sdružení spoluzávislých, kteří se pravidelně scházejí a navzájem se podporují na jejich cestě k uzdravení.
+
+Více si o nás můžete přečíst v sekci [Od čeho je tu CoDA](http://codependentanonymous.cz/beta/vitejte-v-coda/), případně se přímo zastavit na jednom z [Našich setkání](http://codependentanonymous.cz/beta/nase-setkani/). **Účast je zdarma, zcela anonymní a všechny nově příchozí vítáme s otevřenou náručí a pochopením. Všichni z nás kdysi stáli na vašem místě.**
+
+Pokud se na naše setkání z jakéhokoliv důvodu necítíte nebo nemůžete dorazit, v sekci [Často kladených otázek](http://codependentanonymous.cz/beta/casto-kladene-otazky/) jsme připravili krátký text, který by vám mohl pomoci.
+
+A nyní konečně zpět ke slibovaným projevům spoluzávislosti:
+
+**Projevy popírání:**
+
+*   Je pro mě obtížné uvědomit si, co doopravdy cítím.
+*   Minimalizuji, zlehčuji nebo popírám, jak se doopravdy cítím.
+*   Sám sebe vnímám jako zcela nesobeckou osobu oddanou dobru a prospěchu druhých.
+
+**Projevy nízké sebeúcty:**
+
+*   Je pro mne obtížné učinit rozhodnutí.
+*   Posuzuji všechno co myslím, říkám nebo konám nekompromisně a tvrdě jako „nikdy dost dobré“.
+*   Činí mi potíže a vyvádí mě z míry, když mám přijmout pochvalu, ocenění nebo dárek.
+*   Nežádám druhé, aby naplnili moje potřeby nebo touhy.
+*   Cením si ohodnocení svých myšlenek, pocitů a chování druhými více než vlastního sebehodnocení.
+*   Nevnímám sám sebe jako cennou osobu hodnou lásky.
+
+**Projevy přizpůsobování:**
+
+*   Snižuji a přizpůsobuji své vlastní hodnoty a omezuji svou integritu, abych zabránil odmítnutí nebo hněvu druhého člověka.
+*   Jsem velmi citlivý k tomu, jak se cítí druzí, a cítím se stejným způsobem.
+*   Jsem extrémně loajální, což mě vede k tomu, že zůstávám v situacích pro mě škodlivých příliš dlouho.
+*   Hodnotím názory a pocity druhých lidí výše než své vlastní a bojím se vyjádřit odlišné názory a své vlastní pocity.
+*   Stavím stranou své vlastní zájmy a koníčky, abych mohl udělat to, co chtějí druzí.
+*   Přijímám sex tam, kde bych chtěl lásku.
+
+**Projevy kontroly:**
+
+*   Věřím, že většina ostatních lidí není schopná se sama o sebe postarat.
+*   Snažím se přesvědčit druhé o tom, co by si „měli“ myslet a jak se „doopravdy“ cítí.
+*   Cítím se mrzutý a ukřivděný, když mi ostatní nedovolí, abych jim pomohl.
+*   Nabízím druhým rady a směrnice jednání, aniž bych byl o to žádán.
+*   Zahrnuji dárky a pozornostmi ty, o které stojím, na kterých mi záleží.
+*   Používám sexu, abych získal ocenění a přijetí.
+*   Musím se cítit „potřebný“, abych mohl mít vztahy s druhými.
+
+
+-----
+
 # Coda Kniha
 
 ## PRVNÍ KAPITOLA
