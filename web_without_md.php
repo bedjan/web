@@ -27,7 +27,6 @@
 	<body>
 		
 
-<a href="http://www.google.com" target="_blank" onclick="window.open(&quot;http://www.facebook.com&quot;); window.open(&quot;http://www.seznam.cz&quot;);">Top</a>
 
 
 
