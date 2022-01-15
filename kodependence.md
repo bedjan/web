@@ -1055,8 +1055,7 @@ K dokončení Čtvrtého kroku je k disposici mnoho různých metod. Jedna z nic
 znázorněna na straně XY. Při procházení našeho života, minulého i současného, sepíšeme seznam
 lidí, kteří byli zasaženi a ovlivněni naším kodependentním chováním. Do seznamu zahrneme Boha,
 sebe samé, naše partnery, děti, přátele, rodinné příslušníky, kolegy z práce a všechny, kdo se s námi
-účastní různých činností.
-Do druhého sloupce vypíšeme naše kodependentní chování vůči každému z těchto lidí a v každém vztahu. 
+účastní různých činností.Do druhého sloupce vypíšeme naše kodependentní chování vůči každému z těchto lidí a v každém vztahu. 
 Může být obtížné si vzpomenout na konkrétní specifické chování. Toto chování je definováno v pěti 
 oblastech: emocionální, fyzické, sexuální, duchovní a intelektuální. Naše chování mohlo zahrnovat 
 například následující: lhaní distancování se manipulování trestání vyhýbání se snižování zapírání 
