@@ -6,7 +6,7 @@ Doporučené odkazy na weby, které vám usnadní cestování.
 ##  Doklady a víza
 
 
-[Ministerstvo zahraničních věcí(http://www.mzv.cz)
+[Ministerstvo zahraničních věcí](http://www.mzv.cz)
 [Kam se dostanu bez víza - pasy všech států](http://www.passportindex.org)
 [Platnost víza v zahraničí pro ČR](http://www.viza.cz)
 [Mapa nejlevnějších zemí světa](http://www.zivotnabali.cz)
