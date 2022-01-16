@@ -122,6 +122,7 @@ $pages = array(
 'zalesactvi' => 'Zálesáctví',
 'akupresura_prvni_pomoc' => 'Akupresura první pomoc',
 'voda' => 'Voda',
+'zivot' => 'Život',
 
 ) ;
 
@@ -898,7 +899,22 @@ if($html === false)
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
-   break;       
+   break;     
+          case    zivot;
+    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;   
 }
 ?> 
 
