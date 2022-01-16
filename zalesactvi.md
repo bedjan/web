@@ -10,3 +10,5 @@
 
 [Stravování v přírodě](https://www.kurzypreziti.cz/clanek/4/Stravovani-v-prirode)
 
+[Survival manual](https://github.com/bedjan/web/raw/main/Millis%20survival%20manual%20-%202019-12.pdf)
+
