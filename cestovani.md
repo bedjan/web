@@ -6,15 +6,15 @@ Doporučené odkazy na weby, které vám usnadní cestování.
 ##  Doklady a víza
 
 
-[Ministerstvo zahraničních věcí](http://www.mzv.cz)
-[Kam se dostanu bez víza](pasy všech států](http://www.passportindex.org)
+[Ministerstvo zahraničních věcí(http://www.mzv.cz)
+[Kam se dostanu bez víza - pasy všech států](http://www.passportindex.org)
 [Platnost víza v zahraničí pro ČR](http://www.viza.cz)
 [Mapa nejlevnějších zemí světa](http://www.zivotnabali.cz)
 [Cestovní pas – ceny, lhůty, platnost](http://www.cestujlevne.com)
 [Levné cestovní pojištění od Colonnade](http://www.colonnade.cz)
-[Cestování na občanský průkaz](kam a za jakých podmínek?](http://www.cestujlevne.com)
+[Cestování na občanský průkaz - kam a za jakých podmínek?](http://www.cestujlevne.com)
 [Výběry z bankomatu v zahraničí: Poradíme, jak ušetřit](http://www.penize.cz)
-[Kurzovní lístek](Kurzovní lístky všech bank](http://www.kurzy.cz)
+[Kurzovní lístek - Kurzovní lístky všech bank](http://www.kurzy.cz)
 [XE: převod měny všech států](http://www.xe.com)
 [Vysvětlení směnných kurzů](http://www.travelex.cz)
 [Víza a požadavky při cestování](http://www.visahq.com)
@@ -33,7 +33,7 @@ Doporučené odkazy na weby, které vám usnadní cestování.
 ##  Počasí
 
 
-YR](http://www.yr.no)
+[YR](http://www.yr.no)
 
 ##  Doprava: vyhledávače
 
@@ -86,8 +86,8 @@ YR](http://www.yr.no)
 ##  Učení se jazyků
 
 
-[50 řečí](50 languages (audio)](http://www.goethe-verlag.com)
-[Základní fráze (texty)](multiphrasebook](http://www.multiphrasebook.com)
+[50 řečí - 50 languages (audio)](http://www.goethe-verlag.com)
+[Základní fráze (texty)](http://www.multiphrasebook.com)
 [Nejdůležitější slovíčka v 60ti jazycích](http://www.jak-se-rekne.cz)
 [Jak se správně učit cizí jazyky?](http://www.zelenka.cz)
 [5 způsobů, jak se učit cizí jazyky bez učitele a tří pravidelných hodin
@@ -104,7 +104,7 @@ týdně](http://www.vokacova.com)
 ##  Cestovatelské festivaly
 
 
-[Nadivoko](cestovatelský festival]( http://www.festivalnadivoko.cz)
+[Nadivoko - cestovatelský festival]( http://www.festivalnadivoko.cz)
 [Kolem Světa]( http://www.kolemsveta.cz)
 [Festival Obzory]( http://www.festivalobzory.cz)
 
