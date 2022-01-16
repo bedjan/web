@@ -122,6 +122,14 @@ $pages = array(
 
 ) ;
 
+$data = array();
+foreach ($pages as $hodnota)
+{
+  $data[] = $hodnota['id'];
+}
+
+array_multisort($data, $pages);
+
 $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 ?>
