@@ -5,3 +5,5 @@
 [Trichlormethan (chloroform)](https://arnika.org/toxicke-latky/databaze-latek/trichlormethan-chloroform)
 
 [Mikroplasty ve vodě](https://www.ih.cas.cz/mikroplasty-ve-vode/)
+
+[Fakta o znečištění moří a oceánů](https://www.osn.cz/fakta-o-znecisteni-mori-a-oceanu/)
