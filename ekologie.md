@@ -1,5 +1,13 @@
-﻿<meta charset="UTF-8">
+
  
+[Arnika](https://arnika.org/)
+
+[Hnutí duha](https://www.hnutiduha.cz/)
+
+[Ekologické organizace v ČR](http://www.zelenezpravy.cz/ekologicke-organizace-v-cr/)
+
+[Ekologická hnutí a organizace](https://www.industry-eu.cz/ekologie/ekologicka-hnuti-a-organizace/)
+
 [Ekologie přednáška](http://botany.upol.cz/pagedata_cz/vyukove-materialy/138_prednaska-eko-zoo-1-2014-.pdf)
 
 # Slovník – ekologie
