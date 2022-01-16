@@ -120,6 +120,7 @@ $pages = array(
 'radia' => 'Radia',
 'cestovani' => 'Cestování',
 'zalesactvi' => 'Zálesáctví',
+'akupresura_prvni_pomoc' => 'Akupresura první pomoc',
 
 ) ;
 
@@ -864,7 +865,23 @@ if($html === false)
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
-   break;         
+   break;
+   
+    case    akupresura_prvni_pomoc;
+    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;        
 }
 ?> 
 
