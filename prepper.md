@@ -23,6 +23,8 @@
 
 [Přežít!](https://www.databazeknih.cz/knihy/prezit-102612)
 
+[Ve stopách Robinsonových]https://www.databazeknih.cz/knihy/ve-stopach-robinsonovych-318993)
+
 [Útvary Specnaz: důvěrná zpráva o elitních sovětských jednotkách](https://www.databazeknih.cz/knihy/utvary-specnaz-duverna-zprava-o-elitnich-sovetskych-jednotkach-32819)
 
 [Knihy - krizové situace](https://www.databazeknih.cz/stitky/krizove-situace-10277)
