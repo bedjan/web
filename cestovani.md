@@ -1,13 +1,10 @@
 # Užitečné weby a aplikace pro cestovatele
 
-```
 
 Doporučené odkazy na weby, které vám usnadní cestování.
 
-```
 ##  Doklady a víza
 
-```
 
 [Ministerstvo zahraničních věcí](http://www.mzv.cz)
 [Kam se dostanu bez víza](pasy všech států](http://www.passportindex.org)
@@ -22,10 +19,8 @@ Doporučené odkazy na weby, které vám usnadní cestování.
 [Vysvětlení směnných kurzů](http://www.travelex.cz)
 [Víza a požadavky při cestování](http://www.visahq.com)
 
-```
 ##  Mapy
 
-```
 
 [Maps.me](http://www.maps.me)
 [Mapy.cz](http://www.mapy.cz)
@@ -35,26 +30,20 @@ Doporučené odkazy na weby, které vám usnadní cestování.
 [Kde najdeš ovoce a byliny ČR](http://www.na-ovoce.cz)
 [3D mapy horského terénu](http://www.fatmap.com)
 
-```
 ##  Počasí
 
-```
 
 YR](http://www.yr.no)
 
-```
 ##  Doprava: vyhledávače
 
-```
 
 [Rome2Rio](http://www.rome2rio.com)
 [IDOS.cz](http://www.idos.cz)
 [E-podroznik.pl](http://www.e-podroznik.pl)
 
-```
 ##  Ubytování
 
-```
 
 [Booking](http://www.booking.com)
 [Couchsurfing](http://www.couchsurfing.com)
@@ -62,16 +51,12 @@ YR](http://www.yr.no)
 [Agoda](http://www.agoda.com)
 [Trivago](http://www.trivago.cz)
 
-```
 ##  Létání
 
-```
 
 [Spaní na letišti](http://www.sleepinginairports.net)
 [Kompenzaci za zpoždění či zrušení letu](http://www.airhelp.com)
 
-```
-```
 
 [Mapa evropských letišť](http://www.europe-airports.com)
 [Aktuální info na letišti](http://www.ifly.com)
@@ -80,10 +65,8 @@ YR](http://www.yr.no)
 [Kontrola rezervace letenky](http://www.viewtrip.com)
 [Flightstats.com](http://www.flightstats.com)
 
-```
 ##  Vyhledávače letenek
 
-```
 
 [Cestujlevne.com](http://www.cestujlevne.com)
 [Jak na letenky](http://www.jaknaletenky.cz)
@@ -95,17 +78,13 @@ YR](http://www.yr.no)
 [Secret Flying](http://www.secretflying.com)
 [Cestolet.cz](http://www.cestolet.cz)
 
-```
 ##  Zdraví
 
-```
 
 [Doporučená očkování](http://www.vakciny.net)
 
-```
 ##  Učení se jazyků
 
-```
 
 [50 řečí](50 languages (audio)](http://www.goethe-verlag.com)
 [Základní fráze (texty)](multiphrasebook](http://www.multiphrasebook.com)
@@ -116,22 +95,16 @@ týdně](http://www.vokacova.com)
 [3 jednoduché techniky pro lepší učení jazyků](http://www.jazykovy-koutek.cz)
 [Google translate](http://www.translate.google.cz)
 
-```
 ##  Fóra o cestovaní
 
-```
 
 [zivotnacestach.cz](http://www.zivotnacestach.cz)
 [hedvabnastezka.cz](http://www.hedvabnastezka.cz)
 
-```
 ##  Cestovatelské festivaly
 
-```
 
 [Nadivoko](cestovatelský festival]( http://www.festivalnadivoko.cz)
 [Kolem Světa]( http://www.kolemsveta.cz)
 [Festival Obzory]( http://www.festivalobzory.cz)
-
-
 
