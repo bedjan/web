@@ -8,6 +8,12 @@
 
 [Prepper - forum](http://preppers.cz/forum/)
 
+[Rozpad - forum](https://rozpad.cz/index.php)
+
+[Postapo - forum](http://www.postapo.cz/)
+
+[Nezdolny - forum](http://www.nezdolny.cz/)
+
 [Prepper shop](https://preppers-shop.com/)
 
 [Jak se připravit](https://www.tercik.cz/bude-se-opakovat-velka-hospodarska-krize-se-pripravit-bude-probihat/)
