@@ -115,6 +115,7 @@ $pages = array(
 'zivotopis' => 'CV',
 'dan' => 'Daň',
 'prepper' => 'Prepper',
+'zalozky' => 'Záložky',
 'podcast' => 'Podcast',
 'radia' => 'Radia',
  
@@ -516,12 +517,6 @@ echo $Parsedown->text($html);
 
 
 
-
-
-
-
-
-
 case psychosomatika;
 
 
@@ -798,6 +793,22 @@ echo $Parsedown->text($html);
    break; 
    
     case podcast;
+
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break; 
+   
+case zalozky;
 
 
 
