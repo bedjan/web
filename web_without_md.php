@@ -121,6 +121,7 @@ $pages = array(
 'cestovani' => 'Cestování',
 'zalesactvi' => 'Zálesáctví',
 'akupresura_prvni_pomoc' => 'Akupresura první pomoc',
+'voda' => 'Voda',
 
 ) ;
 
@@ -881,7 +882,23 @@ if($html === false)
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
-   break;        
+   break;  
+   
+       case    voda;
+    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;       
 }
 ?> 
 
@@ -894,10 +911,7 @@ echo $Parsedown->text($html);
 
 <details>
 
-  <summary>&#169; <?php
-$datum = StrFTime("%Y", Time());
-echo($datum);
-?> </summary>
+  <summary>&#169; <?=date('Y');?> </summary>
 
 
         <?php foreach ($pages as $filename => $pageTitle) { 
