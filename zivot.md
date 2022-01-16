@@ -24,3 +24,5 @@
 [Kontryhel](https://www.bylinkyprovsechny.cz/byliny-kere-stromy/byliny/86-kontryhel-ucinky-na-zdravi-co-leci-pouziti-uzivani)
 
 [Kotvičník zemní (Tribulus terrestris)](https://www.bylinnalekarna.cz/kotvicnik-zemni-tribulus-terrestris)
+
+[Revoluce jednoho stébla slámy](https://www.databazeknih.cz/knihy/revoluce-jednoho-stebla-slamy-421055)
