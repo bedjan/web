@@ -1,4 +1,5 @@
-<!-- toc -->
+* auto-gen TOC:
+{:toc}
 
 [Debian official cz](http://www.debian.cz/)
 
