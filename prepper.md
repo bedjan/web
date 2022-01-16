@@ -27,6 +27,8 @@
 
 [Útvary Specnaz: důvěrná zpráva o elitních sovětských jednotkách](https://www.databazeknih.cz/knihy/utvary-specnaz-duverna-zprava-o-elitnich-sovetskych-jednotkach-32819)
 
+[Tři svíce za budoucnost](https://www.databazeknih.cz/knihy/tri-svice-za-budoucnost-143897)
+
 [Knihy - krizové situace](https://www.databazeknih.cz/stitky/krizove-situace-10277)
 
 
