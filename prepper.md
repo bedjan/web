@@ -29,6 +29,8 @@
 
 [Tři svíce za budoucnost](https://www.databazeknih.cz/knihy/tri-svice-za-budoucnost-143897)
 
+[Sám v nepřátelském týlu](https://www.databazeknih.cz/knihy/sam-v-nepratelskem-tylu-305820)
+
 [Knihy - krizové situace](https://www.databazeknih.cz/stitky/krizove-situace-10277)
 
 
