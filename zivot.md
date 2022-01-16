@@ -15,6 +15,12 @@
 [Zaručené tipy na ekologický a šetrný úklid domácnosti](https://www.drevoastavby.cz/drevostavby-archiv/zdrave-bydleni/6155-zarucene-tipy-na-ekologicky-a-setrny-uklid-domacnosti)
 
 
-# 
+# Život bez plástů 
 
 [Život bez plástů - blog](https://lifewithoutplasticblog-com.translate.goog/thermal-container-no-plastic/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
+
+# Bylinky
+
+[Kontryhel](https://www.bylinkyprovsechny.cz/byliny-kere-stromy/byliny/86-kontryhel-ucinky-na-zdravi-co-leci-pouziti-uzivani)
+
+[Kotvičník zemní (Tribulus terrestris)](https://www.bylinnalekarna.cz/kotvicnik-zemni-tribulus-terrestris)
