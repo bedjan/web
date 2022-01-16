@@ -119,7 +119,7 @@ $pages = array(
 'podcast' => 'Podcast',
 'radia' => 'Radia',
 'cestovani' => 'Cestování',
- 
+'zalesactvi' => 'Zálesáctví',
 
 ) ;
 
@@ -848,7 +848,23 @@ if($html === false)
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
-   break;          
+   break;   
+   
+    case zalesactvi;
+
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;         
 }
 ?> 
 
