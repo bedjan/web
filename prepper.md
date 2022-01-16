@@ -21,6 +21,8 @@
 
 [MANUÁL PRO VEDENÍ ZIMNÍ VÁLKY](https://www.ozbrojtese.cz/domu/39-kniha-manual-pro-vedeni-zimni-valky.html)
 
+[Přežít!](https://www.databazeknih.cz/knihy/prezit-102612)
+
 [Útvary Specnaz: důvěrná zpráva o elitních sovětských jednotkách](https://www.databazeknih.cz/knihy/utvary-specnaz-duverna-zprava-o-elitnich-sovetskych-jednotkach-32819)
 
 [Knihy - krizové situace](https://www.databazeknih.cz/stitky/krizove-situace-10277)
