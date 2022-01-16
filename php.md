@@ -1,5 +1,9 @@
 [Php přednášky](https://www.gjszlin.cz/ivt/esf/php/index.php)
 
+[Php manuál](https://php.baraja.cz/)
+
+[Php triky](https://php.vrana.cz/)
+
 # Soubory a adresáře
 Data můžeme ukládat následujícími způsoby
 - Textové soubory sjednoduchou strukturou(.txt, .csv)
