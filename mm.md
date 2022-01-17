@@ -1,4 +1,3 @@
-
 ### Playlisty
 
 
@@ -41,6 +40,11 @@
 [Svet serialu](https://svetserialu.to/)
 [Na hnoji](http://nahnoji.cz/)
 
+### Youtube 
+
+[Space Ambient Music LIVE 24/7](https://www.youtube.com/watch?v=tNkZsRW7h2c)
+[A State of Trance Episode 437 (2009 Yearmix)](https://www.youtube.com/watch?v=8rK7Qef0fCk)
+
 ### Filmy
 
 [Čsfd](https://www.csfd.cz/)
@@ -82,7 +86,7 @@
 
 
 
-### RADIA_OSTATNI
+### Radia ostatní
 
 
 [Spacesynth](http://212.96.160.160:8074/)
@@ -109,7 +113,7 @@
 
 
 
-### TV_CESKE
+### TV české
 
 [Tv_program_ceske](https://www.tvprogram.cz/)
 [Tv_ceske](https://www.tvonline.cz/)
@@ -137,7 +141,7 @@
 [Elektrika tv](rtmp://rtmp.elektrika.cz/live/myStream.sdp)
 
 
-### TV_NEMECKE
+### TV německé
 
 [Tv_program_nemecke](https://www.tvspielfilm.de/tv-programm/tv-sender/)
 [Tv_nemecke](https://www.2ix2.com/)
@@ -165,7 +169,7 @@
 [Vox](https://www.2ix2.com/vox)
 [Zdf](https://www.2ix2.com/zdf/)
 
-### TV_NEMECKO_OSTATNI
+### TV německé ostatní
 
 [Tv_nemecko_ostatni](https://nydus.org/stream/)
 
@@ -206,7 +210,7 @@
 [Dw+](http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8)
 [Elbekanal](http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8)
 
-### FILMY ONLINE
+### Filmy online
 
 [Filmy 1](https://www.bombuj.si/)
 [Filmy 2](https://kezhlednuti.online/)
@@ -216,7 +220,7 @@
 [Filmy 6](https://tipnafilm.cz/)
 [Filmy stazeni](https://filmy-zdarma-online.eu/)
 
-### SERIALY ONLINE
+### Seriály online
 
 [Serialy 1](https://serialzdarma.online/)
 [Serialy 2](https://serialovamasina.cz/vsechnyserialy.php)
@@ -236,7 +240,7 @@
 [kutiltim](http://kutiltim.sifee.biz/index.php?stranka=epizody)
 
 
-### Linux mpv config
+### Linux mpv - config
 
 mpv --ytdl-format=mp4 --ontop=yes --save-position-on-quit=yes --geometry=35%+0-50 --player-operation-mode=pseudo-gui  –fs=no –cache-secs=180 –demuxer-readahead-secs=0 –ytdl-raw-options=no-check-certificate=
 
