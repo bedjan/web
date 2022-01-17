@@ -19,6 +19,10 @@
 
 [Život bez plástů - blog](https://lifewithoutplasticblog-com.translate.goog/thermal-container-no-plastic/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
 
+# Látky
+
+[Len](https://bushman.cz/len-milovany-i-zavrhovany/)
+
 # Bylinky
 
 [Kontryhel](https://www.bylinkyprovsechny.cz/byliny-kere-stromy/byliny/86-kontryhel-ucinky-na-zdravi-co-leci-pouziti-uzivani)
