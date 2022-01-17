@@ -34,3 +34,7 @@
 [Kotvičník zemní (Tribulus terrestris)](https://www.bylinnalekarna.cz/kotvicnik-zemni-tribulus-terrestris)
 
 [Revoluce jednoho stébla slámy](https://www.databazeknih.cz/knihy/revoluce-jednoho-stebla-slamy-421055)
+
+# Půst
+
+[Půst](http://www.pust.cz/frame.php?load=uvod)
