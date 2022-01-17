@@ -23,6 +23,10 @@
 
 [Len](https://bushman.cz/len-milovany-i-zavrhovany/)
 
+# Tepelná izolace
+
+[Len](https://www.izolace-info.cz/technicke-informace/zateplovani-obecne-informace/20234-len-jako-izolace-vlastnosti-zabudovani-a-pouziti-a.html)
+
 # Bylinky
 
 [Kontryhel](https://www.bylinkyprovsechny.cz/byliny-kere-stromy/byliny/86-kontryhel-ucinky-na-zdravi-co-leci-pouziti-uzivani)
