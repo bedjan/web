@@ -47,8 +47,8 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 <a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
 		
-<form action="https://duckduckgo.com/" target="_blank">	
-<input type="text"  value="" placeholder="Hledat na DuckDuckGo" />
+<form onSubmit="return searchb()" id="search_form_homepage" class="no-menu" name="x" action="https://duckduckgo.com/" target="_blank">	
+<input type="text" autocomplete="off" name="q" id="search_form_input_homepage" onFocus="if ('rc' in window) {nua('nro',rc)};fq=1;" onBlur="fq=0" onclick="if (this.value=='put search terms here') {this.value='';this.style.color='#000000';}" value="" placeholder="Hledat na DuckDuckGo" />
 <input type="submit" value="Hledat">
 </form>
 
