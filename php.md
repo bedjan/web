@@ -1,3 +1,5 @@
+[Péhápko: Učebnice PHP](http://www.pehapko.cz/)
+
 [Php přednášky](https://www.gjszlin.cz/ivt/esf/php/index.php)
 
 [Php manuál](https://php.baraja.cz/)
