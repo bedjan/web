@@ -48,18 +48,7 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 <a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
 
-<!--zabezpeceni php-->
 
-<?php
-session_start();
-//Set the password
-$password = "bednar"; 
-//Let the user access protected content on page if the password match with the password that you have provided
-if (isset($_POST["password"]) && ($_POST["password"]=="$password")) { ?>
-  
-   <form action="<?php echo $_SERVER['SCRIPT_NAME'] ?>" method="post">
-
-<!--zabezpeceni php-->
 
 <form onSubmit="return searchb()" id="search_form_homepage" class="no-menu" name="x" action="https://duckduckgo.com/" target="_blank">	
 <input type="text" autocomplete="off" name="q" id="search_form_input_homepage" onFocus="if ('rc' in window) {nua('nro',rc)};fq=1;" onBlur="fq=0" onclick="if (this.value=='put search terms here') {this.value='';this.style.color='#000000';}" value="" placeholder="Hledat na DuckDuckGo" />
@@ -87,10 +76,10 @@ $sekce = "web";
 <header>
 <nav>
   
-           
+          
 
 <?php
-
+// 'zivotopis' => 'CV',
 $pages = array(
 'web' => 'Domů',
 'mm' => 'Multimedia',
@@ -134,7 +123,7 @@ $pages = array(
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
-'zivotopis' => 'CV',
+
 'dan' => 'Daň',
 'prepper' => 'Prepper',
 'zalozky' => 'Záložky',
@@ -225,6 +214,9 @@ echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: 
 <?php
 $urls = "https://github.com/bedjan/web/raw/main/" . $sekce .".md" ;
 ?>
+
+
+
 
 <?php
 include('Parsedown.php');
@@ -922,7 +914,7 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
    break;     
-          case    zivot;
+       case    zivot;
     
 
 
@@ -936,7 +928,7 @@ if($html === false)
 $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
-   break;   
+   break;  
 }
 ?> 
 
@@ -993,23 +985,4 @@ echo $Parsedown->text($html);
 
 </html>
 
-<!--zabezpeceni php-->
 
-<?php }
-//Display this content if the provided password is wrong
-else{ 
-//Show the wrong password notice
-  if($_SERVER['REQUEST_METHOD'] == 'POST') {
-    ?>
-    <h2 style="color: red;">Sorry...! špatné heslo</h2>
-  <?php } ?>
-  <h2>Zadej heslo</h2>
- <p align="center"><font color="red">
- <form id ="myForm" method="post"><p align="center">
- <input name="password" type="password" size="25" maxlength="10"><input value="Odeslat" type="submit"></p>
- </form>
-<?php 
- } 
-?>
-
-<!--zabezpeceni php-->
