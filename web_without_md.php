@@ -46,7 +46,11 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 
 <a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
-
+		
+<form action="https://duckduckgo.com/" target="_blank">	
+<input type="text"  value="" placeholder="Hledat na DuckDuckGo" />
+<input type="submit" value="Hledat">
+</form>
 
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
