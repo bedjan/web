@@ -1,4 +1,18 @@
-<meta charset="UTF-8">
+### Vytvoření OCR pdf z jpg a jpeg
+
+img2pdf *.jp* --output combined.pdf
+
+
+### Vytvoření OCR pdf z png
+
+img2pdf *.png* --output combined.pdf
+
+
+### Vytvoření OCR pdf z pdf
+
+ocrmypdf combined.pdf combined_ocr.pdf
+
+
 
 ### Linux prikazy
 
