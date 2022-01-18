@@ -38,3 +38,9 @@
 # Půst
 
 [Půst](http://www.pust.cz/frame.php?load=uvod)
+
+# Anna Strunecká
+
+[Knihy](https://www.databazeknih.cz/vydane-knihy/anna-strunecka-25720?orderBy=up)
+
+[Rizika očkování](https://www.rizikaockovani.cz/)
