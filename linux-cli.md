@@ -2,6 +2,13 @@
 
 img2pdf *.jp* --output combined.pdf
 
+for f in *.jp*; do convert "$f" "$f.pdf"; done; pdftk *.pdf cat output final.pdf
+
+
+### Vytvoření OCR pdf z jpg a jpeg s imagemagick 
+
+convert *.jp* -auto-orient pictures.pdf
+
 
 ### Vytvoření OCR pdf z png
 
