@@ -4,7 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<base target="_blank">
+<meta http-equiv="refresh" content="60;url=index.php" />
+<base target="_self">
 <a name="nahoru"></a>
 
 
@@ -46,11 +47,28 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 
 <a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
-		
+
+<!--zabezpeceni php-->
+
+<?php
+session_start();
+//Set the password
+$password = "bednar"; 
+//Let the user access protected content on page if the password match with the password that you have provided
+if (isset($_POST["password"]) && ($_POST["password"]=="$password")) { ?>
+  
+   <form action="<?php echo $_SERVER['SCRIPT_NAME'] ?>" method="post">
+
+<!--zabezpeceni php-->
+
 <form onSubmit="return searchb()" id="search_form_homepage" class="no-menu" name="x" action="https://duckduckgo.com/" target="_blank">	
 <input type="text" autocomplete="off" name="q" id="search_form_input_homepage" onFocus="if ('rc' in window) {nua('nro',rc)};fq=1;" onBlur="fq=0" onclick="if (this.value=='put search terms here') {this.value='';this.style.color='#000000';}" value="" placeholder="Hledat na DuckDuckGo" />
 <input type="submit" value="Hledat">
 </form>
+
+<?php
+setlocale(LC_ALL, "cs_CZ.UTF-8", "Czech");
+?>
 
 <?php
 error_reporting(E_ALL ^ E_NOTICE);
@@ -974,3 +992,24 @@ echo $Parsedown->text($html);
 </body>
 
 </html>
+
+<!--zabezpeceni php-->
+
+<?php }
+//Display this content if the provided password is wrong
+else{ 
+//Show the wrong password notice
+  if($_SERVER['REQUEST_METHOD'] == 'POST') {
+    ?>
+    <h2 style="color: red;">Sorry...! špatné heslo</h2>
+  <?php } ?>
+  <h2>Zadej heslo</h2>
+ <p align="center"><font color="red">
+ <form id ="myForm" method="post"><p align="center">
+ <input name="password" type="password" size="25" maxlength="10"><input value="Odeslat" type="submit"></p>
+ </form>
+<?php 
+ } 
+?>
+
+<!--zabezpeceni php-->
