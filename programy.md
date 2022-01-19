@@ -1,33 +1,33 @@
-(https://nlp.fi.muni.cz/cz_accent/)[Přidání diakritiky češtiny]
-(https://www.alejtech.cz/cs/sluzby/doplnkove-sluzby/online-nastroje-pro-upravu-textu/odstraneni-diakritiky.html)[odstranění diakritiky 1]
-(http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php)[odstranění diakritiky 2]
+[Přidání diakritiky češtiny](https://nlp.fi.muni.cz/cz_accent/)
+[odstranění diakritiky 1](https://www.alejtech.cz/cs/sluzby/doplnkove-sluzby/online-nastroje-pro-upravu-textu/odstraneni-diakritiky.html)
+[odstranění diakritiky 2](http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php)
 
-(https://dillinger.io/)[Markdown editor]
-(https://www.editpad.org/)[Editpad]
-(https://write-box.appspot.com/)[Editor]
+[Markdown editor](https://dillinger.io/)
+[Editpad](https://www.editpad.org/)
+[Editor](https://write-box.appspot.com/)
 
-(https://10minutemail.com/)[dočasný email]
-(https://www.myfonts.com/WhatTheFont/)[poznání typu fotku/písma z fotky]
-(https://www.mp3louder.com/)[změna hlasitosti mp3]
-(https://www.audioremover.com/)[vypnout zvuk u videa]
-(https://www.docucompress.com/word/)[komprese docx]
-(https://www.videosmaller.com/)[zmenšení rozlišení videa]
-(https://www.imagesmaller.com/)[zmenšení rozlišení obrázku ]
-(https://www.fileconverto.com/pdf-joiner/)[spojení více PDF]
-(https://www.onlineocr.net/)[text z obrázku na text]
-(https://www.onlineocr.net/pdftoexcel)[PDF na Excel]
-(https://tools.pdf24.org/cs/)[ultimátí kolekce nástrojů pro PDF]
-(https://www.random.org/)[generátor hodnot (čísla, data, …)]
-(https://html-online.com/editor/)[html editor]
-(https://nlp.fi.muni.cz/cz_accent/)[doplnění diakritiky]
-(https://cloudconvert.com/)[video, audio, dok, ebook, grafika]
-(https://picsart.com/change-sky)[změna nebe aj. efekty]
-(https://www.online-convert.com)[různé konvertory všeho možného]
-(https://www.timeanddate.com)[časovače, hodiny, kalkulačky, počasí]
-(https://www.szynalski.com/tone-generator/)[generátor tónů]
-(https://www.qrcode-monkey.com/)[generátor QR kódů]
-(https://www.deepl.com)[nejlepší jazykový překladač]
-(https://www.photopea.com/)[editor 2D grafiky]
-(https://pixlr.com/)[editor 2D grafiky]
-http://app.sketchup.com/)[editor 3D grafiky]
-(https://www.selfcad.com/)[editor 3D grafiky]
+[dočasný email](https://10minutemail.com/)
+[poznání typu fotku/písma z fotky](https://www.myfonts.com/WhatTheFont/)
+[změna hlasitosti mp3](https://www.mp3louder.com/)
+[vypnout zvuk u videa](https://www.audioremover.com/)
+[komprese docx](https://www.docucompress.com/word/)
+[zmenšení rozlišení videa](https://www.videosmaller.com/)
+[zmenšení rozlišení obrázku ](https://www.imagesmaller.com/)
+[spojení více PDF](https://www.fileconverto.com/pdf-joiner/)
+[text z obrázku na text](https://www.onlineocr.net/)
+[PDF na Excel](https://www.onlineocr.net/pdftoexcel)
+[ultimátní kolekce nástrojů pro PDF](https://tools.pdf24.org/cs/)
+[generátor hodnot (čísla, data, …](https://www.random.org/)
+[html editor](https://html-online.com/editor/)
+[doplnění diakritiky](https://nlp.fi.muni.cz/cz_accent/)
+[video, audio, dok, ebook, grafika](https://cloudconvert.com/)
+[změna nebe aj. efekty](https://picsart.com/change-sky)
+[různé konvertory všeho možného](https://www.online-convert.com)
+[časovače, hodiny, kalkulačky, počasí](https://www.timeanddate.com)
+[generátor tónů](https://www.szynalski.com/tone-generator/)
+[generátor QR kódů](https://www.qrcode-monkey.com/)
+[nejlepší jazykový překladač](https://www.deepl.com)
+[editor 2D grafiky](https://www.photopea.com/)
+[editor 2D grafiky](https://pixlr.com/)
+[editor 3D grafiky](http://app.sketchup.com/)
+[editor 3D grafiky](https://www.selfcad.com/)
