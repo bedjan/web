@@ -30,20 +30,6 @@
 
 
 
-<?php
-$filename = 'Parsedown.php';
-
-if (file_exists($filename)) {
-copy("https://raw.githubusercontent.com/erusev/parsedown/master/Parsedown.php", "Parsedown.php");
-} else {
-copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown.php");
-}
-// vykreslení menu
-// include "https://raw.githubusercontent.com/bedjan/web/main/paticka.php";
-?>
-
-
-
 <a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
 
 
@@ -217,37 +203,37 @@ $urls = "https://github.com/bedjan/web/raw/main/" . $sekce .".md" ;
 
 
 <?php
-include('Parsedown.php');
+
 
 switch ($sekce) {
 
 case web;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;
 
 case linux;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;
 
@@ -255,225 +241,225 @@ echo $Parsedown->text($html);
 case linux-cli;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;
    
 case mm;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;   
    
 case radia;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case systemd;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
    
    case php;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
    
    case git;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;
    
    case markdown;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
    
    case ekologie;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case php;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
    
    case germanismy;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case vyziva;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case lecba;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case polstina;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case rec;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case manipulace;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
@@ -481,30 +467,30 @@ echo $Parsedown->text($html);
    case narcismus_poznamky;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case zivotopis;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
@@ -512,30 +498,30 @@ echo $Parsedown->text($html);
    case predpony;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
    case sociologie;    
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -545,15 +531,15 @@ case psychosomatika;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -564,15 +550,15 @@ case jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -584,15 +570,15 @@ case hooponopono;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -604,15 +590,15 @@ case asertivita_pro_pozemske_andely;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -623,15 +609,15 @@ case knihy;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -642,15 +628,15 @@ case nemcina;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -661,15 +647,15 @@ case nemecka_gramatika;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -680,15 +666,15 @@ case nemecko;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -699,15 +685,15 @@ case vadim-zeland;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -718,15 +704,15 @@ case carnegie;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -737,15 +723,15 @@ case sociologie;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
 
@@ -756,15 +742,15 @@ case dan;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
       
@@ -772,15 +758,15 @@ case debian;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
  
@@ -788,15 +774,15 @@ echo $Parsedown->text($html);
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
  
@@ -804,15 +790,15 @@ echo $Parsedown->text($html);
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
@@ -820,15 +806,15 @@ echo $Parsedown->text($html);
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
    
@@ -836,15 +822,15 @@ case zalozky;
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break; 
  
@@ -853,15 +839,15 @@ echo $Parsedown->text($html);
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;   
    
@@ -869,15 +855,15 @@ echo $Parsedown->text($html);
 
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;
    
@@ -885,15 +871,15 @@ echo $Parsedown->text($html);
     
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
    
@@ -901,15 +887,15 @@ echo $Parsedown->text($html);
     
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;     
        case    zivot;
