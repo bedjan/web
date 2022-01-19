@@ -31,17 +31,17 @@
 
 # Dořešit
 
-- Sdělit společenství vlastníků ze jsme Novi vlastníci
+- [x] Sdělit společenství vlastníků ze jsme Novi vlastníci
 
 (Kontakt na Sodomu: Mgr. Bc. Marek Sodoma, e-mail: msodoma@sitel.cz, tel.: 777004130 )
 
-- Poplatky za odpady rychnov a dobruska
+- [ ] Poplatky za odpady rychnov a dobruska
 
-- finančák Rychnov
+- [x] finančák Rychnov
 
-- zdravotka 
+- [ ] zdravotka 
 
-- soud rychnov ověřit 
+- [ ] soud rychnov ověřit 
 
    [soud rychnov](https://www.justice.cz/web/okresni-soud-v-rychnove-nad-kneznou)
 
