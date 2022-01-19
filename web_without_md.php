@@ -19,7 +19,6 @@
 </head>
 
 
-
 <body class="jumbotron">
 
 		
@@ -133,7 +132,6 @@ $pages = array(
 'akupresura_prvni_pomoc' => 'Akupresura první pomoc',
 'voda' => 'Voda',
 'zivot' => 'Život',
-'programy' => 'Programy',
 
 ) ;
 
@@ -918,32 +916,32 @@ echo $Parsedown->text($html);
     
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
+
 
    break;  
-case    programy;
+          case    programy;
     
 
 
-$html = file_get_contents($urls);
+$html = markdown(file_get_contents($urls));
  
 if($html === false)
 {
 	print_r(error_get_last());
 	die(__FILE__ . __LINE__);
 }   
-$Parsedown = new Parsedown();
-echo $Parsedown->text($html);
+print $html;
 
-   break;  
+
+   break;
 }
 ?> 
 
@@ -999,5 +997,6 @@ echo $Parsedown->text($html);
 </body>
 
 </html>
+
 
 
