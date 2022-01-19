@@ -1,4 +1,5 @@
 [Přidání diakritiky češtiny](https://nlp.fi.muni.cz/cz_accent/)
+[Doc a docx na markdown](https://word2md.com/)
 [odstranění diakritiky 1](https://www.alejtech.cz/cs/sluzby/doplnkove-sluzby/online-nastroje-pro-upravu-textu/odstraneni-diakritiky.html)
 [odstranění diakritiky 2](http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php)
 
