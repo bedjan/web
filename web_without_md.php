@@ -999,5 +999,3 @@ echo $Parsedown->text($html);
 </body>
 
 </html>
-
-
