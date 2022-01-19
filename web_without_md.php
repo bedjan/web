@@ -133,6 +133,7 @@ $pages = array(
 'akupresura_prvni_pomoc' => 'Akupresura první pomoc',
 'voda' => 'Voda',
 'zivot' => 'Život',
+'programy' => 'Programy',
 
 ) ;
 
@@ -914,6 +915,21 @@ echo $Parsedown->text($html);
 
    break;     
        case    zivot;
+    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break;  
+case    programy;
     
 
 
