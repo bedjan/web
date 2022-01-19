@@ -134,6 +134,10 @@ $pages = array(
 'voda' => 'Voda',
 'zivot' => 'Život',
 'programy' => 'Programy',
+'citaty' => 'Citáty,
+'debian_poznamky' => 'Debian poznámky',
+'nova_germanska_medicina' => 'Nová germánská medicína',
+
 
 ) ;
 
@@ -944,6 +948,38 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
    break;  
+		
+		       case   citaty;
+
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+print (Parsedown::instance()->text(file_get_contents("https://github.com/bedjan/web/raw/main/".$_GET['citaty'].".md")));
+
+   break;    
+		
+       case    debian_poznamky;
+    
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+} 
+print (Parsedown::instance()->text(file_get_contents("	
+		https://github.com/bedjan/debian/raw/master/README.md")));
+		
+
+   break; 
+       case    nova_germanska_medicina;
+    
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+} 
+print (Parsedown::instance()->text(file_get_contents("https://raw.githubusercontent.com/bedjan/nova_germanska_medicina/main/zdroje.md")));
+
+
+   break; 
 }
 ?> 
 
