@@ -10,4 +10,4 @@
 
 [Minimalismus blog](https://www-theminimalists-com.translate.goog/archives/?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=en&_x_tr_pto=wapp)
 
-[Minimalismus - blogy](https://www-thegoodtrade-com.translate.goog/features/minimalist-blogs?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=cs&_x_tr_pto=wapp)
+[Minimalismus - blogy](https://www-thegoodtrade-com.translate.goog/features/minimalist-blogs?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=en&_x_tr_pto=wapp)
