@@ -43,6 +43,8 @@
 
 - [ ] finančák Rychnov firemnu daň
 
+- [ ] kancelář Rychnov firemnu daň
+
 - [x] zdravotka zpmvcr
 
 - [x] soud rychnov ověřit 
