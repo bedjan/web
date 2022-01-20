@@ -37,11 +37,11 @@
 
 - [ ] Poplatky za odpady rychnov a dobruska
 
-- [x] finančák Rychnov
+- [ ] finančák Rychnov firemnu daň
 
-- [ ] zdravotka 
+- [x] zdravotka zpmvcr
 
-- [ ] soud rychnov ověřit 
+- [x] soud rychnov ověřit 
 
    [soud rychnov](https://www.justice.cz/web/okresni-soud-v-rychnove-nad-kneznou)
 
