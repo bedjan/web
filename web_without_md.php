@@ -203,7 +203,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <?php
-echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">' . $sekce . '</h1></a>' . '</br>' ;
+echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">' . $pageTitle. '</h1></a>' . '</br>' ;
 ?>
 
 
