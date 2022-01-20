@@ -96,7 +96,6 @@ $pages = array(
 'vyziva' => 'Výživa',
 'narcismus_poznamky' => 'Narcismus -poznamky',
 'manipulace' => 'Manipulace',
-
 'lecba' => 'Léčba',
 'psychosomatika' => 'Psychosomatika',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
@@ -108,7 +107,6 @@ $pages = array(
 'polstina' => 'Polština',
 'nemcina' => 'Němčina',
 'nemecka_gramatika' => 'Německá gramatika',
-
 'germanismy' => 'Germanismy',
 'rec' => 'Řeč',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
@@ -122,7 +120,6 @@ $pages = array(
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
 'predpony' => 'Předpony',
-
 'dan' => 'Daň',
 'prepper' => 'Prepper',
 'zalozky' => 'Záložky',
@@ -134,6 +131,7 @@ $pages = array(
 'voda' => 'Voda',
 'zivot' => 'Život',
 'programy' => 'Programy',
+'minimalismus' => 'Minimalismus',
 
 ) ;
 
@@ -944,6 +942,21 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text($html);
 
    break;  
+   case    minimalismus;
+    
+
+
+$html = file_get_contents($urls);
+ 
+if($html === false)
+{
+	print_r(error_get_last());
+	die(__FILE__ . __LINE__);
+}   
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html);
+
+   break; 
 }
 ?> 
 
