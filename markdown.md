@@ -2,6 +2,8 @@
 
 [Markdown průvodce](https://www.markdownguide.org/)
 
+[Převod html webu na markdown](https://codebeautify.org/html-to-markdown)
+
 <code>
 # header one
 
