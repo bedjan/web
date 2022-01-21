@@ -10,7 +10,8 @@
 
 # Strapdown kód
 
-´´
+<code>
+	
 <!DOCTYPE html>
 <html>
 <title>Hello Strapdown</title>
@@ -34,6 +35,8 @@ culpa qui officia deserunt mollit anim id est laborum.
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
 </html>
 
+
+</code>
 
 ´´
 --------
