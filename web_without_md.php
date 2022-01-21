@@ -11,10 +11,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 <style>
-a.menu[href^="index"]:before {
-  content: "⚭ ";
-  color: black;
-}
+
 a[href^="/"]:before {
   content: "";
   color: black;
@@ -24,7 +21,7 @@ a[href^="."]:before {
   color: black;
 }
 
-a[href^="http://"]:before {
+a.[href^="http://"]:before {
   content: "⸰ ";
   color: black;
 }
@@ -32,7 +29,6 @@ a[href^="https://"]:before {
   content: "⸰ ";
   color: black;
 }
-
 
 
 </style>
@@ -79,6 +75,7 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 <input type="text" autocomplete="off" name="q" id="search_form_input_homepage" onFocus="if ('rc' in window) {nua('nro',rc)};fq=1;" onBlur="fq=0" onclick="if (this.value=='put search terms here') {this.value='';this.style.color='#000000';}" value="" placeholder="Hledat na DuckDuckGo" />
 <input type="submit" value="Hledat">
 </form>
+<br />
 
 <?php
 setlocale(LC_ALL, "cs_CZ.UTF-8", "Czech");
@@ -180,7 +177,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
             if ($filename == $currentPage) { ?>
         <?php echo $pageTitle ; ?>
             <?php } else { ?>
-       <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self" class="menu"><?php echo $pageTitle ; ?></a>&nbsp;
+       <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self" type="button" class="btn btn-outline-primary"><?php echo $pageTitle ; ?></a>
             <?php
             } //if 
          } //foreach 
@@ -227,9 +224,9 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <?php
-echo '<a href="#dolu" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">' . $sekce . '</h1></a>' . '</br>' ;
+echo '<a href="#dolu" target="_self"  type="button" class="btn btn-outline-info"><h3>' . $sekce . '</h3></a>' . '</br>' ;
 ?>
-
+<br />
 
 
      
@@ -989,7 +986,7 @@ echo $Parsedown->text($html);
 
  <br />  
 
-<a href="#nahoru" target="_self"><h1 style="color: #8a8a5c;text-decoration: underline;">Nahoru</h1></a>
+<a href="#nahoru" target="_self" type="button" class="btn btn-outline-info"><h3>Nahoru</h3></a>
 
  <br />   <br />  
 
