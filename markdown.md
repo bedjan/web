@@ -1,3 +1,5 @@
+[Markdown preview](https://daringfireball.net/projects/markdown/dingus)
+
 [Markdown syntaxe](https://daringfireball.net/projects/markdown/syntax)
 
 [Markdown průvodce](https://www.markdownguide.org/)
