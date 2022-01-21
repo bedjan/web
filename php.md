@@ -152,7 +152,9 @@ V takovém případě (soubor na našem serveru neexistuje nebo je starý) se st
 
 Řešení
 ------
-
+``
+´´
+<?php
     function ziskatSouborCache($url) {
       $platnost = 60 * 60; // 60 s * 60 min = 1 hodina
       $soubor = "cache/" . urlencode($url);
@@ -174,13 +176,32 @@ V takovém případě (soubor na našem serveru neexistuje nebo je starý) se st
         return $obsah;
       }
     }
+``?>
+´´
 
 Použití je potom prosté:
 
+´´
+<?php
+``php
     echo ziskatSouborCache(
       "http://jecas.cz/ziskani-obsahu-cache"
     );
+    ?>
+ ´´   
+ 
+    nebo markdown přes parsedown
+    
+   ´´ 
+    <?php
+include('Parsedown.php');
+$html = ziskatSouborCache($urls);
+$Parsedown = new Parsedown();
+echo $Parsedown->text($html); 
+?>
+´´
 
+``
 A funkce `ziskatSouborCache` zařídí, jestli se soubor načte z **cizí URL** nebo z našeho serveru.
 
 Pro funkčnost výše uvedeného skriptu je nutné vytvořit adresář `cache`, jinak pokus o uložení souboru **skončí chybou**.`
