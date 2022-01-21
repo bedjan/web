@@ -12,7 +12,7 @@
 
 # Strapdown kód
 
-<code>
+
 	
 <!DOCTYPE html>
 <html>
@@ -38,7 +38,7 @@ culpa qui officia deserunt mollit anim id est laborum.
 </html>
 
 
-</code>
+
 
 ´´
 --------
