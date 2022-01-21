@@ -9,7 +9,7 @@
 [Strapdown.js](http://strapdownjs.com/)
 
 # Strapdown kód
-<code>
+
 ´´
 <!DOCTYPE html>
 <html>
@@ -33,7 +33,8 @@ culpa qui officia deserunt mollit anim id est laborum.
 
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
 </html>
-</code>
+
+
 ´´
 --------
 
