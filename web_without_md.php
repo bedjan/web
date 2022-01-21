@@ -10,6 +10,32 @@
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
+<style>
+a.menu[href^="index"]:before {
+  content: "⚭ ";
+  color: black;
+}
+a[href^="/"]:before {
+  content: "";
+  color: black;
+}
+a[href^="."]:before {
+  content: "";
+  color: black;
+}
+
+a[href^="http://"]:before {
+  content: "⸰ ";
+  color: black;
+}
+a[href^="https://"]:before {
+  content: "⸰ ";
+  color: black;
+}
+
+
+
+</style>
 
 
 <title>Osobní stránky</title>
@@ -154,7 +180,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
             if ($filename == $currentPage) { ?>
         <?php echo $pageTitle ; ?>
             <?php } else { ?>
-       <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self"><?php echo $pageTitle ; ?></a>&nbsp;
+       <a href="<?php echo 'index.php?sekce=' , $filename ; ?>" target="_self" class="menu"><?php echo $pageTitle ; ?></a>&nbsp;
             <?php
             } //if 
          } //foreach 
