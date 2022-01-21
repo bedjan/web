@@ -10,6 +10,8 @@
 
 [Strapdown.js](http://strapdownjs.com/)
 
+[Markdown tools](https://mashable.com/archive/markdown-tools)
+
 # Strapdown kód
 
 
