@@ -35,7 +35,9 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pr
 culpa qui officia deserunt mollit anim id est laborum.
 </xmp>
 
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+<script src=""></script>
+	
+http://strapdownjs.com/v/0.2/strapdown.js
 </html>
 
 </code>
