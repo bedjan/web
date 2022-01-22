@@ -155,6 +155,7 @@ $pages = array(
 'zivot' => 'Život',
 'programy' => 'Programy',
 'minimalismus' => 'Minimalismus',
+'mamka' => 'Mamka',
 
 ) ;
 
