@@ -14,6 +14,12 @@
 
 [Zaručené tipy na ekologický a šetrný úklid domácnosti](https://www.drevoastavby.cz/drevostavby-archiv/zdrave-bydleni/6155-zarucene-tipy-na-ekologicky-a-setrny-uklid-domacnosti)
 
+# Minimalismus
+
+[co je minimalismus](http://zijememinimalismem.cz/minimalismus-co-to-je-prosim-te/) 
+
+[minimalismus ve světě](https://translate.google.cz/translate?hl=cs?sl=en&tl=cs&u=www.becomingminimalist.com/most-popular-posts/)
+
 # Život bez plastů 
 
 [Život bez plástů - blog](https://lifewithoutplasticblog-com.translate.goog/thermal-container-no-plastic/?_x_tr_sch=http&_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
