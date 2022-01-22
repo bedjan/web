@@ -10,6 +10,20 @@
 
 [Ekologie přednáška](http://botany.upol.cz/pagedata_cz/vyukove-materialy/138_prednaska-eko-zoo-1-2014-.pdf)
 
+-----
+#### zero waste
+
+[arnika zerowaste](http://arnika.org/zero-waste) 
+
+[český blog o životě bez odpadu](http://www.czechzerowaste.cz/) 
+
+[bezobalu - o zerowaste](http://zerowaste.bezobalu.org/) 
+
+[zero waste europe](https://translate.google.cz/translate?sl=en&tl=cs&js=y&prev=_t&hl=cs&ie=UTF-8&u=zerowasteeurope.eu&edit-text=&act=url) 
+
+[zero waste obchody v čr](https://www.greenglasses.cz/cs/business-category/zero-waste-obchody-jidlo-piti/)
+-----
+
 # Slovník – ekologie
 
 **Základní pojmy v krajinné ekologii** 
