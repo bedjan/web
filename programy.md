@@ -33,3 +33,11 @@
 [editor 2D grafiky](https://pixlr.com/)
 [editor 3D grafiky](http://app.sketchup.com/)
 [editor 3D grafiky](https://www.selfcad.com/)
+
+------
+
+#### Programování
+
+[zdroják](https://www.zdrojak.cz/) 
+[jak začít programovat](https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy) 
+[10 stránek, které tě naučí programovat z pohodlí domova](https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/)
