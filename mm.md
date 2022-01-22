@@ -43,6 +43,10 @@
 ### Youtube 
 
 [Space Ambient Music LIVE 24/7](https://www.youtube.com/watch?v=tNkZsRW7h2c)
+[Beautiful Piano Music 24/7 • Relaxing Music for Sleep, Studying & Relaxation](https://www.youtube.com/watch?v=y7e-GC6oGhg)
+[The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music](https://www.youtube.com/watch?v=36YnV9STBqc)
+[NASA Earth from Space - Space Station Earth Viewing cameras](https://www.youtube.com/watch?v=DDU-rZs-Ic4)
+[NASA Live: Official Stream of NASA TV](https://www.youtube.com/watch?v=21X5lGlDOfg)
 [A State of Trance Episode 437 (2009 Yearmix)](https://www.youtube.com/watch?v=8rK7Qef0fCk)
 
 ### Filmy
