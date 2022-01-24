@@ -41,3 +41,9 @@
 [zdroják](https://www.zdrojak.cz/) 
 [jak začít programovat](https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy) 
 [10 stránek, které tě naučí programovat z pohodlí domova](https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/)
+
+#### Rozšíření Google chrome
+
+[Raindrop.io](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
+[ImTranslator: Překladač, Slovník, Hlas](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh)
+[CrxMouse Chrome™ Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
