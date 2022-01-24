@@ -89,7 +89,7 @@
 [Debian](https://www.debian.org/index.cs.html)
 [Debian - skripty a config](https://github.com/bedjan/debian)
 [Moje poznámky k debianu](https://github.com/bedjan/debian/blob/master/poznamky/debian.md)[Obecně](https://github.com/bedjan/debian/blob/master/poznamky/linux.md)
-[Cli (příkazový řádek )](https://github.com/bedjan/debian/blob/master/poznamky/linux_cli.md)
+[Cli - příkazový řádek ](https://github.com/bedjan/debian/blob/master/poznamky/linux_cli.md)
 
 ### Němčina
 
