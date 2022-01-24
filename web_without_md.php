@@ -35,6 +35,7 @@ a[href^="https://"]:before {
 
 
 <title>Osobní stránky</title>
+<blockquote>Všechno se děje tak jak má a vždycky směřuje k lepšímu.</blockquote>
 <head>
 <!--<div class="jumbotron"> -->
 <!--<div class="container-fluid"> -->
