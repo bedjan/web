@@ -11,3 +11,5 @@
 [BBC podcasty](https://www.bbc.co.uk/sounds/podcasts)
 
 [Tobogan](https://dvojka.rozhlas.cz/tobogan-7230382)
+
+[Humoriáda](https://region.rozhlas.cz/humoriada-6193604)
