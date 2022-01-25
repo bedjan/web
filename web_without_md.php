@@ -104,6 +104,13 @@ $sekce = "web";
 
 <?php
 // 'zivotopis' => 'CV',
+// 'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
+// 'carnegie' => 'Carnegie',
+// 'dan' => 'Daň',
+// 'manipulace' => 'Manipulace',
+// 'vadim-zeland' => 'Vadim Zeland',
+// 'predpony' => 'Předpony',
+// 'rec' => 'Řeč',
 $pages = array(
 'web' => 'Domů',
 'mm' => 'Multimedia',
@@ -116,19 +123,19 @@ $pages = array(
 'markdown' => 'Markdown',
 'ekologie' => 'Ekologie',
 'priroda' => 'Příroda',
-'rec' => 'Řeč',
+
 'germanismy' => 'Germanismy',
 'vyziva' => 'Výživa',
 'narcismus_poznamky' => 'Narcismus -poznamky',
-'manipulace' => 'Manipulace',
+
 'lecba' => 'Léčba',
 'psychosomatika' => 'Psychosomatika',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
 'hooponopono' => 'Hooponopono',
 'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
 'knihy' => 'Knihy',
-'vadim-zeland' => 'Vadim Zeland',
-'carnegie' => 'Carnegie',
+
+
 'polstina' => 'Polština',
 'nemcina' => 'Němčina',
 'nemecka_gramatika' => 'Německá gramatika',
@@ -136,7 +143,7 @@ $pages = array(
 'rec' => 'Řeč',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
 'hooponopono' => 'Hooponopono',
-'asertivita_pro_pozemske_andely' => 'Asertivita ppa',
+
 'knihy' => 'Knihy',
 'vadim-zeland' => 'Vadim Zeland',
 'carnegie' => 'Carnegie',
@@ -144,8 +151,8 @@ $pages = array(
 'manipulace' => 'Manipulace',
 'sociologie' => 'Sociologie',
 'psychosomatika' => 'Psychosomatika',
-'predpony' => 'Předpony',
-'dan' => 'Daň',
+
+
 'prepper' => 'Prepper',
 'zalozky' => 'Záložky',
 'podcast' => 'Podcast',
