@@ -31,6 +31,14 @@ a[href^="https://"]:before {
 }
 
 
+.skryte {
+  display: none;
+}
+
+.skryte_blok:hover + .hide {
+  display: block;
+  color: red;
+}
 
 
 </style>
@@ -69,9 +77,9 @@ copy("https://raw.githubusercontent.com/bedjan/w/main/Parsedown.php", "Parsedown
 
 
 
-<a href="index.php?sekce=web" target="_self"><h2>Osobní stránky</h2></a>
+<a href="index.php?sekce=web" target="_self"  name="Všechno se děje tak jak má a vždycky směřuje k lepšímu."><h2 class="skryte_blok">Osobní stránky</h2></a>
 
-<blockquote>Všechno se děje tak jak má a vždycky směřuje k lepšímu.</blockquote>
+<blockquote  class="skryte">Všechno se děje tak jak má a vždycky směřuje k lepšímu.</blockquote>
 
 
 
@@ -197,7 +205,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 <br />
-<a href="index.php?sekce=web" target="_self">
+<a href="index.php?sekce=web" name="Všechno se děje tak jak má a vždycky směřuje k lepšímu." target="_self">
 <svg style="width: 10%;height: 10%;  padding: 1%;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="502.174px" viewBox="0 65.326 612 502.174" enable-background="new 0 65.326 612 502.174"
 	 xml:space="preserve"  stroke="white" fill="black" fill-opacity="0.5" stroke-opacity="0.8">
