@@ -136,7 +136,6 @@ $pages = array(
 'nemcina' => 'Němčina',
 'nemecka_gramatika' => 'Německá gramatika',
 'germanismy' => 'Germanismy',
-'rec' => 'Řeč',
 'jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho' => 'Akne a nemoc',
 'hooponopono' => 'Hooponopono',
 'knihy' => 'Knihy',
