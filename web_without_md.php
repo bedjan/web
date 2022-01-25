@@ -31,6 +31,8 @@ a[href^="https://"]:before {
 }
 
 
+
+
 </style>
 
 
@@ -184,7 +186,7 @@ $currentPage = basename($_SERVER['REQUEST_URI']) ;
 
 
 
-
+</nav>
 
 
 
