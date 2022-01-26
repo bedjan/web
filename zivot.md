@@ -54,6 +54,8 @@
 
 [Tělo je důkaz!](https://www.najimseazhubnu.cz/mudr-elekova-telo-je-dukaz/)
 
+[MUDR. L. Elekova. Co vám lékaři neřeknou!](https://www.youtube.com/watch?v=ad5KGbPj2CI)
+
 # Prof.Ing.Peter Staněk CSc.
 
 [Prof.Ing.Peter Staněk CSc.  - youtube](https://www.youtube.com/results?search_query=prof.+ing.+peter+stan%C4%9Bk+csc+)
