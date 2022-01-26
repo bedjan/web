@@ -1,6 +1,8 @@
-﻿<meta charset="UTF-8">
+[Ketogenní dieta](https://www.ketofit.cz/ketogenni-dieta)
 
-<a href="https://github.com/bedjan/recepty/blob/master/polevky.md" target="_blank"> Polevky</a>
+[Ketogenní dieta: dietní plán a doporučená jídla, která pomohou přeměnit vaše tělo](https://www.slimming.cz/ketogenni-dieta/)
+
+
 
 **B vitamin**
 
@@ -64,4 +66,6 @@ B12 - Kobalamin
 Známky nedostatku: únava, deprese, závratě, poškození nervů, problémy se zrakem.
 
 Dejte si: játra, konzervované sardinky, krevety, tofu, tučnější sýr švýcarského typu.
+
+[Polevky](https://github.com/bedjan/recepty/blob/master/polevky.md)
 
