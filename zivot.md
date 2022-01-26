@@ -49,3 +49,7 @@
 [Knihy](https://www.databazeknih.cz/vydane-knihy/anna-strunecka-25720?orderBy=up)
 
 [Rizika očkování](https://www.rizikaockovani.cz/)
+
+# MUDr. Eleková
+
+[Tělo je důkaz!](https://www.najimseazhubnu.cz/mudr-elekova-telo-je-dukaz/)
