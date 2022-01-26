@@ -15,57 +15,54 @@ Vitamín B je rozpustný ve vodě a naše tělo jej neukládá, což znamená, �
 
 Pokud na sobě pozorujete některé z příznaků nedostatku vitamínu B, doplňte ho. Skvělých přírodních zdrojů je spousta:
 
-B1 - Thiamin
+**B1 - Thiamin**
 
-Známky nedostatku: únava, ztráta paměti, slabost, deprese, podrážděnost, kognitivní poruchy, citlivost na bolesti, nervozita, zácpa, dušnost, necitlivost, zmatenost.
+_Známky nedostatku:_ únava, ztráta paměti, slabost, deprese, podrážděnost, kognitivní poruchy, citlivost na bolesti, nervozita, zácpa, dušnost, necitlivost, zmatenost.
 
-Dejte si: lososa, lněná semínka, chia semínka, kešu, zelený hrášek a fazole.
+_Dejte si:_ lososa, lněná semínka, chia semínka, kešu, zelený hrášek a fazole.
 
-B2 - Riboflavin
+**B2 - Riboflavin**
 
-Známky nedostatku: nedostatek energie, popraskané rty, záněty v ústech, vodnaté oči.
+_Známky nedostatku:_ nedostatek energie, popraskané rty, záněty v ústech, vodnaté oči.
 
-Dejte si: mandle, sušená rajčata, přírodní jogurt, houby a špenát.
+_Dejte si:_ mandle, sušená rajčata, přírodní jogurt, houby a špenát.
 
-Reklama
 
-B3 - Niacin
+**B3 - Niacin**
 
-Známky nedostatku: nedostatek energie, úzkost, deprese, zápach z úst, dermatitida.
+_Známky nedostatku:_ nedostatek energie, úzkost, deprese, zápach z úst, dermatitida.
 
-Dejte si: avokádo, krůtí nebo kuřecí prsa, játra a slunečnicová semínka.
+_Dejte si:_ avokádo, krůtí nebo kuřecí prsa, játra a slunečnicová semínka.
 
-B5 - kyselina pantothenová
+**B5 - kyselina pantothenová**
 
-Známky nedostatku: nedostatek energie, bolesti kloubů, vypadávání vlasů, podrážděnost, zácpa.
+_Známky nedostatku:_ nedostatek energie, bolesti kloubů, vypadávání vlasů, podrážděnost, zácpa.
 
-Dejte si: sýr feta, tuňáka, vejce, avokádo, kukuřici a sladké brambory.
+_Dejte si:_ sýr feta, tuňáka, vejce, avokádo, kukuřici a sladké brambory.
 
-B6 - Pyridoxin
+**B6 - Pyridoxin**
 
-Známky nedostatku: únava, nedostatečná produkce serotoninu a dopaminu, poruchy spánku, snížená imunitní funkce, anémie.
+_Známky nedostatku:_ únava, nedostatečná produkce serotoninu a dopaminu, poruchy spánku, snížená imunitní funkce, anémie.
 
-Dejte si: pistáciové ořechy, halibuta, sušené meruňky, rozinky a banány.
+_Dejte si:_ pistáciové ořechy, halibuta, sušené meruňky, rozinky a banány.
 
-B7 -  Biotin
+**B7 -  Biotin**
 
-Známky nedostatku: deprese, vypadávání vlasů, brnění v končetinách, suchá kůže.
+_Známky nedostatku:_ deprese, vypadávání vlasů, brnění v končetinách, suchá kůže.
 
-Dejte si: květák, mrkev, rajčata, vepřové maso, rýžové otruby a pekanové ořechy.
+_Dejte si:_ květák, mrkev, rajčata, vepřové maso, rýžové otruby a pekanové ořechy.
 
-B9 - kyselina listová
+**B9 - kyselina listová**
 
-Známky nedostatku: duševní labilita, anémie, neplodnost, ztráta chuti k jídlu.
+_Známky nedostatku:_ duševní labilita, anémie, neplodnost, ztráta chuti k jídlu.
 
-Dejte si: brokolici, chřest, salát, čočku, zelené listy a pomeranče.
+_Dejte si:_ brokolici, chřest, salát, čočku, zelené listy a pomeranče.
 
-Reklama
 
-B12 - Kobalamin
+**B12 - Kobalamin**
 
-Známky nedostatku: únava, deprese, závratě, poškození nervů, problémy se zrakem.
+_Známky nedostatku:_ únava, deprese, závratě, poškození nervů, problémy se zrakem.
 
-Dejte si: játra, konzervované sardinky, krevety, tofu, tučnější sýr švýcarského typu.
+_Dejte si:_ játra, konzervované sardinky, krevety, tofu, tučnější sýr švýcarského typu.
 
 [Polevky](https://github.com/bedjan/recepty/blob/master/polevky.md)
-
