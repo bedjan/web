@@ -32,7 +32,7 @@
 
 [Facebook download](https://fdown.net/)
 [Youtube download](https://ytop1.com/en9)
-[Tik tok] download](https://ssstik.io/en)
+[Tik tok download](https://ssstik.io/en)
 [Instagram download](https://igram.io/)
 
 
