@@ -12,3 +12,5 @@
 
 [Survival manual](https://github.com/bedjan/web/raw/main/Millis%20survival%20manual%20-%202019-12.pdf)
 
+[Winter Survival: Tipy, jak zůstat v teple v divočině](https://www-superprepper-com.translate.goog/staying-warm-in-a-winter-wilderness/?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
+
