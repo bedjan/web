@@ -59,3 +59,7 @@
 # Prof.Ing.Peter Staněk CSc.
 
 [Prof.Ing.Peter Staněk CSc.  - youtube](https://www.youtube.com/results?search_query=prof.+ing.+peter+stan%C4%9Bk+csc+)
+
+# Kombisol AD3
+
+[Kombisol AD3 1 l](https://vitaminy-pro-psy.heureka.cz/kombisol-ad3-1-l/#prehled/)
