@@ -71,3 +71,11 @@
 # Rakxtnikový olej
 
 [Rakxtnikový olej](https://www.lekarna.cz/clanek/rakytnik-rostlina-budoucnosti/)
+
+# Kyselina listová
+
+[Kyselina listová](https://www.wikiskripta.eu/w/Kyselina_listov%C3%A1)
+
+# Koloidni stříbro, platina, zlato
+
+[Koloidni stříbro](https://www.silvermedic.cz/)
