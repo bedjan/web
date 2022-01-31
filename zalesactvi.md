@@ -1,7 +1,6 @@
 # Vybaveni 
 
-- zvýrazněno je vše základní ( lze ještě více zminimalizovat )
-(vse volit z umělých vláken, omezit v zimě vytváření vlhkosti - bavlna,peří vlhnou; bavlna se pouze hodí k ohni - nejlépe celta ( např. DDR s možnosti zateplit se a udělat si oheň, případně nehořlavá vlněná deka
+- vse volit z umělých vláken, omezit v zimě vytváření vlhkosti - bavlna,peří vlhnou; bavlna se pouze hodí k ohni - nejlépe celta ( např. DDR s možnosti zateplit se a udělat si oheň, případně nehořlavá vlněná deka, len, konopí
 
 # Základ co máme na sobe 
 
