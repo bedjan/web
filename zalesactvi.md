@@ -33,6 +33,7 @@
 
 # Vybaveni
 
+- batoh - cordura 500, 10000 denier ( Osprey Archeon, Berghaus, 5.11, Condor, Gemma, Source, Tacticalpro, Savotta, Firsttactical, WARRIOR SQM X300 ELITE OPS 60l )
 - *zapalovač*
 - *firesteel* - kovbojské zápalky
 - pevný nůž, popř. skládací (Colsteel, Condor, Schrade) - dlouhodobě radši uhlíkovku ( ocel 1075, 1095, 5160), než nerez a polonerez ( D2, 8Cr13MoV, Sandvik 12C27,.S30v,...)
@@ -43,6 +44,7 @@
 - lahev - plast ( nalgene), nerez, nebo termoska
 - vařič lihový - z plechovky, flakonu, Vařík - líh velice hořlavý
 - vařič plynový - vařič zn. Var
+- dřívkáč - Ikea odkapavač
 - benzinový vařič - do vetší zimy
 - sekera
 - *pilka*
