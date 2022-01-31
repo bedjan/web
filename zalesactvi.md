@@ -5,49 +5,53 @@
 
 # Základ co máme na sobe 
 
-*boty* - případně náhradní lehčí (boty do vody, kristusky)
-*ponozky 2x*
-spinky
-*spodky 2x*
+- *boty* - případně náhradní lehčí (boty do vody, kristusky)
+- *ponozky 2x*
+- spinky
+- *spodky 2x*
 *kalhoty, kraťasy*
-pásek
-tricko 2x
-*tričko funkční* z PP nebo PES je lepší ( zvažit bambusové, či merino)
-*mikina* ( fleece - nejlevnější, tloušťka koresponduje s výhřevností, merino - drahé, ale nesmrdí tolik, a více dýchá ( lepší ve smsi s nylonem, PES, zn. např Devolt, Kama
-bunda
-*pončo* - jurek duo XXL (lze z nej udelat prisresek)
-*univerzalni nakrcnik*, univerzalni kukla, cepice, bekovka 
-sluneční brýle
-síťka proti komárům
-*šátek bavlněný - trojcipý*
+- pásek
+- tricko 2x
+- *tričko funkční 2x* z PP nebo PES je lepší ( zvažit bambusové, či merino)
+- *mikina* ( fleece - nejlevnější, tloušťka koresponduje s výhřevností, merino - drahé, ale nesmrdí tolik, a více dýchá ( lepší ve smsi s nylonem, PES, zn. např Devolt, Kama
+- bunda - nylon, pertex,fleece,membrána - goretex, gelanots, bavlna
+- *pončo* - jurek duo XXL (lze z nej udelat prisresek) - alternativně bw pončo, Sea to summit
+- *univerzalni nakrcnik*, univerzalni kukla, cepice, bekovka 
+- sluneční brýle
+- síťka proti komárům
+- *šátek bavlněný - trojcipý*
 
 ## Spaní
 
-*záchranářská folie*
-*folie prusvitna do oken*
-bw podložka - elefanthaut / lze odebrat /
-bw karimatka skladací  / lze odebrat /, nebo nahradit jen kratky podprdelnikem
-*silna bunda* ( snugpak ebony, BRANDIT TEDDYFLEECE WORKER FLÍSOVÁ BUNDA  s kapuci)
-deka - Mfh PES;polar fleece ;vlnena [Balkanova](https://balkanova.eco/)  / lze odebrat /
+- *záchranářská folie*
+- *folie prusvitna do oken*
+- bw podložka - elefanthaut / lze odebrat /
+- bw karimatka skladací  / lze odebrat /, nebo nahradit jen kratky podprdelnikem ( alternativně nafukovací Thermarest)
+- *silna bunda* ( snugpak ebony, BRANDIT TEDDYFLEECE WORKER FLÍSOVÁ BUNDA  s kapuci)
+- deka - Mfh PES;polar fleece ;vlnena [Balkanova](https://balkanova.eco/)  / lze odebrat /
+- spacák - Giant fishing, 
+- celta - nylon, PES s ripstop, bavlněna ( Čsla, DDR, polská, maďarská, bw)
 
 # Vybaveni
 
-*zapalovač*
-*firesteel* - kovbojské zápalky
-pevný nůž, popř. skládací (Colsteel) - dlouhodobě radši uhlíkovku ( ocel 1075, 1095, 5160), než nerez a polonerez ( D2, 8Cr13MoV, Sandvik 12C27,.S30v,...)
-*leatherman*
-páska eleltrikářská
-*lékárnička* - náplast, brufen, paralen, heřmánková mast,
-plecháček - nerez, titan
-lahev - plast ( nalgene), nerez, nebo termoska
-vařič plynový
-vařič zn. Var
-benzinový vařič - do vetší zimy
+- *zapalovač*
+- *firesteel* - kovbojské zápalky
+- pevný nůž, popř. skládací (Colsteel, Condor, Schrade) - dlouhodobě radši uhlíkovku ( ocel 1075, 1095, 5160), než nerez a polonerez ( D2, 8Cr13MoV, Sandvik 12C27,.S30v,...)
+- *leatherman kleště* - doživotní záruka
+- páska - eleltrikářská, Ducktape
+- *lékárnička* - náplast, brufen, paralen, heřmánková mast,
+- plecháček - nerez, titan
+- lahev - plast ( nalgene), nerez, nebo termoska
+- vařič lihový - z plechovky, flakonu, Vařík - líh velice hořlavý
+- vařič plynový - vařič zn. Var
+- benzinový vařič - do vetší zimy
+- sekera
+- *pilka*
 
 # Hygiena
 
-*soda bicarbonata*
-kokosový olej
+- *soda bicarbonata*
+- kokosový olej
 
 
 # Bushcraft online
