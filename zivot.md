@@ -60,22 +60,25 @@
 
 [Prof.Ing.Peter Staněk CSc.  - youtube](https://www.youtube.com/results?search_query=prof.+ing.+peter+stan%C4%9Bk+csc+)
 
-# Kombisol AD3
+
+# [Zdroje pro zdraví](https://www.youtube.com/watch?v=J_fVVXL7_Po)
+
+## Kombisol AD3
 
 [Kombisol AD3 1 l](https://vitaminy-pro-psy.heureka.cz/kombisol-ad3-1-l/#prehled/)
 
-# Vetom 2.26
+## Vetom 2.26
 
 [Vetom 2.26](https://www.vetom.club/produkt/vetom-2-26/)
 
-# Rakxtnikový olej
+## Rakytnikový olej
 
 [Rakxtnikový olej](https://www.lekarna.cz/clanek/rakytnik-rostlina-budoucnosti/)
 
-# Kyselina listová
+## Kyselina listová
 
 [Kyselina listová](https://www.wikiskripta.eu/w/Kyselina_listov%C3%A1)
 
-# Koloidni stříbro, platina, zlato
+## Koloidni stříbro, platina, zlato
 
 [Koloidni stříbro](https://www.silvermedic.cz/)
