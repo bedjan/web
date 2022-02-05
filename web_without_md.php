@@ -164,6 +164,7 @@ $pages = array(
 'programy' => 'Programy',
 'minimalismus' => 'Minimalismus',
 'javascript' => 'Javascript',
+'unix' => 'Unix',
 
 ) ;
 
