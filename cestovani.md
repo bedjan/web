@@ -2,6 +2,8 @@
 
 [Svatojakubská cesta po evrope](https://www.jakubskacesta.cz/jakubske-cesty/cesty-v-evrope)
 
+[Jelení naučná stezka a rysí výběh u Kvildy](https://www.vylety-zabava.cz/tipy-na-vylet/sumava/2240-jeleni-naucna-stezka-u-kvildy)
+
 # Užitečné weby a aplikace pro cestovatele
 
 
