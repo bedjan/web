@@ -1,4 +1,4 @@
-﻿<meta charset="UTF-8">
+
 
 “Duch vládne hmot&#283; a nikdy to nebylo jinak.“
 
