@@ -1,3 +1,5 @@
+[Markdown editory](https://itsfoss.com/best-markdown-editors-linux/)
+
 [Markdown náhled](https://hashify.me/IyBUaXRsZQoKYWhvaiBqc2U=)
 
 [Markdown preview](http://joncom.be/experiments/markdown-editor/edit/)
