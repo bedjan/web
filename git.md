@@ -1,5 +1,7 @@
 [Příručka pro git](https://knihy.nic.cz/files/nic/edice/scott_chacon_pro_git.pdf)
 
+[Git klienti](https://git-scm.com/download/gui/linux)
+
 # Instalace Gitu
 sudo zypper in git -y # pro OpenSuse
 
