@@ -1,8 +1,10 @@
 
 ### Oblíbené
 
+[Simplenote](https://app.simplenote.com/)
 [Raindrop.io](https://app.raindrop.io/account/login)
 [Bitwarden](https://vault.bitwarden.com/#/vault)
+[Hackmd](https://hackmd.io/?nav=overview)
 [Lastpass](https://lastpass.com/?ac=1)
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
 [Gkeep](https://keep.google.com/#home)
