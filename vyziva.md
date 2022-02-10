@@ -2,6 +2,11 @@
 
 [Ketogenní dieta: dietní plán a doporučená jídla, která pomohou přeměnit vaše tělo](https://www.slimming.cz/ketogenni-dieta/)
 
+# Recepty pro papiňák
+
+[Recepty papinak 1](https://www.recepty.eu/recepty+papi%C5%88%C3%A1k)
+
+[Recepty papinak 2](https://www.jidlo.cz/papinak+recept)
 
 
 **B vitamin**
