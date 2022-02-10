@@ -6,6 +6,8 @@
 
 [Php triky](https://php.vrana.cz/)
 
+[PHP základy](https://www.vascak.cz/data/materialy_ikt/internet/php/zdroj/php02.php)
+
 # Soubory a adresáře
 Data můžeme ukládat následujícími způsoby
 - Textové soubory sjednoduchou strukturou(.txt, .csv)
