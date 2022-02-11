@@ -1,4 +1,4 @@
-[účinky vývaru](https://www.klouby-vazy.cz/vyvar-z-kosti-a-jeho-vliv-nejen-na-zdravi-kloubuúčinky vývaru
+[účinky vývaru](https://www.klouby-vazy.cz/vyvar-z-kosti-a-jeho-vliv-nejen-na-zdravi-kloubu)
 
 [Sám sebe lekárom](https://slobodnyvysielac.sk/relacie/sam-sebe-lekarom/)
 
