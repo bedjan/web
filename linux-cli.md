@@ -1,3 +1,8 @@
+### Vyber urcitých znaku za delitkem ( ':' = znak delitka ;$2 = 2 sloupec)
+
+awk -F':' '{ print $2 }' x
+
+
 ### Vytvoření OCR pdf z jpg a jpeg
 
 img2pdf *.jp* --output combined.pdf
