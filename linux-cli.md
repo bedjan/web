@@ -1,3 +1,12 @@
+### Odpočítávání
+
+N=100; while [[ $((--N)) >  0 ]]; do  echo  $N  && sleep 1 ; done
+
+
+### Stopky
+
+cat /dev/zero | pv -B 1 -L 1 -tpe -s 60 -S > /dev/null
+
 ### Vyber urcitých sloupců za delitkem ( ':' = znak delitka ;$2 = 2 sloupec)
 
 awk -F':' '{ print $2 }' example.txt
