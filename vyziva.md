@@ -8,6 +8,10 @@
 
 [Recepty papinak 2](https://www.jidlo.cz/papinak+recept)
 
+#### Kuchařky
+
+[Kuchařka pro dceru](https://www.kucharkaprodceru.cz/recepty/)
+
 
 **B vitamin**
 
