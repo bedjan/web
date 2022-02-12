@@ -165,7 +165,7 @@ $pages = array(
 'minimalismus' => 'Minimalismus',
 'javascript' => 'Javascript',
 'unix' => 'Unix',
-
+'ajurveda' => 'Ajurveda',
 ) ;
 
 $data = array();
