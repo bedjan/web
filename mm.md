@@ -49,6 +49,7 @@
 [NASA Earth from Space - Space Station Earth Viewing cameras](https://www.youtube.com/watch?v=DDU-rZs-Ic4)
 [NASA Live: Official Stream of NASA TV](https://www.youtube.com/watch?v=21X5lGlDOfg)
 [A State of Trance Episode 437 (2009 Yearmix)](https://www.youtube.com/watch?v=8rK7Qef0fCk)
+[Vocal Trance Radio | Uplifting · 24/7 Live Stream](https://www.youtube.com/watch?v=DPXQG8S9Xwc)
 [Trance alba](https://mega.nz/folder/ZZtXDCBT#mU8ueflq7PoWQN7kZdtbGQ)
 
 ### Filmy
