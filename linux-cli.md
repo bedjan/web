@@ -1,13 +1,24 @@
-### Vyber urcitých znaku za delitkem ( ':' = znak delitka ;$2 = 2 sloupec)
+### Vyber urcitých sloupců za delitkem ( ':' = znak delitka ;$2 = 2 sloupec)
 
-awk -F':' '{ print $2 }' x
+awk -F':' '{ print $2 }' example.txt
 
+
+### Vyber urcitých sloupců za delitkem ( ":" = znak delitka)
+
+cut -d ":" -f2,7,9 example.txt
+
+### Vyhledaní výrazu v souboru 
+
+egrep '(Lorem|dolor)' example.txt
+nebo
+grep -E '(Lorem|dolor)' example.txt
 
 ### Vytvoření OCR pdf z jpg a jpeg
 
 img2pdf *.jp* --output combined.pdf
 
 for f in *.jp*; do convert "$f" "$f.pdf"; done; pdftk *.pdf cat output final.pdf
+
 
 
 ### Vytvoření OCR pdf z jpg a jpeg s imagemagick 
