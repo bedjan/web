@@ -11,3 +11,5 @@
 [Pitta](https://www.akka-ajurveda.cz/pitta)
 
 [Kapha](https://www.akka-ajurveda.cz/kapha)
+
+[Stravování](https://www.akka-ajurveda.cz/stravovani_podle_ajurvedy)
