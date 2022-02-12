@@ -1,3 +1,7 @@
+# Právo
+
+[ZÁKLADNÍ INFORMACE K ADVOKÁTNÍM ÚSCHOVÁM](https://www.cak.cz/scripts/detail.php?id=12739)
+
 # Eko úklid
 
 [10 tipů pro domácnost bez chemikálií](https://www.nazeleno.cz/bydleni/domacnost/10-tipu-pro-domacnost-bez-chemikalii.aspx)
