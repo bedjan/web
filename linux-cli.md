@@ -1,6 +1,7 @@
 ### Odpočítávání
 
-N=100; while [[ $((--N)) >  0 ]]; do  echo  $N  && sleep 1 ; done
+echo "Zadej pocet vterin a Enter";read N;echo "Odpocitavam  $N vterin"; while [[ $((--N)) >  0 ]]; do  echo  $N  && sleep 1 ; done
+
 
 
 ### Stopky
