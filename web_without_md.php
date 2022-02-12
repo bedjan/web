@@ -52,7 +52,7 @@ a[href^="https://"]:before {
 
 
 
-<body class="jumbotron">
+<body  class="jumbotron" oncontextmenu="return false" >
 
 		
 	</head>
