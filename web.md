@@ -114,6 +114,7 @@
 [Link short](https://bitly.com/)
 [Raw githack - dev](https://raw.githack.com/) 
 [Tinyurl](https://tinyurl.com/)
+[Gist.io i](https://gist.io/)
 
 
 
