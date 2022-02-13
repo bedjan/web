@@ -7,6 +7,10 @@
 
 [Zbyněk Mlčoch](https://www.zbynekmlcoch.cz/)
 
+
+[Suchý silikon -MAZADLO PRO PRAŠNÉ PROSTŘEDÍ](https://www.tersil.cz/rs/suchy-silikon/)
+
+
 # Eko úklid
 
 [10 tipů pro domácnost bez chemikálií](https://www.nazeleno.cz/bydleni/domacnost/10-tipu-pro-domacnost-bez-chemikalii.aspx)
