@@ -1,7 +1,10 @@
-#### Html offline editor
+#### Html offline editor 1
 
 cd /var/www/html;git clone https://github.com/vasanthv/notedown.git;echo http://localhost/notedown/index.html
 
+#### Html offline editor 2
+
+cd /var/www/html;git clone https://github.com/faheel/LiveMark-Editor
 
 #### EME editor linux
 
