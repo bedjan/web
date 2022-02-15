@@ -6,6 +6,10 @@ cd /var/www/html;git clone https://github.com/vasanthv/notedown.git;echo http://
 
 cd /var/www/html;git clone https://github.com/faheel/LiveMark-Editor
 
+#### Html offline editor 3
+
+cd /var/www/html;https://github.com/prahladyeri/md-editor
+
 #### EME editor linux
 
 https://github.com/egoist/eme
