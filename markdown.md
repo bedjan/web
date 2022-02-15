@@ -1,8 +1,13 @@
-### EME editor linux
+#### Html offline editor
+
+cd /var/www/html;git clone https://github.com/vasanthv/notedown.git;echo http://localhost/notedown/index.html
+
+
+#### EME editor linux
 
 https://github.com/egoist/eme
 
-### Local markdown editor  from pandao
+#### Local markdown editor  from pandao
 
 cd /var/www/html/;wget https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js; git clone https://github.com/pandao/editor.md.git; wget https://github.com/bedjan/web/raw/main/mde.html; echo "view localhost/mde.html"
 
