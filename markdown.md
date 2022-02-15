@@ -1,6 +1,6 @@
 ### Local markdown editor  from pandao
 
-sudo cd /var/www/html/;wget https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js; git clone https://github.com/pandao/editor.md.git; wget https://github.com/bedjan/web/raw/main/mde.html; echo "view localhost/mde.html"
+cd /var/www/html/;wget https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js; git clone https://github.com/pandao/editor.md.git; wget https://github.com/bedjan/web/raw/main/mde.html; echo "view localhost/mde.html"
 
 [Source](https://github.com/pandao/editor.md)
 
