@@ -1,3 +1,7 @@
+### EME editor linux
+
+https://github.com/egoist/eme
+
 ### Local markdown editor  from pandao
 
 cd /var/www/html/;wget https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js; git clone https://github.com/pandao/editor.md.git; wget https://github.com/bedjan/web/raw/main/mde.html; echo "view localhost/mde.html"
