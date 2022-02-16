@@ -47,3 +47,6 @@
 [Raindrop.io](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
 [ImTranslator: Překladač, Slovník, Hlas](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh)
 [CrxMouse Chrome™ Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
+
+
+[Databáze ikon](https://www.iconsdb.com/)
