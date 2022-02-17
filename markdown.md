@@ -1,3 +1,7 @@
+#### Jquery markdown editor localhost
+
+[Jquery markdown editor localhost](https://www.jqueryscript.net/text/Bootstrap-Markdown-Editor-Krajee.html)
+
 #### Html offline editor 1
 
 cd /var/www/html;git clone https://github.com/vasanthv/notedown.git;echo http://localhost/notedown/index.html
