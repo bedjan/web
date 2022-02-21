@@ -2,6 +2,7 @@
 ### Oblíbené
 
 [Simplenote](https://app.simplenote.com/)
+[Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1)
 [Raindrop.io](https://app.raindrop.io/account/login)
 [Markdown editor](https://uiwjs.github.io/react-md-editor/)
 [Bitwarden](https://vault.bitwarden.com/#/vault)
@@ -49,6 +50,7 @@
 ### Google
 
 [Gtranslate](https://translate.google.cz/)
+[Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1)
 [Youtube](https://www.youtube.com/)
 [Gkeep](https://keep.google.com/#home)
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
