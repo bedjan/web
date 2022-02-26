@@ -13,3 +13,6 @@
 [Tobogan](https://dvojka.rozhlas.cz/tobogan-7230382)
 
 [Humoriáda](https://region.rozhlas.cz/humoriada-6193604)
+
+
+[Lenoska](https://hledani.rozhlas.cz/iRadio/?stanice%5B%5D=%C4%8CRo+Dvojka&porad%5B%5D=Leno%C5%A1ka+Iva+%C5%A0moldase&zobrazNevysilane=1)
