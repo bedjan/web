@@ -1,3 +1,6 @@
+[WikiSkripta - Lékařské obory](https://www.wikiskripta.eu/w/Home)
+
+
 [účinky vývaru](https://www.klouby-vazy.cz/vyvar-z-kosti-a-jeho-vliv-nejen-na-zdravi-kloubu)
 
 [Sám sebe lekárom](https://slobodnyvysielac.sk/relacie/sam-sebe-lekarom/)
