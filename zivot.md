@@ -1,3 +1,5 @@
+[Hantec](http://www.hantec.cz/hantec/slovnik/slovnik.htm#A)
+
 [Digitální měna centrální banky (CBDC)](https://www-investopedia-com.translate.goog/terms/c/central-bank-digital-currency-cbdc.asp?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
 
 
