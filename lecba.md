@@ -1,3 +1,5 @@
+[Bylinky účínky](https://www.bylinkyprovsechny.cz/nemoci/ruzne-nemoci/1986-1-bylina-1-hlavni-ucinek-aneb-jak-nemit-zmatek-v-hlave)
+
 [WikiSkripta - Lékařské obory](https://www.wikiskripta.eu/w/Home)
 
 
