@@ -1,4 +1,6 @@
-[Obsah radionuklidů v ovzduší](https://www.sujb.cz/aplikace/monras/?lng=cs_CZ)
+[Obsah radionuklidů v ovzduší CZ](https://www.sujb.cz/aplikace/monras/?lng=cs_CZ)
+
+[Obsah radionuklidů v ovzduší EU](https://remap.jrc.ec.europa.eu/Simple.aspx)
 
 [O sirénách - Varování obyvatelstva](https://www.hzscr.cz/clanek/sireny.aspx)
 
