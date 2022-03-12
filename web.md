@@ -2,6 +2,7 @@
 ### Oblíbené
 
 [Simplenote](https://app.simplenote.com/)
+[Počasí](https://wttr.in/duchcov)
 [Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1)
 [Raindrop.io](https://app.raindrop.io/account/login)
 [Markdown editor](https://uiwjs.github.io/react-md-editor/)
