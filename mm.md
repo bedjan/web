@@ -65,6 +65,7 @@
 [Humor 64](http://mp3stream4.abradio.cz:8000/humor.mp3)
 [Humor 128](http://mp3stream4.abradio.cz:8000/humor128.mp3)
 [4U_radio](http://mpc1.mediacp.eu:8342/stream)
+[Dvojka](https://icecast5.play.cz/cro2-32.mp3?type=.mp3/;stream.mp3)
 [Sleep Radio](http://149.56.234.138:8169/stream)
 [Tranceup](http://5.39.71.159:8223/stream)
 [E2](https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac?dist=onlineradioeu)
