@@ -39,6 +39,7 @@
 ### Obecné
 
 [Facebook](https://www.facebook.com/)
+[Twitter](https://twitter.com/home)
 [Instagram](https://www.instagram.com/)
 [Gkeep](https://keep.google.com/#home)
 [Simplenote](https://app.simplenote.com/login/)
