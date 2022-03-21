@@ -29,7 +29,8 @@
 
 ### Download
 
-[Facebook download](https://fdown.net/)
+[Facebook download 1](https://fdown.net/)
+[Facebook download 2](https://tinywow.com/video/from-fb)
 [Youtube download](https://ytop1.com/en9)
 [Tik tok download](https://ssstik.io/en)
 [Instagram download](https://igram.io/)
