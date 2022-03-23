@@ -25,7 +25,8 @@
 [OCR](https://www.onlineocr.net/)
 [Zdrava vyziva](https://vyzivujicitradice.cz/)
 [Podcasty](https://ceskepodcasty.cz/)
-
+[Matfyz prekladac](https://lindat.mff.cuni.cz/services/translation/)
+[Ukrajinsky prekladac vs. CZ](https://lindat.cz/translation/)
 
 ### Download
 
