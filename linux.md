@@ -1,3 +1,5 @@
+[Difm on linux - flatpak](https://nuvola.tiliado.eu/index/debian/)
+
 ### Openbox all-in-one
 
 [Openbox all-in-one](https://github.com/bedjan/openbox)
