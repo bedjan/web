@@ -30,8 +30,8 @@
 
 ### Download
 
-[Facebook download 1](https://fdown.net/)
-[Facebook download 2](https://tinywow.com/video/from-fb)
+[Facebook download 1](https://snapsave.app/cs)
+[Facebook download 2](https://fdown.net/)
 [Youtube download](https://ytop1.com/en9)
 [Tik tok download](https://ssstik.io/en)
 [Instagram download](https://igram.io/)
