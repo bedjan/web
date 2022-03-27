@@ -1,12 +1,5 @@
-[Obsah radionuklidů v ovzduší CZ](https://www.sujb.cz/aplikace/monras/?lng=cs_CZ)
-
-[Obsah radionuklidů v ovzduší EU](https://remap.jrc.ec.europa.eu/Simple.aspx)
-
-[O sirénách - Varování obyvatelstva](https://www.hzscr.cz/clanek/sireny.aspx)
-
-
-[Kultura_rušení](https://cs.wikipedia.org/wiki/Kultura_rušení)
-
+[Bossing](https://www.databazeknih.cz/knihy/bossing-na-jehlach-o-kobrach-kudlankach-a-jine-haveti-v-praci-485730)
+[Filantia](https://www.filantia.cz/sluzby/svepomocne-vztahove-skupiny/)
 [Hantec](http://www.hantec.cz/hantec/slovnik/slovnik.htm#A)
 
 [Digitální měna centrální banky (CBDC)](https://www-investopedia-com.translate.goog/terms/c/central-bank-digital-currency-cbdc.asp?_x_tr_sl=en&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
