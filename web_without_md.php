@@ -167,6 +167,7 @@ $pages = array(
 'unix' => 'Unix',
 'ajurveda' => 'Ajurveda',
 'psychologie' => 'Psychologie',
+'html' => 'Html',
 ) ;
 
 $data = array();
