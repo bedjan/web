@@ -347,3 +347,229 @@ Nejlepší trik, jak se vypořádat s narcisem, je nenechat se jím stáhnout na
 
 
 -------
+[Použijte těchto 30+ frází k odzbrojení narcisty, když se jim nemůžete vyhnout](https://www.scarymommy.com/phrases-disarm-narcissist)
+
+
+
+Interakce s narcisem vám může připadat jako prohraná bitva. Když je někdo důkladně přesvědčen, že je vždy obětí a ze všeho viní vás – a přitom tvrdí, že je chytřejší než všichni ostatní – je těžké vědět, jak reagovat na jeho obvinění a další lži. Složitost situace je obzvláště výrazná, protože narcista může a bude mít proti vám vše, co řeknete, a proto je důležité postupovat opatrně. Nebylo by ale hezké mít v zadní kapse pár frází k odzbrojení narcisty, až se příště nebudete moci vyhnout střetu s tímto toxickým typem ?
+
+CO JEAŽ DALŠÍ
+Jak utáhnout vaginální stěny
+DRŽ SE PEVNĚ
+Jak přirozeně a bezpečně utáhnout vaginální stěny, abyste bojovali s vaginální laxitou
+Toxické chování, jako je narcismus, může kdykoli vztyčit svou ošklivou hlavu – dokonce i rodinná jídla.
+TYPY LIDÍ
+Je ve vašem životě psychopat, sociopat nebo narcis? Jak to vědět
+AHOJJSTE PŘIPRAVENI NA DALŠÍ?
+Přihlaste se k odběru denního zpravodaje Scary Mommy a získejte další příběhy ze zákopů.
+Vložte Svou E-Mailovou Adresu...
+
+PŘIHLÁSIT SE
+Při zjišťování, jak jednat s narcisem, je také důležité si uvědomit, že jsou mistři manipulace . Pokud máte tlačítka, budou vědět, co to jsou a jak je najít (a stisknout). V mnoha případech je nejlepší se s narcisem a jeho toxickým chováním vůbec nezabývat a místo toho se rozhodnout od situace odejít.
+
+Ale to není vždy možné a je nutná reakce. Abychom vám pomohli překonat tyto situace, uvádíme několik klíčových věcí, které je třeba mít na paměti při jednání s těmito osobnostmi – včetně frází, jak odzbrojit narcistu.
+
+Jak zvládnout konfrontaci s narcisem
+Scary Mommy se obrátila na licencovanou poradkyni v oblasti duševního zdraví Mary Joye, MA, PA, LMHC , aby získala odborný pohled, a Joye uznala, že je důležité vědět, „jak navigovat narcistu, když nemůžete zůstat bez kontaktu, a existuje mnoho časy, kdy nemůžete." Tajemství, jak nám řekla, je „v benigních prohlášeních“.
+
+V podstatě jim nechcete klást otázky. Proč? "Když položíte narcistovi otázky, může to vést k tomu, že nějaká verze je vaše chyba." Například: 'Proč jsi tak zlý?' narcistovi by se ti to mohlo vrátit jako ‚protože mě děláš zlým',“ vysvětlila Joye a dodala: „Je lepší dělat prohlášení jako ‚Jsi velmi obtížný a já to nemohu tolerovat.' Bez ohledu na to, co narcista říká, odejděte a moc se nepouštějte do konverzace. Dává jim to příliš mnoho munice."
+
+Narcista chce , abyste reagovali. "Pokud se neurazíte, nemůžete se bránit - a narcisté milují, když přejdete do obranného režimu," řekla Joye. "Vyhnete se tomu opět tím, že uděláte vlídná prohlášení s frázemi jako:
+
+'Vím co myslíš.'
+"Dal jsi mi hodně k přemýšlení."
+'Chápu.'
+"Váš pohled je zajímavý."
+"Vidím, odkud přicházíš."
+"Máš jedinečný pohled."
+Všechny výše uvedené fráze neznamenají, že souhlasíte s narcisem; jsou to jen vlídné fráze, se kterými se nemohou snadno hádat. A pokud vše ostatní selže a nakonec k vám budou opravdu krutí, můžete je zastavit v jejich stopách slovy: ‚Čekal jsem, že to řekneš‘.“
+
+Je pravda, že i tato fráze by mohla potenciálně vyprovokovat narcistu. "Nečekáte, že narcista bude milý nebo racionální, takže když řeknete 'Očekával jsem od vás takovou odpověď', můžete se dostat do malých problémů," varovala Joye. "Ale když to řeknete klidně s úsměvem, budou vědět, že vaše hranice je nastavena."
+
+Co říci k odzbrojení narcisty
+Když jednáte s narcisem, může být zjevně obtížné vědět, co říci, abyste je umlčeli. S ohledem na to (spolu s frázemi od Joye výše), zde je několik věcí, které můžete říct, když se vás narcista pokusí nalákat ke konfrontaci.
+
+"Nesouhlasím s tebou, ale máš právo na svůj názor." Mám také právo na své."
+„Určitě máte právo na svůj názor. Vím, že se ti to zdá správné, a vím, že tomu z celého srdce věříš."
+"Můžeme souhlasit s nesouhlasem."
+"Budeme na tom pracovat společně."
+„Dovolte mi, abych vás požádal o radu. Jak byste řešili tuto konkrétní situaci?"
+"Slyším, co říkáš."
+"Je mi líto že se tak cítíš."
+"Jen chci, abys věděl, jak se cítím."
+"Nemám právo kontrolovat, jak mě vidíš."
+"Vidím, že jsi [vložte emoce]."
+"Všechno je v pořádku."
+"To nemá nic společného s projednávanou věcí."
+"Vaše vzpomínky na události se značně liší od mých."
+"Vaše odpověď je zaznamenána."
+„Děkuji, že jsi mi dal vědět, co si myslíš; Zvážím je."
+"Děkuji za sdílení vašeho názoru."
+"Jsem ochoten to vyřešit, ale nechci, aby mě někdo urážel nebo na mě křičel."
+"Rád bych udržoval respektující pracovní vztah."
+"Rád zvážím vaše přání a preference a totéž bych chtěl od vás."
+"Chápu, že jsi naštvaný a zklamaný, a jsem ochoten vyslechnout tvé myšlenky a pocity."
+"Vím, že jsi zvyklý převzít řízení a dělat věci podle sebe, a jsi na to hrdý." Je skvělé mít takový důvtip v určitých situacích. Ale není v pořádku, když odmítáš můj názor nebo moje pocity. Vím, že jsi možná příliš naštvaný na to, abys o tom teď mluvil. Navrhuji, abychom náš rozhovor odložili, dokud nebudete mít příležitost se uklidnit."
+"Dokážu přijmout tvé mylné vnímání mě."
+"Přijímám, že se tak cítíš."
+"Tvůj hněv není moje zodpovědnost."
+"Zdá se, že jsi o tom hodně přemýšlel."
+"Věřím, že tuhle situaci zvládneme."
+Několik poznámek na závěr k jednání s narcisem
+Opět platí, že když odejdete (na chvíli nebo nadobro), je to ideální způsob, jak odpovědět narcistovi, což se dá snáze říct, než udělat – zvláště když se jedná o komplikovanou rodinnou dynamiku nebo když je narcista někdo na vašem pracovišti. Pokud se musíte spojit s narcisem, mějte na paměti následující úvahy.
+
+Narcista nepřijme vinu nebo vinu za vytvoření napětí. Takhle to prostě není. Jejich ego jim to nedovolí. Konečným cílem by tedy nemělo být přimět je, aby se omluvili nebo přiznali vinu; mělo by to být pro rozptýlení aktuální situace.
+Narcista udělá vše, co je v jeho silách, aby vás přiměl k tomu, abyste se s nimi hádali – ne proto, abyste viděli vzájemné pohledy, ale aby se vás mohli pokusit zmanipulovat, abyste souhlasili s jejich. I když to může být těžké, snažte se nenechat je vtáhnout do toho, abyste s nimi mluvili v kruzích.
+Narcista může upadnout do narcistického vzteku kvůli sebemenší provokaci, pokud je jeho ego pohmožděno. Mezi vnitřní známky narcistického vzteku patří pasivní agrese, zášť, nárok a kousavý sarkasmus. Vnější známky mohou zahrnovat křik, osobní útoky, přesouvání viny a další kruté a škodlivé chování, jako je fyzické týrání. Pokud se někdy budete cítit, jako byste byli v přítomnosti osoby v narcistickém vzteku, která ohrožuje vás, sebe nebo kohokoli jiného, ​​zavolejte na číslo 911 nebo na místní tísňovou linku.
+
+-------
+
+[Co Je Odzbrojení Narcisty? 12 Jednoduchých Způsobů, Jak To Udělat](https://www.momjunction.com/articles/how-to-disarm-a-narcissist_00786705/)
+
+Narcisté jsou natolik zaujatí sebou, že ignorují pocity ostatních (1). Pokud někoho znáte, musíte se naučit, jak odzbrojit narcistu, aby se efektivně vypořádal s jeho manipulativními strategiemi. Je těžké pochopit jejich záměry, protože někdy vypadají tak okouzlující svým falešným chováním a sladkými slovy, ale pak začnou předvádět svůj vychloubačný postoj a nafouknuté sebevědomí. Mohou s vámi dokonce manipulovat a přimět vás, abyste řekli „ano“, když musíte říct „ne“. Je moudré být v bezpečné vzdálenosti od někoho, kdo projevuje narcistické sklony, protože ignoruje vaše pocity a může vám také ublížit. Takže pokračujte ve čtení tohoto příspěvku, protože vám přinášíme několik účinných způsobů, jak odzbrojit narcistu. Můžete vyzkoušet několik z nich, ale ne úplně, protože by mohli mít podezření na váš záměr.
+
+Co Je Odzbrojení Narcisty?
+Nemůžeme ovládat narcistické chování jednotlivce . Proto je musíme být schopni zaznamenat a odzbrojit, abychom se ochránili před zraněním. Odzbrojení narcisty zahrnuje akce, které vás ochrání před narcismem dané osoby a mohou ho také trochu zmírnit.
+
+Největší výzvou při odzbrojení narcisty je to, že je manipulativní, sobecký a náročný, ale výjimečně okouzlující (2) . Proto musíte ovládat své emoce a vyhýbat se krmení jejich ega, abyste je odzbrojili.
+
+12 Tipů, Jak Odzbrojit Narcistu
+Nejlepší způsob, jak odzbrojit narcistu, je být lépe připraven. Zde je 12 účinných tipů, jak odzbrojit narcistu.
+
+1. Zachovejte chladnou hlavu
+Pokud znáte narcisty, víte, jak rádi bojují. Nejlepší způsob, jak odzbrojit narcistu, je zachovat chladnou hlavu a nemačkat s ním tlačítko „hádat se“. Když ztratíte chladnou hlavu a skončíte v boji s narcisem, označí vás za špatného člověka. Zachovejte chladnou hlavu a nereagujte před narcisem. To z vaší strany vyžaduje silnou emocionální podmíněnost, ale nakonec, když nebudete reagovat, narcista ustoupí a půjde dál.
+
+2. Vyhněte se krmení jejich ega
+Narcisté mají nafouknuté sebevědomí a ego. Mohou být již zvyklí být chváleni nebo chváleni za věci, které udělali nebo udělali. Živit toto ego je nebezpečné pro jejich narcismus a ostatní, kteří se s nimi zabývají (3) . Účinným způsobem, jak rafinovaně odzbrojit narcistu, je nekrmit jeho ego. Jakmile je narcista zvyklý, že ho nechválíte, je méně pravděpodobné, že vás později ovlivní.
+
+3. Nepřebírejte odpovědnost za jejich činy
+Pokaždé, když jednáte s narcisem, pamatujte, že nejste zodpovědní za jeho myšlenky a pocity. Pro většinu lidí, kteří bojují s narcisem, je velmi přirozené, že se vydají na cestu viny a cítí se zodpovědní za to, co se stalo. Pamatujte ale, že pokud se na vás narcista zlobí, nejste za to zodpovědní. Nabídnout převzetí viny za to, co se stalo, je to nejhorší, co můžete udělat. Když budete narcistu ignorovat a nenesete na sebe žádnou vinu, nakonec překonají své emoce a půjdou dál.
+
+4. Vyvarujte se ultimát
+Snažit se získat kontrolu a dávat ultimáta není zdravé pro žádný vztah. Při jednání s narcisem je mnoho lidí v pokušení použít ultimáta. Pokud se vám nelíbí narcistovo chování, uchýlit se k ultimátům znamená snížit se na jejich úroveň, abyste věci dotáhli do konce. Když použijete ultimáta nebo sílu, umožníte narcistovi udělat totéž.
+
+5. Nevěnujte jim negativní pozornost
+Poslední věc, kterou chcete narcistovi věnovat, je pozornost, zvláště negativní. Narcisté touží po pozornosti, ale když jim věnujete negativní pozornost, například na ně útočíte, útočíte na ně nebo je ponižujete, může to vést k tomu, že vůči vám budou mít zášť.
+
+6. Buďte empatičtí
+Pokud existuje jeden způsob, jak dosáhnout mysli narcisty, je to empatie. Empatická konfrontace je účinný způsob, jak přimět narcistu, aby vám naslouchal, a terapeuti ji často používají k léčbě lidí s narcistickými sklony . Rozvíjejte hluboké porozumění tomu, proč myslí určitým způsobem, a použijte tyto informace ke konfrontaci s jejich chováním. Po určité době se narcista může stát vnímavým a zavázat se k návštěvě terapeuta nebo poradce za účelem další léčby.
+
+7. Vždy pamatujte na jejich povahu
+Narcisté ubližují lidem více způsoby. Když se cítíte naštvaní nebo špatně kvůli nepřijatelnému chování narcisty, připomeňte si, že trpí problémem, nad kterým nemá kontrolu. Takhle jsou zapojené!
+
+Pamatujte také, že jejich povaha, chování a porucha osobnosti s vámi nemají nic společného a vy za jejich chování v žádném případě nenesete odpovědnost. Cokoli o vás říkají, není pravda a musíte si vždy udržovat vysoké sebevědomí.
+
+8. Udržujte jasné, pevné hranice
+Narcisté jsou posledními lidmi, kteří dodržují své předchozí závazky, i když to má co do činění s udržením se v jejich mezích. Když jednáte s narcisem, musíte si stanovit jasné a pevné hranice ( 4 ). Také nikdy neříkejte nebo se nezavazujte k něčemu, co nemáte v úmyslu udělat.
+
+Abyste se ochránili před narcisem, musíte udělat vše, co můžete, abyste zajistili, že vy i oni zůstanou v rámci svých definovaných hranic. Pokud narcista překročí hranice, musíte mu okamžitě ukázat jeho místo, i když to znamená právní kroky.
+
+9. Přijměte, že nemůžete změnit jejich chování
+Je přirozené, že chcete někomu s narcismem pomoci, ale jeho chování to jen zhorší. Místo toho, abyste se stali obětí jejich okouzlujících, plynových a manipulativních způsobů, přijměte, že nemůžete změnit jejich chování nebo poruchu osobnosti. Skutečnost, že se za tak dlouhou dobu nezměnily, svědčí o tom, že se možná nezmění ani v budoucnu. Přijetím toho, že nemůžete změnit jejich chování, snížíte vaše očekávání a poskytnete jim méně síly, aby vás trápili nebo s vámi emocionálně manipulovali.
+
+10. Nesnažte se vyhrát
+Mnoho z nás se v každodenním životě potýká s narcisty a pokouší se je porazit v jejich hře nebo je přechytračit. To však není dobrý nápad. Tím jim jen pomáháte a přiléváte olej do ohně.
+
+Zatímco váš hněv, frustrace a nenávist přicházejí přirozeně, měli byste tyto pocity přijmout a jít dál. Pokaždé, když budete mít chuť to narcistovi vrátit, řekněte si, že jejich chování je jejich problém a bez vašeho souhlasu vás nemohou položit. Tyto myšlenky jsou okamžitě osvobozující a usnadňují jednání s narcisem.
+
+11. Občas ignorujte
+Pokud máte co do činění s narcisem, který není ve vašem blízkém kruhu přátel a rodiny, nejlepší způsob, jak ho odzbrojit, je ignorovat ho. Ať už je to kolega na pracovišti, soused nebo rodič ve škole vašeho dítěte, ignorování narcisty jim dává méně šancí s vámi komunikovat.
+
+12. Budujte si sebevědomí
+Pravidelné jednání s narcisem může být náročné a začít ovlivňovat vaše sebevědomí. Mnoho lidí žije s emocionálním zneužíváním narcisty  roky z lásky a/nebo respektu. Ve většině případů začnou nenarcisté ztrácet sebevědomí, a proto je soužití s ​​narcisem ještě obtížnější. Účinným způsobem, jak odzbrojit narcistu, je obnovit své sebevědomí, abyste si dodali sílu, kterou potřebujete, abyste se s ním vypořádali.
+
+Emocionální zneužívání kvůli narcistovi je častější, než si myslíte. I když musíte udělat vše, co můžete, abyste ochránili sebe a svůj zdravý rozum, pochopení toho, jak si narcista myslí, vám může pomoci rozvinout empatii k nim. Empatie je klíčem k mysli narcisty, a to jim může pomoci vyhledat odbornou pomoc pro jejich psychický stav.
+
+Klíčové ukazatele
+Chcete-li se vypořádat s narcisty, musíte přijmout jejich chování, které nemůžete změnit.
+Vyhněte se krmení jejich ega a zachovejte klid.
+Můžete zkusit být empatický při jednání s narcisem.
+
+------
+
+[Pochopení narcismu](https://disarmingthenarcissist.com/understanding-narcissism/)
+
+TIPY A TECHNIKY PRO ROZPOZNÁNÍ A JEDNÁNÍ S NARCISTY
+"Vypadají dobře sestavené a sebevědomé, někdy se sacharinovým vtipem," říká Behary a varuje, že dokážou také "rychle vytáhnout kobereček zpod vás, čímž vás bez škubnutí přivedou k nudě, slzám, obavám nebo znechucení." .“
+
+Narcisté obvykle vykazují deset z následujících třinácti vlastností:
+Zaujatý sám sebou – Chová se, jako by všechno bylo jen o něm nebo o ní
+Oprávněný – vytváří pravidla; porušuje pravidla
+Ponižující – Sráží tě, tyran
+Náročný – cokoli chce
+Nedůvěřivý – Podezřívavý k vašim motivům, když se k němu chováte mile
+Perfekcionista – Přísně vysoké standardy – jeho nebo její způsob, nebo ne
+Snobský – věří, že je lepší než vy a ostatní; snadno se nudí
+Hledání schválení – Touží po neustálé chvále a uznání
+Neempatický – Nemá zájem porozumět své vnitřní zkušenosti nebo to nedokáže
+Nelítostný – nelze se upřímně omluvit
+Kompulzivní – Nadměrně se pohltí detaily a drobnostmi
+Návykový – nemůže se zbavit špatných návyků; používá je k sebeuklidnění
+Emocionálně oddělený – vyhýbá se pocitům
+
+-----
+
+[Jak odzbrojit narcistu](https://www.thecenterforgrowth.com/tips/how-to-disarm-a-narcissist)
+
+Nyní, když jsme odpověděli na otázku: „ Co je to narcista “, pojďme se konkrétně zaměřit na způsoby, jak tyto interakce pravidelně zvládat. Níže je několik praktických strategií, jak odzbrojit narcistu.
+
+Interakce s někým, kdo vykazuje rysy narcismu , může vyvolat obrovské množství stresu a tlaku. Nevědět, co očekávat, je těžké, protože narcisté mohou mít prudké změny nálady. Jejich silná potřeba moci je často žene k vývoji nových a kreativních způsobů, jak získat to, co chtějí. To často způsobuje, že se lidé kolem nich cítí zmatení, zmenšení nebo devalvovaní. Možná jste se sami sebe zeptali:
+
+"Mám na čele napsáno 'rohožka'?"
+"Proč prostě nemůžu promluvit a říct mu to?" . .“
+„Jaký mám problém? Jsem masochista?"
+Je velmi normální obviňovat se po stresující interakci s narcisem . Sebeobviňování je však téměř vždy kontraproduktivní. Sebeobviňování udržuje nerovnováhu moci a udržuje zakořeněné dysfunkční komunikační vzorce.
+
+JAK ZMĚNIT VZOR:
+
+Prvním krokem k odzbrojení narcisty je identifikace vlastních „horkých tlačítek“. Toto jsou oblasti, které jsou pro vás obzvláště citlivé a automaticky vás posílají do „režimu obrany“.
+
+Když jsme v obranném režimu, fungujeme z přesvědčení, že jsme nějakým způsobem ohroženi a potřebujeme se chránit. To okamžitě spustí reakci boje nebo útěku v našem mozku, ale současně vypne logickou, racionální část našeho mozku. Zatímco reakce na boj nebo útěk je rozhodující pro přežití, obvykle není nutná v jednoduchých interakcích tváří v tvář. Pokud sklouzneme do tohoto „obranného režimu“, nejsme schopni se vcítit do druhé osoby ani promyslet možná řešení současné situace. Narcisté jsou téměř neustále v „obranném režimu“ a často spouštějí stejný „obranný režim“ ve svém okolí. Nešťastným výsledkem je obvykle eskalující konflikt, ve kterém jsou oba lidé tak zaneprázdněni „ochranou“ sebe sama, že ztratí ze zřetele původní problém.
+
+Podívejte se na tato témata „horkých tlačítek“, abyste zjistili, která z nich jsou pro vás nejcitlivější:
+
+Defekt/styd – pocit, že jste špatní, méněcenní nebo ne dost dobří. Obava, že kdyby ostatní viděli „skutečné vás“, považovali by vás za nemilého a nehodného a odmítli by vás. Toto horké tlačítko se často projevuje jako přecitlivělost na zpětnou vazbu nebo kritiku, nejistota kolem druhých nebo neochota rozvíjet blízké, intimní vztahy (ze strachu, že budou zraněni).
+
+Opuštění – všudypřítomný strach z toho, že nelze počítat s tím, že tu pro vás budou významní druzí. Pocit, že ostatní nebudou soustavně poskytovat emocionální podporu, protože jsou nestabilní, nespolehliví nebo sebestřední.
+
+Negativita/pesimismus – převládající pohled na všechny věci, které jsou špatné se světem a/nebo vaším životem. Nevyhnutelné přesvědčení, že život je plný bolesti, zklamání a zrady. Toto „horké tlačítko“ je nejčastěji spojeno s neschopností rozpoznat pozitivní aspekty života. Tento názor je často charakterizován přehnaným strachem z chyb a/nebo z katastrofálních následků, které by z toho mohly plynout.
+
+Sebeobětování – přesvědčení, že je lepší obětovat své vlastní potřeby, pocity nebo touhy pro někoho jiného. Může to být ve snaze zabránit ostatním, aby pociťovali bolest, udržovat spojení s někým, kdo se zdá být příliš potřebným, nebo se vyhnout pocitu viny z pocitu sobectví. To obecně vede k nahromadění hněvu a zášti, což může vést k výbuchům hněvu, stažení náklonnosti nebo dokonce k návykovému chování.
+
+Pokud jsou vám některá z těchto „horkých tlačítek“ známá, pravděpodobně vám znesnadňují objektivitu během napjatých nebo vysoce konfliktních interakcí. Chcete-li odzbrojit narcistu, musíte začít identifikací vlastních „horkých tlačítek“. Tím snižujete sílu, kterou narcista mohl mít v minulosti, a získáváte větší kontrolu nad svými vlastními emocionálními reakcemi.
+
+Když se stiskne vaše „horké tlačítko“, zkuste se zastavit a zhluboka se nadechnout. To přeruší automatickou reakci „obranného režimu“ a poskytne vám chvíli, abyste znovu získali kontrolu nad svými emocemi. Vyberte si realistickou, posilující myšlenku jako:
+
+"I když se v tuto chvíli cítím špatně, tato situace není jen moje chyba." Jsem schopen být dospělý a najít svůj hlas. Zasloužím si být slyšen a respektován, i když nejsem dokonalý.“
+"Právě se cítím velmi defenzivní, ale vím, že jsem v bezpečí." Můžu se na chvíli uklidnit. Pak mohu reagovat asertivně a jasně.“
+"Zdá se, že se právě teď cítí dost ohrožený a defenzivní." Možná by bylo užitečné znovu se k tomuto problému vrátit poté, co si oba odpočineme.“
+Snažte se mít na paměti, že narcista má téměř vždy pocit, že jeho/její hodnota je zpochybňována, a proto (s)potřebuje prokázat svou hodnotu a bránit se. Toto NENÍ osobní útok na vás (i když to tak vypadá). Je to odraz toho, že se narcista vyhýbá pocitu zranitelnosti, slabosti nebo nedostatečnosti. Představte si, že narcista ve vašem životě „stíní boxuje“ s něčím neviditelným. To vám pomůže připomenout, že skutečně bojuje proti ne dost dobrému zvířeti a ne proti vám osobně.
+
+Nyní, když jste upravili své vlastní myšlení, jste schopni lépe reagovat na narcistu asertivním a produktivním způsobem. Níže jsou uvedeny některé fráze, které mohou být užitečné při rozptýlení situace na pracovišti při vytyčování hranic (liší se mírou od jemných po pevné):
+
+Vidím, že to cítíš velmi silně.
+
+Máš právo na svůj názor.
+To by mohlo být.
+Vidíme věci jinak.
+Zajímalo by mě, jak to můžeme udělat lépe.
+trápí mě to. . .
+Obávám se . . .
+Jsem zklamaný . . .
+je mi to nepříjemné . . .
+Zdá se, že máme problém. . .
+To, co dělám, mě opravdu baví, takže doufám, že se s tím vypořádáme způsobem, který nám umožní pokračovat ve spolupráci.
+Jsem ochoten to vyřešit, ale nejsem ochotný nechat se urážet nebo křičet.
+Rád bych udržoval respektující pracovní vztah.
+Možná si neuvědomujete, jak škodlivé bylo vaše chování. . .
+Křičet nic neřeší a u mě to nefunguje. Promluvme si, až se budeš cítit klidněji.
+Chci, abyste věděli, že mi vaše chování připadá nepříjemné a dětinské. Nejsem si jistý, proč cítíte potřebu se mnou mluvit tak neuctivě, ale pokud to bude pokračovat, podniknu další kroky.
+Nechápu, proč cítíte potřebu se mě snažit zastrašit, ale je to nepřijatelné a já to nebudu tolerovat.
+Pokud žijete s narcisem nebo s ním máte vztah , máte několik možností. Můžete ukončit vztah, zůstat u „status quo“ nebo se naučit a praktikovat novější, zdravější způsoby komunikace. Jak jste pravděpodobně uhodli, třetí možnost vyžaduje velké množství energie a odhodlání. Ale je fakt, že my jako lidské bytosti jsme schopni změny.
+
+Zde je několik frází pro mezilidské situace:
+
+Rád zvážím vaše přání a preference a totéž bych si přál od vás. Aby tento vztah fungoval, musíme oba cítit, že na nás záleží, že naše pocity a názory jsou vyslyšeny a respektovány. Někdy mám pocit, že pro každého z nás platí jiná pravidla, a to mi opravdu nefunguje.
+Uvědomuji si, jak je pro vás vaše práce důležitá, a oceňuji vaši oddanost naší rodině. Ale chybíš mi a znepokojuje mě, jak moc na sebe tlačíš. To je pro mě opravdu důležité. Chci přijít s řešením, které uspokojí oba naše potřeby.
+Chápu, že jsi naštvaný a zklamaný. A jsem ochoten vyslechnout vaše myšlenky a pocity. Ale neslyším, co říkáš, když ti ubližuješ. Nemyslím si, že mi chceš ublížit, ale někdy mi přijdeš přehnaně kritický. Rozčiluje mě to a situaci to nepomáhá.
+Vím, že jsi zvyklý převzít kontrolu a dělat věci podle sebe, a jsi na to hrdý. Je skvělé mít takový důvtip v určitých situacích. Ale není v pořádku, když odmítáš můj názor nebo moje pocity. Vím, že jsi možná příliš naštvaný na to, abys o tom teď mluvil. Navrhuji, abychom náš rozhovor odložili, dokud nebudete mít příležitost se uklidnit.
