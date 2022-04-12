@@ -283,3 +283,67 @@ Udělejte si čas, který potřebujete, abyste se vyléčili z traumatu, které 
 
 
 ---------
+[Jak odzbrojit narcistu (a učinit je o něco snesitelnějším)](https://www.divorcemag.com/articles/how-to-disarm-a-narcissist-and-make-them-a-bit-more-tolerable)
+
+Nejdůležitějším trikem k odzbrojení narcisty je ovládat své emoce.
+Autor Tara Parker Aktualizováno: 24. prosince 2021
+Kategorie: Vyrovnání se s rozvodem , Zotavení po rozvodu , Ženy a rozvod
+
+Jak odzbrojit narcistu (a učinit je o něco snesitelnějším)
+Není pochyb o tom, že každý z nás má ve svém životě narcistu; ten člověk, který si prostě nevidí na konec nosu. Zatímco mnozí z nás jsou schopni zažít svět kolem nás a najít způsob, jak se vypořádat s rozdávanými vzestupy a pády, narcisté mají tendenci udržovat své okolí velmi dobře pod kontrolou. Cokoli nemohou ovládat, obviňují ostatní.
+
+To je  to, co dělá  práci s narcisty tak obtížnou. I když máte dobrý argument a schůdné řešení, narcista použije svůj repertoár munice, aby vás porazil a udělal z vás vinu. Mohlo by být snadné si myslet, že toho člověka můžeme prostě upustit a jít dál životem, ale někdy se to mnohem snáze řekne, než udělá.
+
+Narcisté nejsou lidé, které si vybíráme, aby byli v našich životech, ale prostě tam jsou. Zcela upřímně, někdy jsme uvízli s narcisem , a proto se musíme naučit, jak s ním zacházet.
+
+Tipy, jak odzbrojit narcistu
+Musíte vědět, jak narcistu odzbrojit, aby byl o něco snesitelnější. Zde je několik nápadů, které vám s tím pomohou.
+
+1. Nepodléhejte pokušení klesnout na jejich úroveň. Narcisté milují dobrý boj  a ne proto, že by byli dobří v hádkách, ale vědí, jak zmáčknout tlačítka. Stisknutím tlačítek jste v pokušení se slovně chránit. Narcista potřebuje, abyste se bránili, protože pak jste to vy, kdo ztratil kontrolu. Ty jsi ten špatný. Když hodí první verbální judo, je to na tobě, že? Jak to obejít? Buď v pohodě. Nereagujte na emoce v místnosti. Pokud nejste obeznámeni s emoční inteligencí, seznamte se s ní. To bude vaše první obrana při odzbrojení vašeho narcise. Je důležité, abyste zůstali pod kontrolou svých emocí, což narcista nebude!
+
+2. Nekrmte ego.  Určitě jste byli v zoo a viděli jste známky toho, že „divoká“ zvířata necítíte? No, narcisté jsou hodně podobní těm uvězněným divokým zvířatům. Za plotem vypadají dobře a ten plot vám dává falešný pocit bezpečí. Nenechte se zmást. Zvířata v zoo nekrmíte, protože dokážou být docela nepředvídatelní, stejně jako narcis, kromě jeho „divoké“ stránky v jeho egu. Pamatujte, že narcisté mají působivý pocit sebe sama, a když na toto ego hodíte četné slovní chvály, posílíte tu nestabilní slabou mysl. Když krmíte jeho ego, neslyší chválu; slyší, jak je mu lépe než vám. Pokud medvěda nenakrmíte, nebude mít později energii zaútočit na vaši důvěru.
+
+3. Nepřebírejte zodpovědnost za jeho emoce.  Pokud je naštvaný, ať je naštvaný. Pokusí se z vás udělat mučedníka za své negativní emoce. Po chvíli může být zatraceně snazší přijmout tuto vinu, protože ho to povzbudí, aby přestal, ale trhá to na vás zevnitř. Než se nadějete, nabízíte, že za něj vezmete vinu za jeho emoce tím, že uděláte vše, co chce. Ať se raduje ve stejných kalhotách, ve kterých se naštval – vždy to přejde.
+
+4. Nepoužívejte ultimáta.  Žádný vztah by nikdy neměl obsahovat ultimátum – je to forma kontroly, a proto je bude používat znovu a znovu. Pokud se vám nelíbí něco, co dělá, nebo cítíte potřebu toho využít k získání kontroly, možná jste se stali stejně toxickými jako on. Pamatujte, že vaše činy a slova mu dávají okamžité povolení udělat totéž s vámi – i když se mince nehází na obě strany.
+
+5. Nevěnujte mu negativní pozornost.  Stejně jako emocionální teenageři si narcisté užívají pozornosti. Pozitivní pozornost je pro narcisty skvělá, ale negativní je zásadní pro jejich schopnost vést vás k odpovědnosti. Je to nezdravá část jejich myšlení. Jakmile jim věnujete negativní pozornost, budou ji držet nad vaší hlavou. Potřebují, abyste jim věnovali negativní pozornost jako prostředek, jak na vás zaútočit a zaměřit se na vás. Pokud jste k narcistovi nejbližší osobou, jste stálým a nejspolehlivějším cílem pro získání negativní pozornosti. To je důvod, proč narcista bude pracovat na tom, aby se ujistil, že zůstanete poblíž. Koneckonců, kdo jiný by snesl takové...nesmysly?
+
+Narcisté jen zřídka přebírají odpovědnost za své emoce, a přesto očekávají, že se budete zodpovídat za své. Váš narcista tvrdě pracoval, aby věděl, co vás přiměje, jak stisknout tlačítka a jak vás přesvědčit, abyste zůstali. Nejlepší způsob, jak jednat s narcisem, je mít své emoce zcela pod kontrolou – mnohem snáze se to řekne, než udělá, ale dá se to udělat. Podívejte se rychle na svou emoční inteligenci a zjistěte, jak ji využít, abyste se ovládli. Nejdůležitějším trikem k odzbrojení narcisty je ovládat své emoce.
+
+Nejlepší způsob, jak jednat s narcisem , je mít své emoce zcela pod kontrolou – mnohem snáze se to řekne, než udělá, ale dá se to udělat. Podívejte se rychle na svou emoční inteligenci a zjistěte, jak ji využít, abyste se ovládli. Nejdůležitějším trikem k odzbrojení narcisty je ovládat své emoce. Jakmile to uděláte, odstraníte velkou část jeho brnění a bude ponechán svému osudu – o čemž ví nejméně.
+
+Můžeš to udělat!
+
+Časté otázky o odzbrojení narcisty:
+Jsou narcisté dobří v hledání chyb u vás?
+
+Narcisté jsou dobří v hledání chyb u vás a jsou schopni vás snižovat bez ohledu na to, jak moc se snažíte dostát jejich standardům. Narcisté u vás nacházejí chyby, aby dokázali, že jsou solí země a všichni ostatní jsou pod nimi. Používají tuto strategii, aby vás stále kontrolovali a přiměli vás dělat, co chtějí.
+
+Vyvolávají narcisté hádky se svými partnery záměrně?
+
+Narcisté se svými partnery záměrně svádějí hádky, aby je mohli obvinit ze ztráty kontroly a špatného chování. Narcisté mají zázračnou schopnost mačkat vaše tlačítka a obviňovat vás i za své vlastní chyby. 
+
+Jak reagovat, když se s vámi narcista pokusí poprat?
+
+První pravidlo, jak jednat s narcisem, když se s vámi snaží bojovat, je naučit se, jak nereagovat. Když ovládnete své emoce a odmítnete se stát obětí jeho triku, aby vás stáhl na jeho úroveň, připravíte narcistu o jeho nejúčinnější zbraň – a budete litovat, že se s vámi zoufale snaží svést. 
+
+Uklidní ho pochvala narcisty?
+
+Živit narcistovo ego chválou vám nikdy neudělá dobře, protože to považuje za povolení svého partnera neustále zneužívat. Chvála dále podněcuje jeho grandiózní klam a slouží jako ospravedlnění pro to, aby nepatřičně využíval druhé.
+
+Jak se vypořádat s negativními emocemi narcisty?
+
+Narcisté jsou velmi špatní ve zvládání svých negativních emocí a opravdu dobří v obviňování druhých za své vlastní pocity. Pro mysl narcisů jste to vy, kdo je zodpovědný za to, že se cítí negativně. Nesnažte se utišit jeho emoce, nechte ho, ať se s tím vypořádá sám.
+
+Jak ovládat narcistu?
+
+Nutkání ovládat narcistu odráží narcistickou potřebu. Pokud vás žene potřeba ovládat narcistu, možná jste se stali obětí jeho toxicity. Kromě toho, snažit se porazit narcistu v jeho vlastní hře je chyba, kterou nechcete udělat.
+
+Jaký je nejlepší trik, jak se vypořádat s narcisem?
+
+Nejlepší trik, jak se vypořádat s narcisem, je nenechat se jím stáhnout na jeho úroveň. Chcete-li tento výkon provést, budete muset zachovat chladnou hlavu a ovládat své emoce.
+
+
+
+-------
