@@ -1,16 +1,16 @@
-16 frází k odzbrojení narcise
+[16 frází k odzbrojení narcise](https://www.choosingtherapy.com/phrases-to-disarm-a-narcissist/)
 
 
 Narcisové mají tendenci být extrémně rozzlobení a nestálí, zvláště vůči těm, se kterými bojují. Mnoho lidí, kteří se hádají s narcisem, se vyrovná s tím, že jednoduše opustí konverzaci nebo se jim vyhnou. Pro ostatní se snaží zůstat stranou a zmírnit hádku. To může být extrémně náročné, ale s časem a trpělivostí je to možné.
 
-Co je to narcista?
+#### Co je to narcis?
 
 Narcista je někdo, kdo trpí narcistickou poruchou osobnosti a v důsledku toho se na sebe pohlíží s vyšším postojem než ty, kde věří, že jsou výjimečnější a zaslouží si věci. Mívají diagnostikovanou narcistickou poruchu osobnosti, která se vyznačuje grandiózním myšlením, nafouknutým pocitem ega, nedostatkem empatie a potřebou být všemi obdivován. Často mají hluboce zakořeněné nejistoty a strachy, které jsou zakryty těmito narcistickými rysy.
 
 
 Jednání s narcisem může být obtížné, ať už je to někdo, s kým jste ve vztahu , vaši rodiče , váš šéf nebo vaše tchyně . Hádky a hádky, které následují s narcisty, jsou extrémně vyčerpávající a emocionální a mohou ovlivnit vaše duševní zdraví. Znalost těchto frází může být klíčovým krokem k odříznutí narcisty od jeho narcistické nabídky a k zabránění tomu, abyste se stali obětí jejich zneužívání.
 
-Následuje 16 klíčových frází, jak odzbrojit narcistu:
+#### Následuje 16 klíčových frází, jak odzbrojit narcistu:
 
 1. „Váš hněv není moje odpovědnost“
 
@@ -78,7 +78,7 @@ Z tohoto tvrzení se zdá, že jejich pohled není ani špatný, ani dobrý, ale
 
 Tato fráze použitá jako otázka je spíše rétorická, ale když je použita doslovně, může konverzaci vyrovnat, takže není tak emocionálně nabitá.
 
-Závěrečné myšlenky
+#### Závěrečné myšlenky
 
 To, s čím se potýkáte, může být pro vás jedinečné, ale nejste sami. Pokud máte co do činění s narcistickým vztahem, rozhovor s terapeutem, který se specializuje na tuto oblast osobního růstu, může mít velký vliv na to, jak se cítíte a jak se s tím vyrovnáváte. Naučit se a vědět více o těchto frázích vás může ochránit před narcisty ve vašem životě.
 
