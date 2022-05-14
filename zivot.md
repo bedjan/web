@@ -117,6 +117,12 @@
 
 [Cad cvut navod](http://autocad.fd.cvut.cz/)
 
+[Cad prohlizec](https://sharecad.org/)
+
+[Cad prohlizec](https://gallery.proficad.eu/tools/autocad-viewer.aspx)
+
+[Cad prohlizec original](https://www.autodesk.cz/viewers)
+
 ## Microstation
 
 [Microstation wiki](https://communities-bentley-com.translate.goog/products/microstation/w/microstation__wiki/3274/microstation?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=cs&_x_tr_pto=wapp)
