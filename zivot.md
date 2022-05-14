@@ -107,3 +107,11 @@
 ## Koloidni stříbro, platina, zlato
 
 [Koloidni stříbro](https://www.silvermedic.cz/)
+
+
+## Autocad
+
+[Autocad forum](https://www.autocadblog.cz/rozdily/)
+
+[Cad forum](https://www.cadforum.cz/cz/)
+
