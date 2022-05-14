@@ -126,3 +126,7 @@
 ## Microstation
 
 [Microstation wiki](https://communities-bentley-com.translate.goog/products/microstation/w/microstation__wiki/3274/microstation?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=cs&_x_tr_pto=wapp)
+
+## Architektura severu
+
+[Architektura severu](https://teplice-teplitz.net/)
