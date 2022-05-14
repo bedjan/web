@@ -111,7 +111,7 @@
 
 ## Autocad
 
-[Autocad forum](https://www.autocadblog.cz/rozdily/)
+[Autocad navody](https://www.autocadblog.cz/rozdily/)
 
 [Cad forum](https://www.cadforum.cz/cz/)
 
