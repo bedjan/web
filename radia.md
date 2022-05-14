@@ -8,7 +8,7 @@
 
 * * *
 
-[Radio Humor](http://mp3stream4.abradio.cz:8000/humor.mp3) [Sky Radio 80's Hits](http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3) [City 80](http://ice.abradio.cz/city80128.mp3) [City 90](http://ice.abradio.cz/city90128.mp3) [Cimrman 128](http://liquiddoom.net:8000/cimrman) [Trance](http://147.135.206.145:8020/live) [Ohen_v_krbu 128](http://ice6.abradio.cz/relax-fire128.mp3 "Ohen_v_krbu 128
+[Radio Humor](http://mp3stream4.abradio.cz:8000/humor.mp3) [Sky Radio 80's Hits](http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3) [City 80](http://ice.abradio.cz/city80128.mp3) [City 90](http://ice.abradio.cz/city90128.mp3) [Ohen_v_krbu 128](http://ice6.abradio.cz/relax-fire128.mp3 "Ohen_v_krbu 128
  ") [Pohadka 128](http://ice3.abradio.cz/pohadka128.mp3 "Pohadka 128
 ") [Povidka 128](http://ice3.abradio.cz/povidka128.mp3 "Povidka 128
  ") [Pohadky_pigy](http://pool.cdn.lagardere.cz/web-pg-pohadky "Pohadky_pigy
