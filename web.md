@@ -7,7 +7,7 @@
 [Raindrop.io](https://app.raindrop.io/account/login)
 [Markdown editor](https://uiwjs.github.io/react-md-editor/)
 [Bitwarden](https://vault.bitwarden.com/#/vault)
-[Web prekladac]](http://free-website-translation.com/)
+[Web prekladac](http://free-website-translation.com/)
 [Hackmd](https://hackmd.io/?nav=overview)
 [Lastpass](https://lastpass.com/?ac=1)
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
