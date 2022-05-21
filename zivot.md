@@ -145,4 +145,4 @@
 
 [Bjorn Lomborg - osobní stránky](https://www-lomborg-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
 
-
+[Bail in](https://www-investopedia-com.translate.goog/terms/b/bailin.asp?_x_tr_sl=auto&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
