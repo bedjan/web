@@ -132,3 +132,10 @@
 [Architektura severu](https://teplice-teplitz.net/)
 
 [Hornická kolonie v Duchcově](https://teplice-teplitz.net/stavby/karta/nazev/17-hornicka-kolonie-v-duchcove)
+
+## Izrael – kapkové závlahy
+
+[Izrael – země kapkové závlahy](https://zahradaweb.cz/izrael-zeme-kapkove-zavlahy/)
+
+[Kapky v poušti aneb Velká reportáž z míst, kde vědí, jak vyzrát na sucho](https://forbes.cz/kapky-v-pousti-aneb-velka-reportaz-z-mist-kde-vedi-jak-vyzrat-na-sucho/)
+
