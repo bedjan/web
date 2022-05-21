@@ -139,3 +139,10 @@
 
 [Kapky v poušti aneb Velká reportáž z míst, kde vědí, jak vyzrát na sucho](https://forbes.cz/kapky-v-pousti-aneb-velka-reportaz-z-mist-kde-vedi-jak-vyzrat-na-sucho/)
 
+
+
+## Bjorn Lomborg - Uveďte fakta na pravou míru
+
+[Bjorn Lomborg - osobní stránky](https://www-lomborg-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=cs&_x_tr_hl=cs&_x_tr_pto=wapp)
+
+
