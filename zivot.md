@@ -163,3 +163,7 @@ https://naucse.python.cz/course/pyladies/
 https://www.jimejinak.cz/svetelny-koren-zazracna-zelenina/
 
 https://www.youtube.com/watch?v=_9QSOZPr5E4
+
+## Sekačky ERGO
+
+http://www.ergo.sro.cz/Sekacky-ERGO-c2_0_1.htm
