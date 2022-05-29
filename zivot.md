@@ -156,3 +156,10 @@ https://ksp.mff.cuni.cz/kurz/
 http://pruvodce.ucw.cz/
 
 https://naucse.python.cz/course/pyladies/
+
+
+## Světelný kořen
+
+https://www.jimejinak.cz/svetelny-koren-zazracna-zelenina/
+
+https://www.youtube.com/watch?v=_9QSOZPr5E4
