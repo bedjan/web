@@ -1,3 +1,7 @@
+#### Html cleaner
+
+https://www.htmlwasher.com/upload/
+
 #### Jquery markdown editor localhost
 
 [Jquery markdown editor localhost](https://www.jqueryscript.net/text/Bootstrap-Markdown-Editor-Krajee.html)
