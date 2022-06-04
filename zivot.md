@@ -167,3 +167,5 @@ https://www.youtube.com/watch?v=_9QSOZPr5E4
 ## Sekačky ERGO
 
 http://www.ergo.sro.cz/Sekacky-ERGO-c2_0_1.htm
+
+https://www.topvet.cz/herbar/schizandra-klanopraska-cinska
