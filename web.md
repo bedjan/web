@@ -28,7 +28,7 @@
 [Podcasty](https://ceskepodcasty.cz/)
 [Matfyz prekladac](https://lindat.mff.cuni.cz/services/translation/)
 [Ukrajinsky prekladac vs. CZ](https://lindat.cz/translation/)
-[Posta dorucene nahled](https://www.postaonline.cz/trackandtrace)
+[Posta dorucene sledovani](https://www.postaonline.cz/trackandtrace)
 
 
 ### Download
