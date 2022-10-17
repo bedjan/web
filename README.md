@@ -1,3 +1,8 @@
+# Endora
+
+
+[Endora admin](https://webadmin.endora.cz/user/?welcome=1&user=janbednarmablog)
+
 # Klonováni repozitáře
 
 `git clone https://github.com/bedjan/web.git`
