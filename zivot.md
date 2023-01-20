@@ -173,3 +173,14 @@ https://www.topvet.cz/herbar/schizandra-klanopraska-cinska
 ## Kniha Odhalené emoce
 
 https://www.databazeknih.cz/knihy/odhalene-emoce-262290
+
+## Narcismus
+
+https://www.databazeknih.cz/knihy/budu-vubec-nekdy-dost-dobra-379926
+
+https://www.databazeknih.cz/knihy/kdyz-narciste-zestarnou-450678
+
+## Ringwoodit
+
+https://voda235.webnode.cz/ringwoodit/
+
