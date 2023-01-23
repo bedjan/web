@@ -1,4 +1,4 @@
-[Test osobnosti ISTJ,..](https://testosobnosti.zarohem.cz/test.php)
+[Test osobnosti ISTJ,..INFJ](https://testosobnosti.zarohem.cz/test.php)
 
 [Test podle Davida Danielse](http://martin.lojkasek.cz/CZ/Enneagram/daniels.php)
 
