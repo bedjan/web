@@ -55,6 +55,8 @@
 [Čas](https://time.is/)
 [Muj vodafone](https://www.vodafone.cz/muj/prihlaseni)
 [Oskarta](https://moje.oskarta.cz/)
+[Jidelny](https://www.jidelny.me.cz/jidelna14/)
+
 
 ### Google
 
