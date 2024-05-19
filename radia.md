@@ -1,6 +1,6 @@
 ﻿<meta charset="UTF-8">
 
-[Abradio](http://www.abradio.cz/) [Youtube](http://www.youtube.com/) [Shoutcast](https://www.shoutcast.com/) [Xing](http://dir.xiph.org/index.php) [Di.fm](https://www.di.fm/) [Radia_online.m3u](https://github.com/bedjan/mm/raw/master/radia_online.m3u)  
+[Abradio](http://www.abradio.cz/) [Youtube](http://www.youtube.com/) [Shoutcast](https://www.shoutcast.com/) [Xing](http://dir.xiph.org/index.php) [Di.fm](https://www.di.fm/) [Radia_online.m3u](https://github.com/bedjan/mm/raw/master/radia_online.m3u) [Radia_online_url](https://streamurl.link/) 
 
 * * *
 
