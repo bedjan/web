@@ -41,7 +41,7 @@
 [Instagram download](https://igram.io/)
 [Youtube subtitle download](https://downsub.com/)
 [Twitter download](https://downloadatwittervideo.com/)
-
+[Torrent download](https://sktorrent.eu)
 
 ### Obecné
 
