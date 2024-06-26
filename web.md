@@ -29,6 +29,7 @@
 [Matfyz prekladac](https://lindat.mff.cuni.cz/services/translation/)
 [Ukrajinsky prekladac vs. CZ](https://lindat.cz/translation/)
 [Posta dorucene sledovani](https://www.postaonline.cz/trackandtrace)
+[Claude AI](https://claude.ai/onboarding?returnTo=%2F%3F)
 [Jirka fotky](https://www.rajce.idnes.cz/lipova-lipka/album/kulisci/1511277136)
 
 
