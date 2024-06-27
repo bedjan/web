@@ -1,6 +1,4 @@
-<meta charset="UTF-8">
-
-###Swiat według kiepskich wszystkie odcinki
+### Swiat według kiepskich wszystkie odcinki
 
 
 SEZON 1
