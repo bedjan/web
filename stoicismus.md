@@ -1,6 +1,6 @@
 <p>Žít podle stoických principů znamená přijmout filozofii, která zdůrazňuje rozvoj ctnosti, rozumové sebeovládání a přijímání osudu. Zde jsou konkrétní kroky a praktiky, které vám mohou pomoci žít podle stoických zásad:
 Praktické Kroky pro Život podle Stoicismu</p>
-<pre><code>Soustřeďte se na to, co můžete ovládat:
+<pre>Soustřeďte se na to, co můžete ovládat:
     Rozlišujte mezi tím, co je ve vaší moci (myšlenky, pocity, činy) a co není (vnější události, reakce ostatních lidí). Zaměřte se na věci, které můžete ovlivnit, a přijměte ty, které nemůžete.
 
 Rozvíjejte ctnosti:
@@ -20,9 +20,9 @@ Negativní vizualizace:
 
 Pomáhejte druhým:
     Součástí stoicismu je také pomoc druhým a snaha o spravedlnost. Pomáhejte lidem ve svém okolí a přispívejte k většímu dobru společnosti.
-</code></pre>
+</pre>
 <p>Denní Rutina podle Stoicismu</p>
-<pre><code>Ranní meditace:
+<pre>Ranní meditace:
     Začněte den meditací nebo tichým rozjímáním o tom, co vás čeká a jak můžete jednat ctnostně.
 
 Stanovení cílů:
@@ -33,11 +33,11 @@ Vědomé jednání:
 
 Večerní reflexe:
     Večer si vyhraďte čas na reflexi. Přemýšlejte o tom, co jste udělali, co se vám povedlo a co byste mohli zlepšit.
-</code></pre>
+</pre>
 <p>Citáty pro Inspiraci</p>
-<pre><code>Seneca: „Štěstí je skutečné tehdy, když naše rozumová mysl je v souladu s ctností.“
+<pre>Seneca: „Štěstí je skutečné tehdy, když naše rozumová mysl je v souladu s ctností.“
 Epiktétos: „Není to věc, co nás trápí, ale naše mínění o ní.“
 Marcus Aurelius: „Když se ráno probudíš, pomysli na to, jaké privilegium je být naživu, myslet, radovat se a milovat.“
-</code></pre>
+</pre>
 <p>Dodržováním těchto zásad a praktik můžete žít život podle stoických principů, který je zaměřen na vnitřní klid, rozvoj ctnosti a racionální přístup k životním výzvám.</p>
 
