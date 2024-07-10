@@ -1,5 +1,20 @@
 ﻿<meta charset="UTF-8">
 
+
+1. když se s ženou na něčem dohodneš, tak se na to díváš logicky a ona emocionálně. Když se emocionální rozpoložení ženy změní, změní se i dohoda.
+   
+2. žena se bude odlišně chovat k silnému, střednímu a slabému muži. Ze ctihodné dámy se rázem stane histerka a naopak.
+   
+3. žena neustále vymýšlí shit testy, aby si otestovala hodnost muže. Silný muž se nenechává zbytečně zatahovat do psychoemocionálních her, je nad věcí a udržuje klidnou atmosféru.
+   
+4. pokud jsi v práci úspěšný, tak si dobře promysli zadní vrátka a buď si vědom černého scénáře. Je možné, že si narazil na ženu, která chce dítě a zajištění více než tebe.
+   
+5. Pokud ti dává žena nějakou formu disrespektu, tak je to vždy budoucí bývalá, protože respekt je pro opravdového muže důležitější, než sex.
+   
+6. jestliže tě žena nepodporuje v tvém úsilí něčeho dosáhnout a místo toho tě manipuluje k tomu, aby si dělal něco co chce ona, tak ji poděkuj za krásné chvíle a popřej hodně štěstí v hledání nějakého užitečného idiota.
+
+-------------
+
 <div class="Section1">
 
 **<span style="color:red">Emancipace</span>** **žen**=rovnoprávnost žen a mužů, nezávislost na mužích, u zvířat většinou není, vlivem toho obtížnější mezilidské vztahy
