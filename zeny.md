@@ -13,7 +13,6 @@
    
 6. jestliže tě žena nepodporuje v tvém úsilí něčeho dosáhnout a místo toho tě manipuluje k tomu, aby si dělal něco co chce ona, tak ji poděkuj za krásné chvíle a popřej hodně štěstí v hledání nějakého užitečného idiota.
    
-7. Zeny přitahuje to, že si chlap nepotřebuje dokazovat, že může mít jakoukoliv...a je přitom sebevědomý a žije pouze pro jednu.
 
 -------------
 
