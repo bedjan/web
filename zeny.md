@@ -13,6 +13,8 @@
    
 6. jestliže tě žena nepodporuje v tvém úsilí něčeho dosáhnout a místo toho tě manipuluje k tomu, aby si dělal něco co chce ona, tak ji poděkuj za krásné chvíle a popřej hodně štěstí v hledání nějakého užitečného idiota.
    
+7. [Socialni dynamika](https://www.youtube.com/watch?v=i6zi5U96wXg&list=PLleebKzyRSnuG12ODaY-n8PHlANwaOsrw)
+   
 
 -------------
 
