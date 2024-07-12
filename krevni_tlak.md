@@ -1,3 +1,113 @@
+# Doporučené levné potraviny a denní množství pro podporu krevního oběhu, nervové soustavy, duševní a tělesné pohody:
+
+1. Ovesné vločky
+
+    Účinky: Bohaté na vlákninu a vitamíny skupiny B, podporují zdraví srdce a mozku.
+    Doporučené množství: 1 šálek (80 gramů) denně.
+
+2. Banány
+
+    Účinky: Bohaté na draslík a vitamín B6, podporují nervovou funkci a snižují riziko křečí.
+    Doporučené množství: 1-2 banány denně.
+
+3. Špenát
+
+    Účinky: Bohatý na železo, hořčík a vitamíny B, podporuje krevní oběh a nervovou funkci.
+    Doporučené množství: 1 šálek (150 gramů) vařeného špenátu denně.
+
+4. Vejce
+
+    Účinky: Bohaté na bílkoviny, vitamíny B a cholin, podporují mozkovou funkci a duševní pohodu.
+    Doporučené množství: 1-2 vejce denně.
+
+5. Ořechy a semena (vlašské ořechy, slunečnicová semínka)
+
+    Účinky: Bohaté na zdravé tuky, vitamíny E a B, podporují zdraví mozku a nervové soustavy.
+    Doporučené množství: 1 hrst (28 gramů) denně.
+
+6. Luštěniny (čočka, fazole, cizrna)
+
+    Účinky: Bohaté na bílkoviny, vlákninu a vitamíny B, podporují zdraví srdce a mozku.
+    Doporučené množství: 1 šálek (200 gramů) vařených luštěnin denně.
+
+7. Celozrnné obiloviny (hnědá rýže, quinoa, celozrnný chléb)
+
+    Účinky: Bohaté na vlákninu a vitamíny B, podporují nervovou funkci a stabilizují hladinu cukru v krvi.
+    Doporučené množství: 1 šálek (150 gramů) denně.
+
+8. Mléčné výrobky (jogurt, kefír)
+
+    Účinky: Bohaté na vápník, vitamíny D a B, podporují zdraví kostí a nervů.
+    Doporučené množství: 1 šálek (245 gramů) denně.
+
+9. Ryby (losos, makrela)
+
+    Účinky: Bohaté na omega-3 mastné kyseliny, podporují zdraví srdce a mozku, mají protizánětlivé účinky.
+    Doporučené množství: 100-150 gramů 2-3krát týdně.
+
+10. Zelený čaj
+
+    Účinky: Bohatý na antioxidanty, podporuje duševní pohodu a kognitivní funkce.
+    Doporučené množství: 2-3 šálky denně.
+
+## Doporučený jídelníček na celý den:
+
+- Snídaně
+
+    Ovesné vločky s banánem a semínky
+        Suroviny: 80 g ovesných vloček, 1 banán, 1 lžíce chia semínek, skořice
+        Příprava: Zalijte ovesné vločky horkou vodou nebo mlékem, přidejte nakrájený banán a posypte chia semínky a skořicí.
+
+- Dopolední svačina
+
+    Jogurt s medem a ořechy
+        Suroviny: 245 g bílého jogurtu, 1 lžíce medu, hrst vlašských ořechů
+        Příprava: Smíchejte jogurt s medem a posypte ořechy.
+
+- Oběd
+
+    Čočková polévka
+        Suroviny: 200 g čočky, 1 mrkev, 1 cibule, 2 stroužky česneku, 1 l zeleninového vývaru
+        Příprava: Čočku uvařte v zeleninovém vývaru s nakrájenou mrkví, cibulí a česnekem.
+
+    Salát se špenátem a vejcem
+        Suroviny: 150 g čerstvého špenátu, 2 vařená vejce, 1 rajče, olivový olej, citronová šťáva
+        Příprava: Smíchejte špenát s nakrájenými rajčaty, přidejte vařená vejce nakrájená na plátky, pokapejte olivovým olejem a citronovou šťávou.
+
+- Odpolední svačina
+
+    Celozrnný chléb s avokádem
+        Suroviny: 1 plátek celozrnného chleba, 1/2 avokáda
+        Příprava: Namažte avokádo na plátek chleba a lehce osolte.
+
+- Večeře
+
+    Grilovaná ryba s hnědou rýží a brokolicí
+        Suroviny: 150 g lososa, 1 šálek (150 g) vařené hnědé rýže, 150 g vařené brokolice, 1 lžíce olivového oleje
+        Příprava: Grilujte lososa, uvařte rýži a brokolici, přidejte olivový olej.
+
+- Večerní svačina
+
+    Tvarohová pomazánka s celozrnným chlebem
+        Suroviny: 100 g tvarohu, pažitka, sůl, pepř, 1 plátek celozrnného chleba
+        Příprava: Smíchejte tvaroh s nasekanou pažitkou, solí a pepřem a namažte na chléb.
+
+- Nápoje
+
+    Voda
+        Účinky: Udržuje hydrataci a podporuje celkové zdraví.
+        Doporučené množství: 8-10 sklenic (2-2,5 litru) denně.
+
+    Zelený čaj
+        Účinky: Bohatý na antioxidanty, podporuje kognitivní funkce a duševní pohodu.
+        Doporučené množství: 2-3 šálky denně.
+
+- Doporučení
+
+Zařazením těchto potravin do svého denního jídelníčku podpoříte celkové zdraví, nervovou soustavu, duševní pohodu a krevní oběh.
+
+----------------------
+
 # Velký jídelníček z potravin v české kuchyni – zdravý, cenově dostupný a snadný na přípravu
 
 ## Snídaně
