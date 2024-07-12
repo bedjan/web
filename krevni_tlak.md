@@ -225,6 +225,44 @@ Zařazením těchto potravin do svého denního jídelníčku podpoříte celkov
 
 Tento jídelníček poskytuje vyvážený a cenově dostupný přístup k zdravému stravování, který může pomoci řešit konkrétní zdravotní problémy a podporovat celkové zdraví.
 
+-----------------------
+
+# Pokud jde o přirozené a cenově dostupné způsoby podpory zdraví ledvin, jater a žlučníku, následující potraviny jsou často doporučovány pro své detoxikační a podpůrné vlastnosti:
+
+## Pro Ledviny:
+
+    Voda: Pití dostatečného množství vody je zásadní pro zdraví ledvin. Doporučuje se přibližně 8 sklenic vody denně.
+
+    Brusinky: Obsahují látky, které mohou pomoci při prevenci infekcí močových cest.
+
+    Citrusové plody: Obsahují vitamin C, který je pro ledviny prospěšný.
+
+    Listová zelenina: Například špenát, který je bohatý na antioxidanty a minerály.
+
+## Pro Játra:
+
+    Artyčoky: Obsahují látky podporující detoxikaci jater.
+
+    Citrony a citronová šťáva: Pomáhají při stimulaci produkce žluči a detoxikaci.
+
+    Kurkuma: Obsahuje kurkumin, který má protizánětlivé a ochranné účinky na játra.
+
+    Česnek a cibule: Obsahují síru, která podporuje detoxikaci jater.
+
+## Pro Žlučník:
+
+    Olivový olej: Podporuje produkci žluči a zdravý tok žluči.
+
+    Listová zelenina: Obsahuje vlákninu, která pomáhá při správném trávení tuků.
+
+    Citronová šťáva: Podporuje tvorbu žluči a její vypuzování do střeva.
+
+    Rajčata: Obsahují likopen, který má prospěšné účinky na žlučník.
+
+## Doporučené denní dávky:
+
+Při začleňování těchto potravin do stravy není přesně stanovena denní dávka. Je doporučeno konzumovat různorodou stravu bohatou na tyto přírodní ingredience a sledovat individuální reakce těla. Všeobecně platí, že je důležité dodržovat vyváženou stravu a v případě potřeby konzultovat s lékařem nebo dietologem, zejména pokud máte konkrétní zdravotní problémy.
+
 ----------------------
 
 ## Užívání lněných semínek je obvykle doporučováno s ohledem na jejich příznivé účinky a optimální denní dávku. Zde je doporučený způsob jejich užívání:
