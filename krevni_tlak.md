@@ -1,3 +1,123 @@
+# Velký jídelníček z potravin v české kuchyni – zdravý, cenově dostupný a snadný na přípravu
+
+## Snídaně
+
+    Ovesné vločky s ovocem a semínky
+        Suroviny: 80 g ovesných vloček, 1 jablko, 1 lžíce chia semínek, 1 lžíce medu, skořice
+        Příprava: Zalijte ovesné vločky horkou vodou nebo mlékem, přidejte nakrájené jablko, chia semínka, med a posypte skořicí.
+
+    Celozrnný chléb s tvarohem a ředkvičkami
+        Suroviny: 2 plátky celozrnného chleba, 100 g tvarohu, 5 ředkviček
+        Příprava: Namažte tvaroh na chléb a přidejte nakrájené ředkvičky.
+
+## Dopolední svačina
+
+    Jablko
+        Suroviny: 1 jablko
+        Příprava: Konzumujte syrové jako zdravou svačinu.
+
+    Jogurt s medem a semínky
+        Suroviny: 245 g bílého jogurtu, 1 lžíce medu, 1 lžíce chia semínek
+        Příprava: Smíchejte jogurt s medem a posypte chia semínky.
+
+## Oběd
+
+    Čočková polévka
+        Suroviny: 200 g čočky, 1 mrkev, 1 cibule, 2 stroužky česneku, 1 l zeleninového vývaru
+        Příprava: Čočku uvařte v zeleninovém vývaru s nakrájenou mrkví, cibulí a česnekem.
+
+    Kuřecí maso s brokolicí
+        Suroviny: 150 g kuřecího masa, 150 g brokolice, 1 lžíce olivového oleje
+        Příprava: Kuřecí maso orestujte na olivovém oleji a přidejte vařenou brokolici.
+
+## Odpolední svačina
+
+    Celozrnný chléb s avokádem
+        Suroviny: 1 plátek celozrnného chleba, 1/2 avokáda
+        Příprava: Namažte avokádo na plátek chleba a lehce osolte.
+
+    Zeleninové tyčinky s jogurtovým dipem
+        Suroviny: Mrkev, celer, paprika, 245 g bílého jogurtu, česnek, sůl
+        Příprava: Nakrájejte zeleninu na tyčinky a připravte dip smícháním jogurtu s česnekem a solí.
+
+## Večeře
+
+    Špenátová omeleta
+        Suroviny: 2 vejce, 100 g čerstvého špenátu, 1 stroužek česneku, 1 lžíce olivového oleje
+        Příprava: Na olivovém oleji orestujte česnek a špenát, poté přidejte rozšlehaná vejce a usmažte omeletu.
+
+    Zeleninový salát
+        Suroviny: 100 g hlávkového salátu, 1 rajče, 1/2 okurky, 1 lžíce olivového oleje, citronová šťáva
+        Příprava: Nakrájejte zeleninu, smíchejte s olivovým olejem a citronovou šťávou.
+
+## Večerní svačina
+
+    Cottage sýr s rajčaty
+        Suroviny: 100 g cottage sýru, 2 rajčata, sůl, pepř
+        Příprava: Smíchejte cottage sýr s nakrájenými rajčaty, osolte a opepřete podle chuti.
+
+    Tvarohová pomazánka s celozrnným chlebem
+        Suroviny: 100 g tvarohu, pažitka, sůl, pepř, celozrnný chléb
+        Příprava: Smíchejte tvaroh s nasekanou pažitkou, solí a pepřem a namažte na chléb.
+
+## Nápoje
+
+    Voda
+        Účinky: Udržuje hydrataci, podporuje detoxikaci a funkci ledvin.
+        Doporučené množství: 8-10 sklenic (2-2,5 litru) denně.
+
+    Zelený čaj
+        Účinky: Bohatý na antioxidanty, podporuje metabolismus a detoxikaci.
+        Doporučené množství: 2-3 šálky denně.
+
+    Bylinné čaje (pampeliška, kopřiva)
+        Účinky: Podporují detoxikaci a zdraví ledvin.
+        Doporučené množství: 1-2 šálky denně.
+
+##  Doporučené denní množství potravin
+
+    Ovoce a zelenina
+        Jablka: 1-2 denně
+        Citrusové plody: 1-2 denně
+        Brokolice: 1 šálek (150 g) denně
+        Špenát: 1 šálek (150 g) denně
+
+    Luštěniny a celozrnné produkty
+        Čočka, fazole, cizrna: 1 šálek (200 g) denně
+        Celozrnné obiloviny (quinoa, hnědá rýže, oves): 1 šálek (150 g) denně
+
+    Proteinové zdroje
+        Libové maso (kuřecí, krůtí): 100-150 g denně
+        Ryby (losos, makrela): 100-150 g 2-3krát týdně
+        Tofu a tempeh: 100 g denně
+
+    Zdravé tuky
+        Avokádo: 1/2 denně
+        Ořechy a semena (mandle, chia semínka): 1 hrst (28 g) denně
+
+## Účinky jídelníčku:
+
+    Nadměrné vylučování kyseliny močové
+        Voda: Pomáhá ředit kyselinu močovou a podporuje její vylučování.
+        Zelenina a ovoce: Pomáhají alkalizovat tělo a snižovat hladinu kyseliny močové.
+
+    Noční nutkání k močení
+        Voda: Pít většinu tekutin během dne a omezit příjem večer.
+        Jogurt: Probiotika mohou zlepšit zdraví močového měchýře.
+
+    Obezita a viscerální tuk
+        Luštěniny a zelenina: Bohaté na vlákninu, pomáhají při hubnutí a snižování viscerálního tuku.
+        Ovesné vločky: Zasytí a stabilizují hladinu cukru v krvi.
+
+    Hypertenze
+        Česnek: Snižuje krevní tlak.
+        Losos a zelený čaj: Podporují zdraví srdce a snižují krevní tlak.
+
+Tento jídelníček poskytuje vyvážený a cenově dostupný přístup k zdravému stravování, který může pomoci řešit konkrétní zdravotní problémy a podporovat celkové zdraví.
+
+
+----------------------
+
 # Vysoký tlak neboli Hypertenze: Příznaky a přírodní léčba
 Vysoký tlak neboli Hypertenze: Příznaky a přírodní léčba
 --------------------------------------------------------
