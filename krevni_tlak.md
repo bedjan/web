@@ -225,6 +225,27 @@ Zařazením těchto potravin do svého denního jídelníčku podpoříte celkov
 
 Tento jídelníček poskytuje vyvážený a cenově dostupný přístup k zdravému stravování, který může pomoci řešit konkrétní zdravotní problémy a podporovat celkové zdraví.
 
+----------------------
+
+## Užívání lněných semínek je obvykle doporučováno s ohledem na jejich příznivé účinky a optimální denní dávku. Zde je doporučený způsob jejich užívání:
+
+- Celá semínka: Lněná semínka lze konzumovat celá. Doporučuje se je důkladně žvýkat, aby se uvolnila jejich výživná hodnota a aby se z nich dostaly cenné oleje.
+
+- Mlýnek na lněná semínka: Semínka můžete také rozemlít, což pomáhá uvolnit jejich oleje a usnadňuje trávení. Můžete je mít připravená mletá nebo je mlít přímo před konzumací.
+
+- Přidání do jídel: Lněná semínka lze snadno přidat do různých jídel:
+        Do jogurtů
+        Do cereálií
+        Do smoothies
+        Do pečiva
+        Do salátů
+
+- Denní dávka: Doporučená denní dávka lněných semínek se obvykle pohybuje kolem 1 až 2 polévkové lžíce denně. Tato dávka poskytuje dostatečné množství vlákniny, omega-3 mastných kyselin a dalších živin.
+
+- Uchování: Lněná semínka uchovávejte v chladničce nebo v suchém a tmavém prostředí, aby si udržela svou čerstvost a výživovou hodnotu.
+
+- Je důležité také pít dostatek vody, když konzumujete lněná semínka, protože vláknina obsažená v semínkách potřebuje vodu pro optimální trávení a vstřebávání živin.
+
 
 ----------------------
 
