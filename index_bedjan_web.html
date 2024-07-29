@@ -74,6 +74,17 @@
 
         main {
             width: 100%;
+            position: relative;
+        }
+
+        #pageTitle {
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 1rem;
+            background: white;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            z-index: 10;
         }
     </style>
 </head>
@@ -90,7 +101,7 @@
     </header>
 
     <main class="container mx-auto px-4 py-8 flex-grow">
-        <h1 id="pageTitle" class="text-2xl font-bold mb-4 text-center"></h1>
+        <h1 id="pageTitle" class="text-2xl font-bold mb-4 text-right"></h1>
         <div id="markdownContent" class="bg-white shadow-lg rounded-lg p-6 prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto"></div>
     </main>
 
