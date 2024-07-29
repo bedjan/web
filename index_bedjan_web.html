@@ -4,33 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown Prohlížeč s GitHub Integrací</title>
-    <script src="https://cdn.jsdelivr.net/npm/htmx.org@1.8.1/dist/htmx.min.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/css/uikit.min.css" />
+    
+    <!-- UIkit JS -->
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit-icons.min.js"></script>
+
+    <!-- Marked.js for parsing Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
+    
     <style>
-        /* General Styles */
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-        }
-
-        #menuContainer {
-            position: relative;
-            background: white;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 1rem;
+            background-color: #f8f9fa;
         }
 
         #menuButton {
-            display: none;
-            cursor: pointer;
-        }
-        
-        #menuIcon {
-            display: none;
-            cursor: pointer;
+            display: block;
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
         }
 
         #menu {
@@ -38,20 +34,17 @@
             background: white;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             position: absolute;
-            top: 100%;
+            top: 3rem;
             right: 0;
             border-radius: 5px;
-            width: max-content;
+            width: 250px;
             z-index: 20;
-            padding: 0;
         }
 
         #menu ul {
             list-style: none;
             padding: 0;
             margin: 0;
-            display: flex;
-            flex-direction: column;
         }
 
         #menu li {
@@ -70,17 +63,7 @@
             background: #f0f0f0;
         }
 
-        #menuContainer:hover #menu,
-        #menu:hover {
-            display: block;
-        }
-
         @media (min-width: 640px) {
-            #menuContainer {
-                position: static;
-                background: transparent;
-                box-shadow: none;
-            }
             #menu {
                 display: flex;
                 flex-direction: row;
@@ -90,10 +73,11 @@
                 width: auto;
                 right: auto;
                 top: auto;
+                min-width: 0;
             }
             #menu ul {
-                display: flex;
                 flex-direction: row;
+                flex-wrap: wrap;
             }
             #menu li {
                 border-bottom: none;
@@ -101,58 +85,45 @@
             }
         }
         
-        @media (max-width: 640px) {
-            #menuButton {
-                display: block;
-                cursor: pointer;
-            }
-            #menuIcon {
-                display: block;
-            }
-            #menu {
-                display: none;
-                flex-direction: column;
-            }
-        }
-
         #pageTitle {
             font-size: 1.5rem;
             font-weight: bold;
-            margin-left: 2rem;
+            margin-top: 1rem;
+            color: #333;
+        }
+
+        main {
+            width: 100%;
+            padding: 1rem;
+            box-sizing: border-box;
         }
     </style>
 </head>
-<body class="flex flex-col min-h-screen bg-gray-100">
-    <header class="sticky top-0 z-50 bg-white shadow-md">
-        <div id="menuContainer" class="container mx-auto px-4 py-3">
-            <!-- Menu Button for mobile -->
-            <div id="menuButton" class="lg:hidden flex items-center">
-                <span class="text-lg font-bold">Menu</span>
-                <div id="menuIcon" class="w-8 h-8 bg-gray-300 flex items-center justify-center rounded ml-2">
-                    <span class="block w-6 h-0.5 bg-gray-700 mb-1"></span>
-                    <span class="block w-6 h-0.5 bg-gray-700 mb-1"></span>
-                    <span class="block w-6 h-0.5 bg-gray-700"></span>
-                </div>
-            </div>
+<body>
+    <!-- Hamburger Menu Button -->
+    <button id="menuButton" class="uk-button uk-button-default" type="button" uk-toggle="target: #menu">
+        <span uk-icon="icon: menu; ratio: 1.5"></span>
+    </button>
 
-            <!-- Full Menu for larger screens -->
-            <nav id="menu" class="hidden lg:flex flex-col lg:flex-row">
-                <ul id="fileList" class="flex flex-col lg:flex-row p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
-            </nav>
+    <!-- Dropdown Menu -->
+    <div id="menu" class="uk-navbar uk-navbar-container uk-hidden@m">
+        <ul id="fileList" class="uk-navbar-nav"></ul>
+    </div>
+
+    <header class="uk-background-muted uk-light uk-padding-small">
+        <div class="uk-container">
+            <div id="pageTitle">Načítání...</div>
         </div>
     </header>
 
-    <main class="container mx-auto px-4 py-8 flex-grow">
-        <div id="pageTitle">Načítání...</div>
-        <div id="markdownContent" class="bg-white shadow-lg rounded-lg p-6 prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto"></div>
+    <main class="uk-container uk-margin-top">
+        <div id="markdownContent" class="uk-card uk-card-default uk-card-body uk-margin-top"></div>
     </main>
 
-    <footer class="bg-white shadow-md mt-8">
-        <div class="container mx-auto text-center py-4">
-            <p>&copy; <span id="currentYear"></span> Všechna práva vyhrazena. | 
-               <a href="#" id="editOnGithub" target="_blank" class="text-blue-600 hover:text-blue-800">Upravit na GitHubu</a>
-            </p>
-        </div>
+    <footer class="uk-background-muted uk-light uk-padding-small uk-text-center uk-margin-top">
+        <p>&copy; <span id="currentYear"></span> Všechna práva vyhrazena. | 
+           <a href="#" id="editOnGithub" target="_blank" class="uk-link-text">Upravit na GitHubu</a>
+        </p>
     </footer>
 
     <script>
@@ -180,12 +151,13 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const files = await response.json();
+                console.log('Files fetched:', files); // Debug: Log files to ensure they are fetched correctly
                 return files
                     .filter(file => file.name.endsWith('.md') && file.name !== 'README.md')
                     .map(file => file.name);
             } catch (error) {
                 console.error('Error scanning files:', error);
-                document.getElementById('markdownContent').innerHTML = `<p class="text-red-600">Error loading files: ${error.message}</p>`;
+                document.getElementById('markdownContent').innerHTML = `<p class="uk-text-danger">Error loading files: ${error.message}</p>`;
                 return [];
             }
         }
@@ -198,7 +170,7 @@
                 }
                 const text = await response.text();
                 const htmlContent = marked.parse(text);
-
+                
                 // Extract the title from the first heading if available
                 const firstHeading = document.createElement('div');
                 firstHeading.innerHTML = htmlContent;
@@ -212,37 +184,32 @@
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
             } catch (error) {
                 console.error('Error loading Markdown:', error);
-                document.getElementById('markdownContent').innerHTML = `<p class="text-red-600">Error loading file ${file}: ${error.message}</p>`;
+                document.getElementById('markdownContent').innerHTML = `<p class="uk-text-danger">Error loading file ${file}: ${error.message}</p>`;
             }
         }
 
         document.addEventListener('DOMContentLoaded', () => {
             updateYear();
 
-            document.getElementById('menuButton').addEventListener('click', () => {
-                const menu = document.getElementById('menu');
-                menu.classList.toggle('hidden');
-            });
-
             scanForMarkdownFiles().then(files => {
                 const fileList = document.getElementById('fileList');
                 fileList.innerHTML = '';
 
+                // Ensure index.md is always first
                 files = files.filter(file => file !== 'index.md');
                 files.sort((a, b) => formatFileName(a).localeCompare(formatFileName(b)));
                 files.unshift('index.md');
 
                 files.forEach(file => {
                     const li = document.createElement('li');
-                    li.className = 'px-2 py-1';
                     const a = document.createElement('a');
-                    a.className = 'text-gray-700 hover:text-blue-500 inline-flex items-center';
-                    a.href = '#';
-                    a.innerHTML = `${formatFileName(file)}`;
+                    const htmlFileName = file.replace('.md', '.html');
+                    a.href = htmlFileName;
+                    a.textContent = formatFileName(file);
                     a.onclick = (e) => {
                         e.preventDefault();
                         loadMarkdown(file);
-                        document.getElementById('menu').classList.add('hidden');
+                        UIkit.offcanvas('#menu').hide();
                     };
                     li.appendChild(a);
                     fileList.appendChild(li);
