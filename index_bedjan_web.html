@@ -90,6 +90,7 @@
     </header>
 
     <main class="container mx-auto px-4 py-8 flex-grow">
+        <h1 id="pageTitle" class="text-2xl font-bold mb-4 text-center"></h1>
         <div id="markdownContent" class="bg-white shadow-lg rounded-lg p-6 prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto"></div>
     </main>
 
@@ -145,7 +146,13 @@
                 const text = await response.text();
                 const htmlContent = marked.parse(text);
                 document.getElementById('markdownContent').innerHTML = htmlContent;
-                
+
+                // Extract the title from the first heading if available
+                const firstHeading = document.querySelector('#markdownContent h1');
+                const pageTitle = firstHeading ? firstHeading.textContent : formatFileName(file);
+                document.getElementById('pageTitle').textContent = pageTitle;
+                document.title = pageTitle;
+
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
                 
