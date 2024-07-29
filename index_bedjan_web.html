@@ -80,7 +80,7 @@
 <body class="flex flex-col min-h-screen bg-gray-100">
     <header class="sticky top-0 z-50 bg-white shadow-md">
         <div class="container mx-auto px-4 py-3">
-            <details class="relative w-full">
+            <details id="menuDetails" class="relative w-full">
                 <summary class="list-none cursor-pointer font-bold text-xl">Menu</summary>
                 <nav class="absolute top-full left-0 w-full bg-white border border-gray-200 rounded-b-lg shadow-lg">
                     <ul id="fileList" class="flex flex-wrap p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
@@ -150,6 +150,12 @@
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
                 
                 history.pushState(null, '', `${file.replace('.md', '.html')}`);
+
+                // Close the menu after a file is selected
+                const menuDetails = document.getElementById('menuDetails');
+                if (menuDetails.open) {
+                    menuDetails.removeAttribute('open');
+                }
             } catch (error) {
                 console.error('Error loading Markdown:', error);
                 document.getElementById('markdownContent').innerHTML = `<p class="text-red-600">Error loading file ${file}: ${error.message}</p>`;
