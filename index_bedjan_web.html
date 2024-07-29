@@ -7,14 +7,14 @@
 
     <!-- UIkit CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/css/uikit.min.css" />
-    
+
     <!-- UIkit JS -->
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit-icons.min.js"></script>
 
     <!-- Marked.js for parsing Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
-    
+
     <style>
         body {
             margin: 0;
@@ -22,114 +22,120 @@
             background-color: #f8f9fa;
         }
 
-        #menuButton {
-            display: block;
+        header {
             position: fixed;
-            top: 1rem;
-            right: 1rem;
-            z-index: 1000;
-        }
-
-        #menu {
-            display: none;
-            background: white;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            position: fixed;
-            top: 3rem;
+            top: 0;
+            left: 0;
             right: 0;
-            border-radius: 5px;
-            width: 250px;
             z-index: 1000;
-            max-height: 80vh;
-            overflow-y: auto;
         }
 
-        #menu ul {
-            list-style: none;
+        .uk-navbar-container {
+            background: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .uk-navbar-nav {
+            display: flex;
+            flex-wrap: wrap; /* Allow wrapping */
             padding: 0;
             margin: 0;
+            align-items: center;
+            justify-content: flex-start; /* Align items to the left */
         }
 
-        #menu li {
-            border-bottom: 1px solid #d0d0d0;
+        .uk-navbar-nav > li {
+            margin: 0;
+            padding: 0;
         }
 
-        #menu a {
+        .uk-navbar-nav a {
             display: block;
-            padding: 0.5rem 1rem;
+            padding: 0.5rem 0.75rem; /* Adjust horizontal and vertical spacing */
             text-decoration: none;
             color: #333;
-            text-align: center;
+            line-height: 1.2; /* Reduce line-height to bring items closer */
+            margin: 0; /* Remove margin */
+            white-space: nowrap; /* Prevent text wrapping */
         }
 
-        #menu a:hover {
+        .uk-navbar-nav a::before {
+            content: '●'; /* Single circle before the text */
+            margin-right: 0.5em; /* Space before the link text */
+            font-size: 1.2em; /* Adjust size of the circle */
+            color: #333; /* Color of the circle */
+            display: inline-block;
+            vertical-align: middle; /* Align circle with text */
+        }
+
+        .uk-navbar-nav a:hover {
             background: #f0f0f0;
         }
 
-        @media (min-width: 640px) {
-            #menu {
-                display: flex;
-                flex-direction: row;
-                position: static;
-                background: transparent;
-                box-shadow: none;
-                width: auto;
-                right: auto;
-                top: auto;
-                min-width: 0;
-            }
-            #menu ul {
-                flex-direction: row;
-                flex-wrap: wrap;
-            }
-            #menu li {
-                border-bottom: none;
-                margin: 0 0.5rem;
-            }
-        }
-
-        header {
-            position: relative;
-            z-index: 999;
-            background: #ffffff;
-            padding: 1rem;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        #pageTitle {
-            font-size: 1.5rem;
-            font-weight: bold;
-            color: #333;
+        .uk-navbar-toggle {
+            display: none;
         }
 
         main {
-            width: 100%;
+            margin-top: 5rem; /* Ensure there's space for the fixed header */
             padding: 1rem;
             box-sizing: border-box;
+        }
+
+        footer {
+            background: #f1f1f1;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .page-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+
+        /* Responsive navbar styles */
+        @media (max-width: 767px) {
+            .uk-navbar-nav {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                background: #ffffff;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                z-index: 999;
+                display: none;
+            }
+
+            .uk-navbar-nav.uk-open {
+                display: flex;
+            }
+
+            .uk-navbar-toggle {
+                display: block;
+            }
         }
     </style>
 </head>
 <body>
-    <!-- Hamburger Menu Button -->
-    <button id="menuButton" class="uk-button uk-button-default" type="button" uk-toggle="target: #menu">
-        <span uk-icon="icon: menu; ratio: 1.5"></span>
-    </button>
-
-    <!-- Dropdown Menu -->
-    <div id="menu" uk-offcanvas="overlay: true">
-        <div class="uk-offcanvas-bar">
-            <button class="uk-offcanvas-close" type="button" uk-close></button>
-            <ul id="fileList" class="uk-nav uk-nav-default"></ul>
-        </div>
-    </div>
-
+    <!-- Header with UIkit Navbar -->
     <header>
-        <div class="uk-container">
-            <div id="pageTitle">Načítání...</div>
-        </div>
+        <nav class="uk-navbar-container" uk-navbar>
+            <div class="uk-navbar-left">
+                <a class="uk-navbar-toggle" uk-navbar-toggle-icon href="#menu" uk-toggle></a>
+                <div class="uk-navbar-brand"></div>
+            </div>
+            <div class="uk-navbar-right">
+                <ul id="fileList" class="uk-navbar-nav"></ul>
+            </div>
+        </nav>
     </header>
 
-    <main class="uk-container uk-margin-top">
+    <main class="uk-container">
+        <div class="page-title" id="pageTitle"></div>
         <div id="markdownContent" class="uk-card uk-card-default uk-card-body uk-margin-top"></div>
     </main>
 
@@ -138,6 +144,14 @@
            <a href="#" id="editOnGithub" target="_blank" class="uk-link-text">Upravit na GitHubu</a>
         </p>
     </footer>
+
+    <!-- Offcanvas menu for smaller screens -->
+    <div id="menu" uk-offcanvas="overlay: true">
+        <div class="uk-offcanvas-bar">
+            <button class="uk-offcanvas-close" type="button" uk-close></button>
+            <ul id="offcanvasMenu" class="uk-nav uk-nav-primary"></ul>
+        </div>
+    </div>
 
     <script>
         const githubRepo = 'bedjan/web';
@@ -188,10 +202,13 @@
                 firstHeading.innerHTML = htmlContent;
                 const pageTitleElement = firstHeading.querySelector('h1');
                 const pageTitle = pageTitleElement ? pageTitleElement.textContent : formatFileName(file);
+                
+                // Update the page title and document title
                 document.getElementById('pageTitle').textContent = pageTitle;
                 document.title = pageTitle;
 
-                document.getElementById('markdownContent').innerHTML = htmlContent;
+                // Add a space, bullet, and space before each link in the content
+                document.getElementById('markdownContent').innerHTML = htmlContent.replace(/<a href="([^"]+)"([^>]*)>/g, ` ● <a href="$1" target="_blank" $2>`);
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
             } catch (error) {
@@ -205,7 +222,9 @@
 
             scanForMarkdownFiles().then(files => {
                 const fileList = document.getElementById('fileList');
+                const offcanvasMenu = document.getElementById('offcanvasMenu');
                 fileList.innerHTML = '';
+                offcanvasMenu.innerHTML = '';
 
                 // Ensure index.md is always first
                 files = files.filter(file => file !== 'index.md');
@@ -213,26 +232,37 @@
                 files.unshift('index.md');
 
                 files.forEach(file => {
+                    const fileName = formatFileName(file);
                     const li = document.createElement('li');
-                    const a = document.createElement('a');
-                    const htmlFileName = file.replace('.md', '.html');
-                    a.href = htmlFileName;
-                    a.textContent = formatFileName(file);
-                    a.onclick = (e) => {
-                        e.preventDefault();
-                        loadMarkdown(file);
-                        UIkit.offcanvas('#menu').hide(); // Hide the menu on click
-                    };
-                    li.appendChild(a);
+                    li.innerHTML = `<a href="#" data-file="${file}">${fileName}</a>`;
                     fileList.appendChild(li);
+
+                    // Duplicate for offcanvas menu
+                    const liOffcanvas = document.createElement('li');
+                    liOffcanvas.innerHTML = `<a href="#" data-file="${file}">${fileName}</a>`;
+                    offcanvasMenu.appendChild(liOffcanvas);
                 });
 
-                loadMarkdown('index.md');
-            });
+                // Set up click event for links
+                fileList.querySelectorAll('a').forEach(link => {
+                    link.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        const file = link.getAttribute('data-file');
+                        loadMarkdown(file);
+                    });
+                });
 
-            // Add event listener to toggle menu
-            document.getElementById('menuButton').addEventListener('click', () => {
-                UIkit.offcanvas('#menu').show(); // Show the menu
+                // Set up click event for offcanvas links
+                offcanvasMenu.querySelectorAll('a').forEach(link => {
+                    link.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        const file = link.getAttribute('data-file');
+                        loadMarkdown(file);
+                    });
+                });
+
+                // Load the default file (index.md)
+                loadMarkdown('index.md');
             });
         });
     </script>
