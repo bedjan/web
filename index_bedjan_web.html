@@ -80,7 +80,7 @@
         #pageTitle {
             position: absolute;
             top: 0;
-            right: 0;
+            left: 0;
             padding: 1rem;
             background: white;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -101,7 +101,7 @@
     </header>
 
     <main class="container mx-auto px-4 py-8 flex-grow">
-        <h1 id="pageTitle" class="text-2xl font-bold mb-4 text-right"></h1>
+        <h1 id="pageTitle" class="text-2xl font-bold mb-4"></h1>
         <div id="markdownContent" class="bg-white shadow-lg rounded-lg p-6 prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto"></div>
     </main>
 
@@ -156,17 +156,19 @@
                 }
                 const text = await response.text();
                 const htmlContent = marked.parse(text);
-                document.getElementById('markdownContent').innerHTML = htmlContent;
 
                 // Extract the title from the first heading if available
-                const firstHeading = document.querySelector('#markdownContent h1');
-                const pageTitle = firstHeading ? firstHeading.textContent : formatFileName(file);
+                const firstHeading = document.createElement('div');
+                firstHeading.innerHTML = htmlContent;
+                const pageTitleElement = firstHeading.querySelector('h1');
+                const pageTitle = pageTitleElement ? pageTitleElement.textContent : formatFileName(file);
                 document.getElementById('pageTitle').textContent = pageTitle;
                 document.title = pageTitle;
-
+                
+                document.getElementById('markdownContent').innerHTML = htmlContent;
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
-                
+
                 history.pushState(null, '', `${file.replace('.md', '.html')}`);
 
                 // Close the menu after a file is selected
