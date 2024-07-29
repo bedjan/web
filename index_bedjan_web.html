@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="cs" manifest="cache.appcache">
+<html lang="cs">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown Prohlížeč s GitHub Integrací</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/htmx.org@1.8.1/dist/htmx.min.js"></script>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
     <style>
         @media (max-width: 640px) {
             #fileList {
@@ -16,19 +17,18 @@
                 width: 100%;
             }
             #fileList li {
-                flex: 1 0 100%; /* Ensures items take full width on small screens */
+                flex: 1 0 100%;
             }
         }
         /* Styles for full-width content */
         #markdownContent {
-            width: 100%; /* Make content full-width */
+            width: 100%;
         }
 
         header, footer {
-            width: 100%; /* Make header and footer full-width */
+            width: 100%;
         }
         
-        /* Styles for details and summary */
         details {
             margin-bottom: 1em;
             width: 100%;
@@ -67,7 +67,7 @@
             flex-wrap: wrap;
         }
         #fileList li {
-            flex: 1 0 21%; /* Four items per row */
+            flex: 1 0 21%;
             margin: 0.5%;
             list-style: none;
         }
@@ -83,7 +83,7 @@
             <details class="relative w-full">
                 <summary class="list-none cursor-pointer font-bold text-xl">Menu</summary>
                 <nav class="absolute top-full left-0 w-full bg-white border border-gray-200 rounded-b-lg shadow-lg">
-                    <ul id="fileList" class="flex flex-wrap p-2"></ul>
+                    <ul id="fileList" class="flex flex-wrap p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
                 </nav>
             </details>
         </div>
@@ -105,14 +105,10 @@
         const githubRepo = 'bedjan/web';
         const githubBranch = 'main';
 
-        const renderer = new marked.Renderer();
-        renderer.link = (href, title, text) => {
-            return `<span class="inline-flex items-center"><span class="mr-1">&#9679;</span><a href="${href}" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800">${text}</a></span>`;
-        };
-        renderer.heading = (text, level) => {
-            const className = `text-${['4xl', '3xl', '2xl', 'xl', 'lg', 'base'][level - 1]} font-bold mb-4`;
-            return `<h${level} class="${className}">${text}</h${level}>`;
-        };
+        function updateYear() {
+            const currentYear = new Date().getFullYear();
+            document.getElementById('currentYear').textContent = currentYear;
+        }
 
         function formatFileName(fileName) {
             return fileName
@@ -147,26 +143,29 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const text = await response.text();
-                const htmlContent = marked.parse(text, { renderer });
+                const htmlContent = marked.parse(text);
                 document.getElementById('markdownContent').innerHTML = htmlContent;
                 
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
+                
+                history.pushState(null, '', `${file.replace('.md', '.html')}`);
             } catch (error) {
                 console.error('Error loading Markdown:', error);
                 document.getElementById('markdownContent').innerHTML = `<p class="text-red-600">Error loading file ${file}: ${error.message}</p>`;
             }
         }
 
-        function updateYear() {
-            const currentYear = new Date().getFullYear();
-            document.getElementById('currentYear').textContent = currentYear;
+        function handlePopState() {
+            const path = window.location.pathname;
+            const fileName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '.md');
+            loadMarkdown(fileName);
         }
+
+        window.addEventListener('popstate', handlePopState);
 
         window.onload = () => {
             updateYear();
-
-            const details = document.querySelector('details');
 
             scanForMarkdownFiles().then(files => {
                 const fileList = document.getElementById('fileList');
@@ -182,18 +181,17 @@
                     li.className = 'px-2 py-1';
                     const a = document.createElement('a');
                     a.className = 'text-gray-700 hover:text-blue-500 inline-flex items-center';
-                    a.href = '#';
+                    a.href = `${file.replace('.md', '.html')}`;
                     a.innerHTML = `<span class="mr-1">&#9679;</span>${formatFileName(file)}`;
                     a.onclick = (e) => {
                         e.preventDefault();
                         loadMarkdown(file);
-                        details.removeAttribute('open');
                     };
                     li.appendChild(a);
                     fileList.appendChild(li);
                 });
 
-                loadMarkdown('index.md');
+                handlePopState(); // Load the initial content based on URL
             });
         };
     </script>
