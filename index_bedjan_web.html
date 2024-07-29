@@ -10,8 +10,6 @@
     <style>
         @media (max-width: 640px) {
             #fileList {
-                flex-direction: row;
-                flex-wrap: wrap;
                 max-height: 50vh;
                 overflow-y: auto;
                 width: 100%;
@@ -89,17 +87,89 @@
             width: calc(100% - 2rem); /* Ensure it fits within the content */
             margin: 0; /* Remove margin to avoid overlap */
         }
+
+        /* Hamburger menu styles */
+        #menuButton {
+            display: none;
+            cursor: pointer;
+            padding: 1rem;
+            background: #f0f0f0;
+            border-radius: 5px;
+        }
+        #menuIcon {
+            width: 24px;
+            height: 24px;
+            background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+PHBhdGggZD0iTTAsMEw4LDhMOCwwTDEsMUwxMCwwTDAiIHN0cm9rZS1saW5lY2FwOiByb25kOyBzdHJva2Utb3BhY2l0eTogLjEuMyIvPjwvc3ZnPg==') no-repeat center center;
+            background-size: 24px 24px;
+        }
+        #menu {
+            display: none;
+            background: white;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: absolute;
+            top: 3rem;
+            right: 1rem;
+            border-radius: 5px;
+            width: 200px;
+            z-index: 20;
+        }
+        #menu ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        #menu li {
+            border-bottom: 1px solid #d0d0d0;
+        }
+        #menu a {
+            display: block;
+            padding: 1rem;
+            text-decoration: none;
+            color: #333;
+        }
+        #menu a:hover {
+            background: #f0f0f0;
+        }
+
+        @media (min-width: 640px) {
+            #menuButton {
+                display: none;
+            }
+            #menu {
+                display: block;
+                position: static;
+                background: transparent;
+                box-shadow: none;
+                width: auto;
+                top: auto;
+                right: auto;
+            }
+            #menu ul {
+                display: flex;
+                flex-wrap: wrap;
+                padding: 0;
+            }
+            #menu li {
+                border-bottom: none;
+                margin: 0 0.5rem;
+            }
+            #menu a {
+                padding: 0.5rem 1rem;
+            }
+        }
     </style>
 </head>
 <body class="flex flex-col min-h-screen bg-gray-100">
     <header class="sticky top-0 z-50 bg-white shadow-md">
-        <div class="container mx-auto px-4 py-3">
-            <details id="menuDetails" class="relative w-full">
-                <summary class="list-none cursor-pointer font-bold text-xl">Menu</summary>
-                <nav class="absolute top-full left-0 w-full bg-white border border-gray-200 rounded-b-lg shadow-lg">
-                    <ul id="fileList" class="flex flex-wrap p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
-                </nav>
-            </details>
+        <div class="container mx-auto px-4 py-3 flex items-center justify-between">
+            <!-- Hamburger Menu Button -->
+            <div id="menuButton" class="lg:hidden">
+                <div id="menuIcon"></div>
+            </div>
+            <!-- Full Menu for larger screens -->
+            <nav id="menu" class="hidden lg:flex flex-col lg:flex-row">
+                <ul id="fileList" class="flex flex-col lg:flex-row p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
+            </nav>
         </div>
     </header>
 
@@ -171,38 +241,24 @@
                 document.getElementById('markdownContent').innerHTML = htmlContent;
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
-
-                history.pushState(null, '', `${file.replace('.md', '.html')}`);
-
-                // Close the menu after a file is selected
-                const menuDetails = document.getElementById('menuDetails');
-                if (menuDetails.open) {
-                    menuDetails.removeAttribute('open');
-                }
             } catch (error) {
                 console.error('Error loading Markdown:', error);
                 document.getElementById('markdownContent').innerHTML = `<p class="text-red-600">Error loading file ${file}: ${error.message}</p>`;
             }
         }
 
-        function handlePopState() {
-            const path = window.location.pathname;
-            const fileName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '.md');
-            if (fileName) {
-                loadMarkdown(fileName);
-            }
-        }
-
-        window.addEventListener('popstate', handlePopState);
-
-        window.onload = () => {
+        document.addEventListener('DOMContentLoaded', () => {
             updateYear();
+
+            document.getElementById('menuButton').addEventListener('click', () => {
+                const menu = document.getElementById('menu');
+                menu.classList.toggle('hidden');
+            });
 
             scanForMarkdownFiles().then(files => {
                 const fileList = document.getElementById('fileList');
                 fileList.innerHTML = '';
 
-                // Ensure index.md is always first
                 files = files.filter(file => file !== 'index.md');
                 files.sort((a, b) => formatFileName(a).localeCompare(formatFileName(b)));
                 files.unshift('index.md');
@@ -212,22 +268,20 @@
                     li.className = 'px-2 py-1';
                     const a = document.createElement('a');
                     a.className = 'text-gray-700 hover:text-blue-500 inline-flex items-center';
-                    a.href = `${file.replace('.md', '.html')}`;
+                    a.href = '#';
                     a.innerHTML = `<span class="mr-1">&#9679;</span>${formatFileName(file)}`;
                     a.onclick = (e) => {
                         e.preventDefault();
                         loadMarkdown(file);
+                        document.getElementById('menu').classList.add('hidden');
                     };
                     li.appendChild(a);
                     fileList.appendChild(li);
                 });
 
-                // Load initial content based on the current URL or default to index.md
-                const initialFile = window.location.pathname.slice(1) || 'index.html';
-                const markdownFile = initialFile.replace('.html', '.md');
-                loadMarkdown(markdownFile);
+                loadMarkdown('index.md');
             });
-        };
+        });
     </script>
 </body>
 </html>
