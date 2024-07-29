@@ -159,7 +159,9 @@
         function handlePopState() {
             const path = window.location.pathname;
             const fileName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '.md');
-            loadMarkdown(fileName);
+            if (fileName) {
+                loadMarkdown(fileName);
+            }
         }
 
         window.addEventListener('popstate', handlePopState);
@@ -191,7 +193,10 @@
                     fileList.appendChild(li);
                 });
 
-                handlePopState(); // Load the initial content based on URL
+                // Load initial content based on the current URL or default to index.md
+                const initialFile = window.location.pathname.slice(1) || 'index.html';
+                const markdownFile = initialFile.replace('.html', '.md');
+                loadMarkdown(markdownFile);
             });
         };
     </script>
