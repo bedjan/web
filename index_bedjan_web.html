@@ -8,164 +8,133 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
     <style>
-        @media (max-width: 640px) {
-            #fileList {
-                max-height: 50vh;
-                overflow-y: auto;
-                width: 100%;
-            }
-            #fileList li {
-                flex: 1 0 100%;
-            }
-        }
-        /* Styles for full-width content */
-        #markdownContent {
-            width: 100%;
+        /* General Styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
         }
 
-        header, footer {
-            width: 100%;
-        }
-
-        details {
-            margin-bottom: 1em;
-            width: 100%;
-        }
-
-        summary {
-            font-weight: bold;
-            font-size: 1.2em;
-            cursor: pointer;
-            padding: 0.5em;
-            background-color: #f0f0f0;
-            border-radius: 5px;
-        }
-
-        summary:hover {
-            background-color: #e0e0e0;
-        }
-
-        details[open] > summary {
-            background-color: #d0d0d0;
-            border-bottom-left-radius: 0;
-            border-bottom-right-radius: 0;
-        }
-
-        details > nav {
-            padding: 0.5em;
-            border: 1px solid #d0d0d0;
-            border-top: none;
-            border-bottom-left-radius: 5px;
-            border-bottom-right-radius: 5px;
-            width: 100%;
-        }
-
-        #fileList {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        #fileList li {
-            flex: 1 0 21%;
-            margin: 0.5%;
-            list-style: none;
-        }
-
-        main {
-            width: 100%;
+        #menuContainer {
             position: relative;
-            padding-top: 4rem; /* Space for the title */
-        }
-
-        #pageTitle {
-            position: absolute;
-            top: 0;
-            left: 0;
-            padding: 1rem;
             background: white;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            z-index: 10;
-            width: calc(100% - 2rem); /* Ensure it fits within the content */
-            margin: 0; /* Remove margin to avoid overlap */
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem;
         }
 
-        /* Hamburger menu styles */
         #menuButton {
             display: none;
             cursor: pointer;
-            padding: 1rem;
-            background: #f0f0f0;
-            border-radius: 5px;
         }
+        
         #menuIcon {
-            width: 24px;
-            height: 24px;
-            background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+PHBhdGggZD0iTTAsMEw4LDhMOCwwTDEsMUwxMCwwTDAiIHN0cm9rZS1saW5lY2FwOiByb25kOyBzdHJva2Utb3BhY2l0eTogLjEuMyIvPjwvc3ZnPg==') no-repeat center center;
-            background-size: 24px 24px;
+            display: none;
+            cursor: pointer;
         }
+
         #menu {
             display: none;
             background: white;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             position: absolute;
-            top: 3rem;
-            right: 1rem;
+            top: 100%;
+            right: 0;
             border-radius: 5px;
-            width: 200px;
+            width: max-content;
             z-index: 20;
+            padding: 0;
         }
+
         #menu ul {
             list-style: none;
             padding: 0;
             margin: 0;
+            display: flex;
+            flex-direction: column;
         }
+
         #menu li {
             border-bottom: 1px solid #d0d0d0;
         }
+
         #menu a {
             display: block;
-            padding: 1rem;
+            padding: 0.5rem 1rem;
             text-decoration: none;
             color: #333;
+            text-align: center;
         }
+
         #menu a:hover {
             background: #f0f0f0;
         }
 
+        #menuContainer:hover #menu,
+        #menu:hover {
+            display: block;
+        }
+
         @media (min-width: 640px) {
-            #menuButton {
-                display: none;
+            #menuContainer {
+                position: static;
+                background: transparent;
+                box-shadow: none;
             }
             #menu {
-                display: block;
+                display: flex;
+                flex-direction: row;
                 position: static;
                 background: transparent;
                 box-shadow: none;
                 width: auto;
-                top: auto;
                 right: auto;
+                top: auto;
             }
             #menu ul {
                 display: flex;
-                flex-wrap: wrap;
-                padding: 0;
+                flex-direction: row;
             }
             #menu li {
                 border-bottom: none;
                 margin: 0 0.5rem;
             }
-            #menu a {
-                padding: 0.5rem 1rem;
+        }
+        
+        @media (max-width: 640px) {
+            #menuButton {
+                display: block;
+                cursor: pointer;
             }
+            #menuIcon {
+                display: block;
+            }
+            #menu {
+                display: none;
+                flex-direction: column;
+            }
+        }
+
+        #pageTitle {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-left: 2rem;
         }
     </style>
 </head>
 <body class="flex flex-col min-h-screen bg-gray-100">
     <header class="sticky top-0 z-50 bg-white shadow-md">
-        <div class="container mx-auto px-4 py-3 flex items-center justify-between">
-            <!-- Hamburger Menu Button -->
-            <div id="menuButton" class="lg:hidden">
-                <div id="menuIcon"></div>
+        <div id="menuContainer" class="container mx-auto px-4 py-3">
+            <!-- Menu Button for mobile -->
+            <div id="menuButton" class="lg:hidden flex items-center">
+                <span class="text-lg font-bold">Menu</span>
+                <div id="menuIcon" class="w-8 h-8 bg-gray-300 flex items-center justify-center rounded ml-2">
+                    <span class="block w-6 h-0.5 bg-gray-700 mb-1"></span>
+                    <span class="block w-6 h-0.5 bg-gray-700 mb-1"></span>
+                    <span class="block w-6 h-0.5 bg-gray-700"></span>
+                </div>
             </div>
+
             <!-- Full Menu for larger screens -->
             <nav id="menu" class="hidden lg:flex flex-col lg:flex-row">
                 <ul id="fileList" class="flex flex-col lg:flex-row p-2" hx-get="/files" hx-target="#fileList" hx-swap="innerHTML"></ul>
@@ -174,7 +143,7 @@
     </header>
 
     <main class="container mx-auto px-4 py-8 flex-grow">
-        <h1 id="pageTitle" class="text-2xl font-bold mb-4"></h1>
+        <div id="pageTitle">Načítání...</div>
         <div id="markdownContent" class="bg-white shadow-lg rounded-lg p-6 prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto"></div>
     </main>
 
@@ -269,7 +238,7 @@
                     const a = document.createElement('a');
                     a.className = 'text-gray-700 hover:text-blue-500 inline-flex items-center';
                     a.href = '#';
-                    a.innerHTML = `<span class="mr-1">&#9679;</span>${formatFileName(file)}`;
+                    a.innerHTML = `${formatFileName(file)}`;
                     a.onclick = (e) => {
                         e.preventDefault();
                         loadMarkdown(file);
