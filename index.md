@@ -33,6 +33,7 @@
 [Sleduj serialy](https://www.sledujserialy.io)
 [Jirka fotky](https://www.rajce.idnes.cz/lipova-lipka/album/kulisci/1511277136)
 [Chytre mapy](https://app.gisonline.cz/chytre-mapy/)
+[Epochtimes](https://www.epochtimes.cz/)
 
 
 ### Download
