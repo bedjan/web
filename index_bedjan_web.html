@@ -1,166 +1,181 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="cs" manifest="cache.appcache">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base target="_blank">
     <title>Markdown Prohlížeč s GitHub Integrací</title>
-
-    <!-- UIkit CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/css/uikit.min.css" />
-
-    <!-- UIkit JS -->
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.21.8/dist/js/uikit-icons.min.js"></script>
-
-    <!-- Marked.js for parsing Markdown -->
-    <script src="https://cdn.jsdelivr.net/npm/marked@4.0.10/marked.min.js"></script>
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        body {
+        body, html {
+            width: 100%;
+            height: 100%;
             margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
+            padding: 0;
+            background-color: #f2f2f2;
         }
-
-        header {
+        #header-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+            background-color: #d6d8db;
+            z-index: 1020;
             position: fixed;
             top: 0;
             left: 0;
-            right: 0;
-            z-index: 1000;
+            padding: 10px;
         }
-
-        .uk-navbar-container {
-            background: #ffffff;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        .search-form {
+            max-width: 300px;
+            margin-left: 20px;
         }
-
-        .uk-navbar-nav {
-            display: flex;
-            flex-wrap: wrap; /* Allow wrapping */
-            padding: 0;
-            margin: 0;
-            align-items: center;
-            justify-content: flex-start; /* Align items to the left */
+        #sidebar {
+            position: fixed;
+            top: 60px; /* Adjust top to not overlap with header */
+            left: 0;
+            height: calc(100vh - 60px); /* Adjust height to not overlap with header */
+            width: 250px;
+            background-color: #d6d8db;
+            z-index: 1010;
+            overflow-y: auto;
+            transform: translateX(-250px);
+            transition: transform 0.3s ease-in-out;
+            padding-top: 10px; /* Add padding to avoid overlap with header */
         }
-
-        .uk-navbar-nav > li {
-            margin: 0;
-            padding: 0;
+        #sidebar.active {
+            transform: translateX(0);
         }
-
-        .uk-navbar-nav a {
-            display: block;
-            padding: 0.5rem 0.75rem; /* Adjust horizontal and vertical spacing */
-            text-decoration: none;
-            color: #333;
-            line-height: 1.2; /* Reduce line-height to bring items closer */
-            margin: 0; /* Remove margin */
-            white-space: nowrap; /* Prevent text wrapping */
+        #content {
+            transition: margin-left 0.3s ease-in-out;
+            width: calc(100% - 250px);
+            margin-left: 0;
+            padding-top: 70px; /* Add padding to prevent content from being hidden behind the fixed header */
+            padding-bottom: 70px; /* Add padding to prevent content from being hidden behind the fixed footer */
+            word-wrap: break-word; /* Ensure long words break correctly */
         }
-
-        .uk-navbar-nav a::before {
-            content: '●'; /* Single circle before the text */
-            margin-right: 0.5em; /* Space before the link text */
-            font-size: 1.2em; /* Adjust size of the circle */
-            color: #333; /* Color of the circle */
-            display: inline-block;
-            vertical-align: middle; /* Align circle with text */
+        #content.active {
+            margin-left: 250px;
         }
-
-        .uk-navbar-nav a:hover {
-            background: #f0f0f0;
+        #content img {
+            max-width: 100%;
+            height: auto;
         }
-
-        .uk-navbar-toggle {
-            display: none;
+        #sidebarCollapse {
+            background-color: #007bff;
+            border-color: #007bff;
+            color: white;
+            cursor: pointer;
+            padding: 0.375rem 0.75rem;
+            border-radius: 0.25rem;
+            border: 1px solid transparent;
+            margin-left: 10px;
         }
-
-        main {
-            margin-top: 5rem; /* Ensure there's space for the fixed header */
-            padding: 1rem;
-            box-sizing: border-box;
+        .nav-link {
+            color: #000;
+            white-space: nowrap; /* Prevent text from overflowing */
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
-
-        footer {
-            background: #f1f1f1;
-            padding: 1rem;
-            text-align: center;
+        .nav-link:hover {
+            color: #007bff;
         }
-
-        .page-title {
-            font-size: 2rem;
-            font-weight: bold;
-            margin-bottom: 1rem;
+        .nav-item {
+            margin-top: 20px; /* Ensure all items have some space between them */
         }
-
-        /* Responsive navbar styles */
-        @media (max-width: 767px) {
-            .uk-navbar-nav {
-                display: flex;
+        @media (max-width: 768px) {
+            #header-row {
                 flex-direction: column;
+                align-items: stretch;
+                padding: 10px;
+            }
+            .search-form {
                 width: 100%;
-                background: #ffffff;
-                position: absolute;
-                top: 0;
+                margin-top: 10px;
+                margin-left: 0;
+            }
+            #sidebar {
+                width: 100%;
+                height: auto;
+                position: fixed;
+                top: 60px; /* Adjust top to not overlap with header */
                 left: 0;
-                right: 0;
-                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-                z-index: 999;
-                display: none;
+                transform: translateX(-100%);
+                padding-top: 0;
             }
-
-            .uk-navbar-nav.uk-open {
-                display: flex;
+            #sidebar.active {
+                transform: translateX(0);
             }
-
-            .uk-navbar-toggle {
-                display: block;
+            #content {
+                margin-left: 0;
+                padding: 10px;
+                padding-top: 130px; /* Adjust padding to prevent content from being hidden behind the fixed header */
+                padding-bottom: 70px; /* Add padding to prevent content from being hidden behind the fixed footer */
+                width: 100%;
+                word-wrap: break-word; /* Ensure long words break correctly */
             }
+            #content.active {
+                margin-left: 0;
+            }
+            .nav-item {
+                margin-top: 10px;
+            }
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #d6d8db;
+            z-index: 1020;
         }
     </style>
 </head>
-<body>
-    <!-- Header with UIkit Navbar -->
-    <header>
-        <nav class="uk-navbar-container" uk-navbar>
-            <div class="uk-navbar-left">
-                <a class="uk-navbar-toggle" uk-navbar-toggle-icon href="#menu" uk-toggle></a>
-                <div class="uk-navbar-brand"></div>
+<body class="d-flex flex-column min-vh-100">
+    <header class="py-3 sticky-top" id="header-row">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-md-auto">
+                    <button id="sidebarCollapse" class="btn btn-primary">Menu</button>
+                </div>
+                <div class="col-md">
+                    <h1 class="mb-0">Osobní stránky</h1>
+                </div>
+                <div class="col-md-auto ms-auto">
+                    <form action="https://duckduckgo.com/" method="get" class="search-form" target="_blank">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="q" placeholder="Hledat na DuckDuckGo">
+                            <button class="btn btn-outline-secondary" type="submit">Hledat</button>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div class="uk-navbar-right">
-                <ul id="fileList" class="uk-navbar-nav"></ul>
-            </div>
-        </nav>
+        </div>
     </header>
 
-    <main class="uk-container">
-        <div class="page-title" id="pageTitle"></div>
-        <div id="markdownContent" class="uk-card uk-card-default uk-card-body uk-margin-top"></div>
+    <div id="sidebar">
+        <nav class="p-3">
+            <ul class="nav flex-column" id="fileList"></ul>
+        </nav>
+    </div>
+
+    <main class="flex-grow-1">
+        <div class="container-fluid mt-4" style="width: 100%;">
+            <div id="content"></div>
+        </div>
     </main>
 
-    <footer class="uk-background-muted uk-light uk-padding-small uk-text-center uk-margin-top">
-        <p>&copy; <span id="currentYear"></span> Všechna práva vyhrazena. | 
-           <a href="#" id="editOnGithub" target="_blank" class="uk-link-text">Upravit na GitHubu</a>
-        </p>
-    </footer>
-
-    <!-- Offcanvas menu for smaller screens -->
-    <div id="menu" uk-offcanvas="overlay: true">
-        <div class="uk-offcanvas-bar">
-            <button class="uk-offcanvas-close" type="button" uk-close></button>
-            <ul id="offcanvasMenu" class="uk-nav uk-nav-primary"></ul>
+    <footer class="bg-light py-3">
+        <div class="container-fluid text-center">
+            <p>&copy; <span id="currentYear"></span> Všechna práva vyhrazena. | 
+               <a href="#" id="editOnGithub" target="_blank">Upravit na GitHubu</a>
+            </p>
         </div>
-    </div>
+    </footer>
 
     <script>
         const githubRepo = 'bedjan/web';
         const githubBranch = 'main';
-
-        function updateYear() {
-            const currentYear = new Date().getFullYear();
-            document.getElementById('currentYear').textContent = currentYear;
-        }
 
         function formatFileName(fileName) {
             return fileName
@@ -183,7 +198,7 @@
                     .map(file => file.name);
             } catch (error) {
                 console.error('Error scanning files:', error);
-                document.getElementById('markdownContent').innerHTML = `<p class="uk-text-danger">Error loading files: ${error.message}</p>`;
+                document.getElementById('content').innerHTML = `<p class="text-danger">Error loading files: ${error.message}</p>`;
                 return [];
             }
         }
@@ -195,76 +210,65 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const text = await response.text();
-                const htmlContent = marked.parse(text);
-
-                // Extract the title from the first heading if available
-                const firstHeading = document.createElement('div');
-                firstHeading.innerHTML = htmlContent;
-                const pageTitleElement = firstHeading.querySelector('h1');
-                const pageTitle = pageTitleElement ? pageTitleElement.textContent : formatFileName(file);
+                document.getElementById('content').innerHTML = marked.parse(text);
                 
-                // Update the page title and document title
-                document.getElementById('pageTitle').textContent = pageTitle;
-                document.title = pageTitle;
-
-                // Add a space, bullet, and space before each link in the content
-                document.getElementById('markdownContent').innerHTML = htmlContent.replace(/<a href="([^"]+)"([^>]*)>/g, ` ● <a href="$1" target="_blank" $2>`);
                 const editLink = document.getElementById('editOnGithub');
                 editLink.href = `https://github.com/${githubRepo}/edit/${githubBranch}/${file}`;
             } catch (error) {
                 console.error('Error loading Markdown:', error);
-                document.getElementById('markdownContent').innerHTML = `<p class="uk-text-danger">Error loading file ${file}: ${error.message}</p>`;
+                document.getElementById('content').innerHTML = `<p class="text-danger">Error loading file ${file}: ${error.message}</p>`;
             }
         }
 
-        document.addEventListener('DOMContentLoaded', () => {
+        function updateYear() {
+            const currentYear = new Date().getFullYear();
+            document.getElementById('currentYear').textContent = currentYear;
+        }
+
+        window.onload = () => {
             updateYear();
+
+            const sidebar = document.getElementById('sidebar');
+            const content = document.getElementById('content');
+            const sidebarCollapse = document.getElementById('sidebarCollapse');
+
+            sidebarCollapse.addEventListener('click', () => {
+                sidebar.classList.toggle('active');
+                content.classList.toggle('active');
+            });
+
+            function closeSidebar() {
+                sidebar.classList.remove('active');
+                content.classList.remove('active');
+            }
 
             scanForMarkdownFiles().then(files => {
                 const fileList = document.getElementById('fileList');
-                const offcanvasMenu = document.getElementById('offcanvasMenu');
                 fileList.innerHTML = '';
-                offcanvasMenu.innerHTML = '';
 
-                // Ensure index.md is always first
-                files = files.filter(file => file !== 'index.md');
                 files.sort((a, b) => formatFileName(a).localeCompare(formatFileName(b)));
-                files.unshift('index.md');
 
                 files.forEach(file => {
-                    const fileName = formatFileName(file);
                     const li = document.createElement('li');
-                    li.innerHTML = `<a href="#" data-file="${file}">${fileName}</a>`;
+                    li.className = 'nav-item';
+                    const a = document.createElement('a');
+                    a.className = 'nav-link';
+                    a.href = '#';
+                    a.textContent = formatFileName(file);
+                    a.onclick = (e) => {
+                        e.preventDefault();
+                        loadMarkdown(file);
+                        closeSidebar();
+                    };
+                    li.appendChild(a);
                     fileList.appendChild(li);
-
-                    // Duplicate for offcanvas menu
-                    const liOffcanvas = document.createElement('li');
-                    liOffcanvas.innerHTML = `<a href="#" data-file="${file}">${fileName}</a>`;
-                    offcanvasMenu.appendChild(liOffcanvas);
                 });
 
-                // Set up click event for links
-                fileList.querySelectorAll('a').forEach(link => {
-                    link.addEventListener('click', (e) => {
-                        e.preventDefault();
-                        const file = link.getAttribute('data-file');
-                        loadMarkdown(file);
-                    });
-                });
-
-                // Set up click event for offcanvas links
-                offcanvasMenu.querySelectorAll('a').forEach(link => {
-                    link.addEventListener('click', (e) => {
-                        e.preventDefault();
-                        const file = link.getAttribute('data-file');
-                        loadMarkdown(file);
-                    });
-                });
-
-                // Load the default file (index.md)
-                loadMarkdown('index.md');
+                loadMarkdown('index.md'); // Load initial file
             });
-        });
+        };
     </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
