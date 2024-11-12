@@ -70,6 +70,7 @@
 
 </details>
 
+<br />
 ### Obecné
 
 [Facebook](https://www.facebook.com/)
