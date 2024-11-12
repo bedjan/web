@@ -4,6 +4,7 @@
 
 # Instalace Gitu
 sudo apt-get install git # pro Debianu
+
 sudo zypper in git -y # pro OpenSuse
 
 # Konfigurace
