@@ -35,6 +35,21 @@
 [Chytre mapy](https://app.gisonline.cz/chytre-mapy/)
 [Epochtimes](https://www.epochtimes.cz/)
 
+
+
+### Download
+
+[Facebook download 1](https://snapsave.app/cs)
+[Facebook download 2](https://fdown.net/)
+[Youtube video download](https://ytop1.com/en9)
+[Youtube to mp3](https://ytop1.com/en87)
+[Tik tok download](https://ssstik.io/en)
+[Instagram download](https://igram.io/)
+[Youtube subtitle download](https://downsub.com/)
+[Twitter download](https://downloadatwittervideo.com/)
+[Torrent download](https://sktorrent.eu)
+[Filmy online](https://online.sktorrent.eu/)
+
 <details close>
 <summary>Úložiště</summary>
 <a href="https://fastshare.cz"  target="_blank">Fastshare</a>&nbsp;&nbsp;<br />
@@ -54,19 +69,6 @@
 <a href="https://onecloud.com"  target="_blank">Onecloud</a>&nbsp;&nbsp;<br />
 
 </details>
-
-### Download
-
-[Facebook download 1](https://snapsave.app/cs)
-[Facebook download 2](https://fdown.net/)
-[Youtube video download](https://ytop1.com/en9)
-[Youtube to mp3](https://ytop1.com/en87)
-[Tik tok download](https://ssstik.io/en)
-[Instagram download](https://igram.io/)
-[Youtube subtitle download](https://downsub.com/)
-[Twitter download](https://downloadatwittervideo.com/)
-[Torrent download](https://sktorrent.eu)
-[Filmy online](https://online.sktorrent.eu/)
 
 ### Obecné
 
