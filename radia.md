@@ -118,7 +118,7 @@
 
 * * *
 
-#### Britskáradia 
+#### Britská radia 
 
 [Britská radia 1](https://www.radio-uk.co.uk/) 
 
