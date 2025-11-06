@@ -36,9 +36,10 @@
 [Epochtimes](https://www.epochtimes.cz/)
 
 ### Oblíbené
-[Stag](https://snapsave.app/cs](https://portal.ujep.cz)
+[Stag](https://portal.ujep.cz)
 [Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
 [Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
+[Epřihláška ke studiu](https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html)
 
 ### Download
 
