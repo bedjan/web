@@ -35,7 +35,10 @@
 [Chytre mapy](https://app.gisonline.cz/chytre-mapy/)
 [Epochtimes](https://www.epochtimes.cz/)
 
-
+### Oblíbené
+[Stag](https://snapsave.app/cs](https://portal.ujep.cz)
+[Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
+[Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
 
 ### Download
 
