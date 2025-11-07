@@ -61,6 +61,30 @@
 [Gemini](https://gemini.google.com)
 [Qwen ai](https://qwen.ai/home)
 
+<details close>
+<summary>AI</summary>
+<a href="https://claude.ai/onboarding?returnTo=%2F%3F"  target="_blank">Claude AI </a>&nbsp;&nbsp;<br />
+<a href="https://chat.openai.com"  target="_blank">ChatGPT </a>&nbsp;&nbsp;<br />
+<a href="https://bard.google.com/chat"  target="_blank">Bard </a>&nbsp;&nbsp;<br />
+<a href="https://copilot.microsoft.com/"  target="_blank">Copilot </a>&nbsp;&nbsp;<br />
+<a href="https://www.craiyon.com/"  target="_blank">Craiyon </a>&nbsp;&nbsp;<br />
+<a href="https://you.com/?chatMode=default"  target="_blank">You - chatgpt 4 zdarma</a>&nbsp;&nbsp;<br />
+<a href="https://www.codebreakeredu.com/chat/"  target="_blank">Codebreaker - dotaz vygeneruje téma</a>&nbsp;&nbsp;<br />
+<a href="https://www.perplexity.ai/"  target="_blank">Perplexity - dotaz vygeneruje téma</a>&nbsp;&nbsp;<br />
+<a href="https://talkai.info/cs/"  target="_blank">Talkai - chat gpr bez registrace</a>&nbsp;&nbsp;<br />
+<a href="https://www.copy.ai/"  target="_blank">Copy AI - vytváření obsahu, hledání zákazníků</a>&nbsp;&nbsp;<br />
+<a href="https://goatchat.ai/cs"  target="_blank">Goat ai - chat gpt 4</a>&nbsp;&nbsp;<br />
+<a href="https://www.closerscopy.com/"  target="_blank">Closer copy - copywriting </a>&nbsp;&nbsp;<br />
+<a href="https://rytr.me/"  target="_blank">Rytr - tvorba obsahu </a>&nbsp;&nbsp;<br />
+<a href="https://www.jasper.ai/chat"  target="_blank">Jasper - chatbot</a>&nbsp;&nbsp;<br />
+<a href="https://writesonic.com/"  target="_blank">Writesonic - SEO, klíčová slova</a>&nbsp;&nbsp;<br />
+<a href="https://www.hyperwriteai.com/"  target="_blank">Hyperwrite - marketing, výzkum</a>&nbsp;&nbsp;<br />
+<a href="https://aichat.com/"  target="_blank">AI chat - marketing, prodej, zákaznický servis</a>&nbsp;&nbsp;<br />
+<a href="https://cleanup.pictures/"  target="_blank">vymazání částí obrazovky </a>&nbsp;&nbsp;<br />
+<a href="https://gamma.app/create"  target="_blank">vytvoření prezentace </a>&nbsp;&nbsp;<br />
+
+</details>
+
 ### Online videa
 
 [Odysee](https://odysee.com/)
