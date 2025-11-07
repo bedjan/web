@@ -46,6 +46,12 @@
 [Onedrive](https://onedrive.live.com/login)
 [Dropbox](https://www.dropbox.com/home)
 
+### AI
+
+[Chat gpt](https://chatgpt.com/)
+[Gemini](https://gemini.google.com)
+[Qwen ai](https://qwen.ai/home)
+
 ### Online videa
 
 [Odysee](https://odysee.com/)
