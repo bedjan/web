@@ -41,6 +41,11 @@
 [Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
 [Epřihláška ke studiu](https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html)
 
+### Online úložiště
+
+[Onedrive](https://onedrive.live.com/login)
+[Dropbox](https://www.dropbox.com/home)
+
 ### Online videa
 
 [Odysee](https://odysee.com/)
