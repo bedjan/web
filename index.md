@@ -141,6 +141,15 @@
 [Oskarta](https://moje.oskarta.cz/)
 [Jidelny](https://www.jidelny.me.cz/jidelna14/)
 
+<details close>
+<summary>Html šablony</summary>
+
+<a href="https://html5up.net/?utm_source=chatgpt.com"  target="_blank">Html 5 UP</a>&nbsp;&nbsp;<br />
+<a href="https://templatemo.com/"  target="_blank">Template mo</a>&nbsp;&nbsp;<br />
+<a href="https://startbootstrap.com/"  target="_blank">Start bootstrap</a>&nbsp;&nbsp;<br />
+<a href="https://www.awardspace.com/"  target="_blank">Awardspace.net hosting</a>&nbsp;&nbsp;<br />
+</details>
+
 
 ### Google
 
