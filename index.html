@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs" manifest="cache.appcache">
+<html lang="cs">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
+        /* Ponecháno původní CSS beze změn */
         body, html {
             width: 100%;
             height: 100%;
@@ -33,16 +34,16 @@
         }
         #sidebar {
             position: fixed;
-            top: 60px; /* Adjust top to not overlap with header */
+            top: 60px;
             left: 0;
-            height: calc(100vh - 60px); /* Adjust height to not overlap with header */
+            height: calc(100vh - 60px);
             width: 250px;
             background-color: #d6d8db;
             z-index: 1010;
             overflow-y: auto;
             transform: translateX(-250px);
             transition: transform 0.3s ease-in-out;
-            padding-top: 10px; /* Add padding to avoid overlap with header */
+            padding-top: 10px;
         }
         #sidebar.active {
             transform: translateX(0);
@@ -51,9 +52,9 @@
             transition: margin-left 0.3s ease-in-out;
             width: calc(100% - 250px);
             margin-left: 0;
-            padding-top: 70px; /* Add padding to prevent content from being hidden behind the fixed header */
-            padding-bottom: 70px; /* Add padding to prevent content from being hidden behind the fixed footer */
-            word-wrap: break-word; /* Ensure long words break correctly */
+            padding-top: 70px;
+            padding-bottom: 70px;
+            word-wrap: break-word;
         }
         #content.active {
             margin-left: 250px;
@@ -74,7 +75,7 @@
         }
         .nav-link {
             color: #000;
-            white-space: nowrap; /* Prevent text from overflowing */
+            white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
         }
@@ -82,7 +83,7 @@
             color: #007bff;
         }
         .nav-item {
-            margin-top: 20px; /* Ensure all items have some space between them */
+            margin-top: 20px;
         }
         @media (max-width: 768px) {
             #header-row {
@@ -99,7 +100,7 @@
                 width: 100%;
                 height: auto;
                 position: fixed;
-                top: 60px; /* Adjust top to not overlap with header */
+                top: 60px;
                 left: 0;
                 transform: translateX(-100%);
                 padding-top: 0;
@@ -110,10 +111,10 @@
             #content {
                 margin-left: 0;
                 padding: 10px;
-                padding-top: 130px; /* Adjust padding to prevent content from being hidden behind the fixed header */
-                padding-bottom: 70px; /* Add padding to prevent content from being hidden behind the fixed footer */
+                padding-top: 130px;
+                padding-bottom: 70px;
                 width: 100%;
-                word-wrap: break-word; /* Ensure long words break correctly */
+                word-wrap: break-word;
             }
             #content.active {
                 margin-left: 0;
@@ -187,18 +188,19 @@
                 .join(' ');
         }
 
-        // UPRAVENÁ FUNKCE: Převádí 'linux.md' na 'linux.html' pro URL.
+        // Převádí 'linux.md' na 'linux.html' pro URL.
         function fileToSlug(fileName) {
             return fileName.toLowerCase().replace('.md', '.html');
         }
 
-        // UPRAVENÁ FUNKCE: Převádí 'linux.html' z URL zpět na 'linux.md' pro načítání.
+        // Převádí 'linux.html' z URL zpět na 'linux.md' pro načítání.
         function slugToFile(slug) {
             // Nahradí .html zpět za .md
             return slug.replace('.html', '.md');
         }
 
         async function scanForMarkdownFiles() {
+            // ... (původní kód pro načítání souborů z GitHub API) ...
             try {
                 const response = await fetch(`https://api.github.com/repos/${githubRepo}/contents?ref=${githubBranch}`);
                 if (!response.ok) {
@@ -227,11 +229,11 @@
                 const text = await response.text();
                 document.getElementById('content').innerHTML = marked.parse(text);
                 
-                // --- Krok 1: Aktualizace URL v adresním řádku ---
+                // --- Aktualizace URL v adresním řádku ---
                 if (pushHistory) {
                     const slug = fileToSlug(file);
                     
-                    // Zjištění, zda je soubor výchozí, pro nastavení cesty na root (/)
+                    // Pokud je soubor defaultní (index.md), nastaví cestu na root (/)
                     const newPath = (file === defaultFile) ? window.location.pathname.replace(new RegExp('/[^/]*$'), '/') : '/' + slug;
                     
                     window.history.pushState({ file: file }, formatFileName(file), newPath);
@@ -247,11 +249,11 @@
         }
         
         function handleInitialLoad() {
-            // Získání cesty z URL (např. 'linux.html')
+            // Získání cesty z URL, např. 'linux.html'
             let path = window.location.pathname.split('/').pop();
             let fileToLoad;
             
-            // Zajištění, že se správně zpracuje '/' nebo 'index.html' na rootu
+            // Zpracování root cesty (/, index.html, nebo prázdné)
             if (path === '' || path === 'index.html' || path === '/') {
                 fileToLoad = defaultFile;
             } else {
@@ -287,6 +289,7 @@
                 }
             }
             
+            // --- Podpora navigace zpět/vpřed ---
             window.addEventListener('popstate', (event) => {
                 if (event.state && event.state.file) {
                     loadMarkdown(event.state.file, false);
@@ -306,12 +309,11 @@
                     li.className = 'nav-item';
                     const a = document.createElement('a');
                     a.className = 'nav-link';
-                    // Nastavení URL, např. '/linux.html'
+                    // Nastavení URL na formát '/slug.html'
                     a.href = '/' + fileToSlug(file); 
                     a.textContent = formatFileName(file);
                     a.onclick = (e) => {
                         e.preventDefault();
-                        // Zavolání loadMarkdown a povolení pushHistory
                         loadMarkdown(file, true); 
                         closeSidebar();
                     };
