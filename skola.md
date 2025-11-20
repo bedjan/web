@@ -1,4 +1,4 @@
-### Škola
+### Škola ( Speciálněpedagogická činnost - Pedagogická fakulta CCV )
 
 [Rozvrh](https://github.com/bedjan/ucitel/blob/main/rozvrh.md)
 [Stag](https://portal.ujep.cz)
