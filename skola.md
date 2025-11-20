@@ -10,6 +10,7 @@
 
 <details close>
 <summary>AI</summary>
+<a href="https://notebooklm.google.com"  target="_blank">Notebook LM AI </a>&nbsp;&nbsp;<br />
 <a href="https://claude.ai/onboarding?returnTo=%2F%3F"  target="_blank">Claude AI </a>&nbsp;&nbsp;<br />
 <a href="https://chat.openai.com"  target="_blank">ChatGPT </a>&nbsp;&nbsp;<br />
 <a href="https://bard.google.com/chat"  target="_blank">Bard </a>&nbsp;&nbsp;<br />
