@@ -5,7 +5,7 @@
 [Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
 [Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
 [Epřihláška ke studiu](https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html)
-[Markdown to html](https://markdowntohtml.com/)
+
 
 
 <details close>
@@ -51,5 +51,11 @@
 <a href="https://dropbox.com"  target="_blank">Dropbox</a>&nbsp;&nbsp;<br />
 <a href="https://idrive.com"  target="_blank">Idrive</a>&nbsp;&nbsp;<br />
 <a href="https://onecloud.com"  target="_blank">Onecloud</a>&nbsp;&nbsp;<br />
+
+</details>
+
+<details close>
+<summary>Pomůcky</summary>
+<a href="https://markdowntohtml.com/"  target="_blank">Markdown to html</a>&nbsp;&nbsp;<br />
 
 </details>
