@@ -1,13 +1,11 @@
 ### Škola ( Speciálněpedagogická činnost - Pedagogická fakulta CCV )
 
-[Rozvrh](https://github.com/bedjan/ucitel/blob/main/rozvrh.md)
-[Učitel podklady](https://github.com/bedjan/ucitel/tree/main)
-[Stag](https://portal.ujep.cz)
-[Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
-[Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
-[Epřihláška ke studiu](https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html)
-
-
+<a href="https://github.com/bedjan/ucitel/blob/main/rozvrh.md"  target="_blank">Rozvrh</a>&nbsp;&nbsp;<br />
+<a href="https://github.com/bedjan/ucitel/tree/main"  target="_blank">Učitel podklady</a>&nbsp;&nbsp;<br />
+<a href="https://portal.ujep.cz"  target="_blank">Stag</a>&nbsp;&nbsp;<br />
+<a href="https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty"  target="_blank">Kontakty</a>&nbsp;&nbsp;<br />
+<a href="https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska"  target="_blank">Přihláška CCV</a>&nbsp;&nbsp;<br />
+<a href="https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html"  target="_blank">Epřihláška ke studiu</a>&nbsp;&nbsp;<br />
 
 <details close>
 <summary>AI</summary>
