@@ -176,7 +176,7 @@
     <script>
         const githubRepo = 'bedjan/web';
         const githubBranch = 'main';
-        const defaultFile = 'index.md'; // Soubor, který se načte na úvodní stránce
+        const defaultFile = 'index.md';
 
         function formatFileName(fileName) {
             return fileName
@@ -187,14 +187,15 @@
                 .join(' ');
         }
 
-        // Nová funkce pro převod názvu souboru na slug pro URL
+        // UPRAVENÁ FUNKCE: Převádí 'linux.md' na 'linux.html' pro URL.
         function fileToSlug(fileName) {
-            return fileName.toLowerCase().replace('.md', '');
+            return fileName.toLowerCase().replace('.md', '.html');
         }
 
-        // Nová funkce pro převod slugu z URL na název souboru
+        // UPRAVENÁ FUNKCE: Převádí 'linux.html' z URL zpět na 'linux.md' pro načítání.
         function slugToFile(slug) {
-            return slug + '.md';
+            // Nahradí .html zpět za .md
+            return slug.replace('.html', '.md');
         }
 
         async function scanForMarkdownFiles() {
@@ -214,7 +215,6 @@
             }
         }
         
-        // Upravená funkce pro načítání Markdownu s aktualizací URL
         async function loadMarkdown(file, pushHistory = true) {
             if (!file) {
                 file = defaultFile;
@@ -230,8 +230,9 @@
                 // --- Krok 1: Aktualizace URL v adresním řádku ---
                 if (pushHistory) {
                     const slug = fileToSlug(file);
-                    // Pro úvodní soubor (index.md) nastavíme URL bez slugu (pouze root /)
-                    const newPath = (slug === fileToSlug(defaultFile)) ? window.location.pathname.replace(new RegExp('/.*$'), '/') : '/' + slug;
+                    
+                    // Zjištění, zda je soubor výchozí, pro nastavení cesty na root (/)
+                    const newPath = (file === defaultFile) ? window.location.pathname.replace(new RegExp('/[^/]*$'), '/') : '/' + slug;
                     
                     window.history.pushState({ file: file }, formatFileName(file), newPath);
                     document.title = formatFileName(file) + " | Osobní stránky";
@@ -246,16 +247,16 @@
         }
         
         function handleInitialLoad() {
-            // Získání cesty z URL (např. '/linux')
-            const path = window.location.pathname.split('/').pop();
+            // Získání cesty z URL (např. 'linux.html')
+            let path = window.location.pathname.split('/').pop();
             let fileToLoad;
             
-            if (path && path !== '' && path !== 'index.html' && path !== '/') {
-                // Pokud je v URL nějaký slug, zkusíme najít odpovídající soubor
-                fileToLoad = slugToFile(path);
-            } else {
-                // Jinak načteme výchozí soubor
+            // Zajištění, že se správně zpracuje '/' nebo 'index.html' na rootu
+            if (path === '' || path === 'index.html' || path === '/') {
                 fileToLoad = defaultFile;
+            } else {
+                // Konverze 'linux.html' zpět na 'linux.md'
+                fileToLoad = slugToFile(path);
             }
             
             // Načtení souboru a zabránění pushState pro počáteční stav
@@ -286,13 +287,10 @@
                 }
             }
             
-            // --- Krok 2: Navigace zpět/vpřed (History API) ---
             window.addEventListener('popstate', (event) => {
                 if (event.state && event.state.file) {
-                    // Načte soubor z historie, bez pushState, aby nevytvořil duplicitní záznam
                     loadMarkdown(event.state.file, false);
                 } else {
-                    // Načte výchozí soubor, pokud je historie prázdná (root)
                     handleInitialLoad();
                 }
             });
@@ -308,7 +306,7 @@
                     li.className = 'nav-item';
                     const a = document.createElement('a');
                     a.className = 'nav-link';
-                    // Nastavení URL, které se objeví v adresním řádku
+                    // Nastavení URL, např. '/linux.html'
                     a.href = '/' + fileToSlug(file); 
                     a.textContent = formatFileName(file);
                     a.onclick = (e) => {
