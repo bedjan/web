@@ -1,6 +1,7 @@
 ### Škola ( Speciálněpedagogická činnost - Pedagogická fakulta CCV )
 
 [Rozvrh](https://github.com/bedjan/ucitel/blob/main/rozvrh.md)
+[Učitel podklady](https://github.com/bedjan/ucitel/tree/main)
 [Stag](https://portal.ujep.cz)
 [Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
 [Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
