@@ -1,6 +1,5 @@
-
-### Oblíbené
-
+<details close>
+<summary>Oblíbené</summary>
 [Simplenote](https://app.simplenote.com/)
 [Počasí](https://wttr.in/duchcov)
 [Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1)
@@ -34,36 +33,31 @@
 [Jirka fotky](https://www.rajce.idnes.cz/lipova-lipka/album/kulisci/1511277136)
 [Chytre mapy](https://app.gisonline.cz/chytre-mapy/)
 [Epochtimes](https://www.epochtimes.cz/)
+</details>
 
-### Škola
 
+<details close>
+<summary>Škola</summary>
 [Rozvrh](https://github.com/bedjan/ucitel/blob/main/rozvrh.md)
 [Stag](https://portal.ujep.cz)
 [Kontakty](https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty)
 [Přihláška CCV](https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska)
 [Epřihláška ke studiu](https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html)
 [Markdown to html](https://markdowntohtml.com/)
+</details>
 
-### Google
-
+<details close>
+<summary>Google</summary>
 [Gmail](https://mail.google.com/mail/u/0/#inbox)
 [Web prekladac](http://free-website-translation.com/)
 [Kalendář](https://calendar.google.com/calendar/u/0/r)
-
-
-### Online úložiště
-
-[Onedrive](https://onedrive.live.com/login)
-[Dropbox](https://www.dropbox.com/home)
-
-### AI
-
-[Chat gpt](https://chatgpt.com/)
-[Gemini](https://gemini.google.com)
-[Qwen ai](https://qwen.ai/home)
+</details>
 
 <details close>
 <summary>AI</summary>
+ [Chat gpt](https://chatgpt.com/)
+[Gemini](https://gemini.google.com)
+[Qwen ai](https://qwen.ai/home)
 <a href="https://claude.ai/onboarding?returnTo=%2F%3F"  target="_blank">Claude AI </a>&nbsp;&nbsp;<br />
 <a href="https://chat.openai.com"  target="_blank">ChatGPT </a>&nbsp;&nbsp;<br />
 <a href="https://bard.google.com/chat"  target="_blank">Bard </a>&nbsp;&nbsp;<br />
@@ -83,16 +77,16 @@
 <a href="https://aichat.com/"  target="_blank">AI chat - marketing, prodej, zákaznický servis</a>&nbsp;&nbsp;<br />
 <a href="https://cleanup.pictures/"  target="_blank">vymazání částí obrazovky </a>&nbsp;&nbsp;<br />
 <a href="https://gamma.app/create"  target="_blank">vytvoření prezentace </a>&nbsp;&nbsp;<br />
-
 </details>
 
-### Online videa
-
+<details close>
+<summary>Online videa</summary>
 [Odysee](https://odysee.com/)
 [Rumble](https://rumble.com/)
+</details>
 
-### Download
-
+<details close>
+<summary>Download</summary>
 [Facebook download 1](https://snapsave.app/cs)
 [Facebook download 2](https://fdown.net/)
 [Youtube video download](https://ytop1.com/en9)
@@ -103,6 +97,7 @@
 [Twitter download](https://downloadatwittervideo.com/)
 [Torrent download](https://sktorrent.eu)
 [Filmy online](https://online.sktorrent.eu/)
+</details>
 
 <details close>
 <summary>Úložiště</summary>
@@ -205,8 +200,8 @@
 </details>
 
 
-### Google
-
+<details close>
+<summary>Google</summary>
 [Gtranslate](https://translate.google.cz/)
 [Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1)
 [Youtube](https://www.youtube.com/)
@@ -217,29 +212,34 @@
 [Gphotos](https://photos.google.com/?hl=cs&pli=1)
 [Gsites](https://sites.google.com/site/bedjansite/)
 [Gtakeout](https://takeout.google.com/settings/takeout?pli=1)
+</details>
 
 
 
-### Banky, pojišťovny, služby
-
+<details close>
+<summary>Banky, pojišťovny, služby</summary>
 [Česká spořitelna](https://bezpecnost.csas.cz/login/?client_id=georgeclient_cz)
+[PRE online](https://www.pre.cz/cs/moje-pre/neprihlaseny-uzivatel/prihlaseni-uzivatele/)
 [Equa](https://www.equabanking.cz/IBS/)
 [Sparkasse](https://www.ostsaechsische-sparkasse-dresden.de/de/home/service/online-mobile-banking.html)
 [Goldengate](https://moje.goldengate.cz/dashboards)
 [Wise](https://wise.com/login/)
 [Generali](https://generaliceskacz.b2clogin.com/login.kz.generaliceska.cz/oauth2/v2.0/authorize?p=B2C_1_Prod_Flow&nonce=defaultNonce&redirect_uri=https://kz.generaliceska.cz/token&client_id=894f4eb9-5e98-4957-baa9-e1cc6350e9f5&prompt=login&scope=openid%20offline_access&response_type=code&login_hint=)
 [Cez online](https://cezonline.cez.cz/irj/portal/profil-uzivatele#/profil)
+</details>
 
-### Úprava textu
-
+<details close>
+<summary>Úprava textu</summary>
 [Psani textu online 1](https://write-box.appspot.com/)
 [Psani textu online 22](https://www.editpad.org/)
 [markdown editor online](https://dillinger.io/)
 [Odstranění diakritiky češtiny](http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php)
 [Přidání diakritiky češtiny](https://nlp.fi.muni.cz/cz_accent/)
+</details>
 
-### Linux
 
+<details close>
+<summary>Linux</summary>
 [Abclinuxu](https://www.abclinuxu.cz/)
 [Root](https://www.root.cz/)
 [Linuxexpress](https://www.linuxexpres.cz/)
@@ -252,13 +252,16 @@
 [Debian - skripty a config](https://github.com/bedjan/debian)
 [Moje poznámky k debianu](https://github.com/bedjan/debian/blob/master/poznamky/debian.md)[Obecně](https://github.com/bedjan/debian/blob/master/poznamky/linux.md)
 [Cli - příkazový řádek ](https://github.com/bedjan/debian/blob/master/poznamky/linux_cli.md)
+</details>
 
-### Němčina
 
+<details close>
+<summary>Němčina</summary>
 [Nemcina_youtube](https://www.youtube.com/channel/UC4LQ7gUVS5w45ba1VubmJpg/videos)
+</details>
 
-### Programování
-
+<details close>
+<summary>Programování</summary>
 [Github](https://github.com/bedjan/)
 [Github_all](https://github.com/bedjan/debian/blob/master/skripty/all.sh)
 [Zdrojak](https://zdrojak.cz/)
@@ -277,10 +280,11 @@
 [Tinyurl](https://tinyurl.com/)
 [Gist.io i](https://gist.io/)
 [Markdown editor](https://uiwjs.github.io/react-md-editor/)
+</details>
 
 
-### Github
-
+<details close>
+<summary>Github</summary>
 [Github_akupresura](https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md)
 [Github_windows](https://github.com/bedjan/windows)
 [Github_poznamky](https://github.com/bedjan/github/blob/master/README.md)
@@ -288,9 +292,11 @@
 [Windows](https://github.com/bedjan/windows) 
 [Thinkpad\_t410 poznámky, ovladače, ...](https://github.com/bedjan/thinkpad_t410)[Software](https://github.com/bedjan/sw/tree/master)
 [Hardware](https://github.com/bedjan/hw/tree/master)
+</details>
 
-### Životní prostředí
 
+<details close>
+<summary>Životní prostředí</summary>
 [Enviweb](http://www.enviweb.cz/)
 [Mžp](https://www.mzp.cz/)
 [Arnika zerowaste](http://arnika.org/zero-waste) 
@@ -298,26 +304,30 @@
 [Bezobalu - o zerowaste](http://zerowaste.bezobalu.org/) 
 [Zero waste europe](https://translate.google.cz/translate?sl=en&tl=cs&js=y&prev=_t&hl=cs&ie=UTF-8&u=zerowasteeurope.eu&edit-text=&act=url) 
 [Zero waste obchody v čr](https://www.greenglasses.cz/cs/business-category/zero-waste-obchody-jidlo-piti/)
+</details>
 
-### Minimalismus
-
+<details close>
+<summary>Minimalismus</summary>
 [Co je minimalismus](http://zijememinimalismem.cz/minimalismus-co-to-je-prosim-te/)[Minimalismus ve světě](https://translate.google.cz/translate?hl=cs?sl=en&tl=cs&u=www.becomingminimalist.com/most-popular-posts/)
+</details>
 
-
-### Psychologie
-
+<details close>
+<summary>Psychologie</summary>
 [Psychologie](https://psychologie.cz/clanky/)
 [Pronaladu](https://www.pronaladu.cz/)
 [Epsychologie](https://e-psycholog.eu/archiv)
 [Statistiky](https://www.czso.cz/csu/czso/statistiky)
+</details>
 
-### Pedagogika
 
+<details close>
+<summary>Pedagogika</summary>
 [Psychologie](http://htmlpreview.github.io/?https://rawcdn.githack.com/bedjan/skola/master/psychologie.html) 
 [Pedagogika](http://htmlpreview.github.io/?https://rawcdn.githack.com/bedjan/skola/master/pedagogika.html)
+ </details>
  
-### Ostatní
-
+<details close>
+<summary>Ostatní</summary>
 [Yahoo_email](https://login.yahoo.com)
 [Seznam](https://www.seznam.cz/)
 [Seznam_email](https://login.szn.cz/)
@@ -330,9 +340,10 @@
 [Web](http://janbednar.sweb.cz/)
 [Janbednar@osobni](https://sites.google.com/site/bedjansite/)
 [Bazos](https://www.bazos.cz/)
+</details>
 
-### Firefox
-
+<details close>
+<summary>Firefox</summary>
 [open_with](https://addons.mozilla.org/cs/firefox/addon/open-with/)
 
 ``
@@ -353,14 +364,15 @@ mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0
 
 [I don't care about cookies](https://addons.mozilla.org/cs/firefox/addon/i-dont-care-about-cookies/)
 [to google translate](https://addons.mozilla.org/cs/firefox/addon/to-google-translate/)
+</details>
 
-### Další
-
+<details close>
+<summary>Další</summary>
 [lastpass cli](https://github.com/lastpass/lastpass-cli)
 [biodopad](https://www.tsduchcov.cz/svoz-odpadu/svoz-brko/)
 [prepper](http://www.prepper.cz/)
 [prepper - forum](http://preppers.cz/forum/)
-
+</details>
 
 
 
