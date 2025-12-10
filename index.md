@@ -1,4 +1,4 @@
- 
+### Odkazy 
     <details close>
         <summary> Oblíbené</summary>
                   <a href="https://app.simplenote.com/" target="_blank">Simplenote</a>
@@ -394,14 +394,14 @@
         <summary> Firefox</summary>
         
             <a href="https://addons.mozilla.org/cs/firefox/addon/open-with/" target="_blank">open_with</a>
-            
-            <div class="code-block">
+            <pre>
+        
                 mpv --ytdl-format=mp4 --ontop=yes --save-position-on-quit=yes --geometry=35%+0-50 --player-operation-mode=pseudo-gui –fs=no –cache-secs=180 –demuxer-readahead-secs=0 –ytdl-raw-options=no-check-certificate=
 
 mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0-50 --player-operation-mode=pseudo-gui –fs=no –cache-secs=180 –demuxer-readahead-secs=0 –ytdl-raw-options=no-check-certificate=
 
 mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0-50 --player-operation-mode=pseudo-gui –fs=no –cache-secs=180 –demuxer-readahead-secs=0 –ytdl-raw-options=no-check-certificate=
-            
+            </pre>
 
             <a href="https://addons.mozilla.org/cs/firefox/addon/foxy-gestures/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">foxy gestures</a>
             <a href="https://addons.mozilla.org/cs/firefox/addon/ublock-origin/" target="_blank">ublock origin</a>
@@ -423,3 +423,5 @@ mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0
     </details>
 
 
+
+    ### Odkazy 
