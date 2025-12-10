@@ -1,4 +1,4 @@
-<html>
+
     
     <details close>
         <summary> Oblíbené</summary>
@@ -424,4 +424,4 @@ mpv --ytdl-format=worst --ontop=yes --save-position-on-quit=yes --geometry=35%+0
         </div>
     </details>
 
-</html>
+
