@@ -124,9 +124,64 @@
 
 <br />
 
+<details close>
+<summary>Užitečné zdroje obrázků bez porušení autorských práv</summary>
+<a href="https://www.pexels.com/" target="_blank">Pexels – Obrázky a videa zdarma</a>
+<a href="https://pixabay.com/" target="_blank">Pixabay – Fotky, ilustrace a vektory</a>
+<a href="https://unsplash.com/" target="_blank">Unsplash – Kolekce fotografií ve vysoké kvalitě</a>
+<a href="https://commons.wikimedia.org/wiki/Hlavn%C3%AD_strana" target="_blank">Wikimedia Commons – Mediální soubory s volnou licencí</a>
+<a href="https://burst.shopify.com/" target="_blank">Burst – Knihovna fotografií pro podnikání</a>
+</details>
 
-### Obecné
+<details close>
+<summary>Html šablony</summary>
 
+<a href="https://html5up.net/?utm_source=chatgpt.com"  target="_blank">Html 5 UP</a>&nbsp;&nbsp;<br />
+<a href="https://templatemo.com/"  target="_blank">Template mo</a>&nbsp;&nbsp;<br />
+<a href="https://startbootstrap.com/"  target="_blank">Start bootstrap</a>&nbsp;&nbsp;<br />
+<a href="https://www.awardspace.com/"  target="_blank">Awardspace.net hosting</a>&nbsp;&nbsp;<br />
+</details>
+
+<details close>
+<summary>Testy  - Výběr povolání</summary>
+<a href="http://www.emiero.cz"  target="_blank">Emiero</a>&nbsp;&nbsp;<br />
+<a href="http://www.infoabsolvent.cz/Profitest"  target="_blank">Profitest</a>&nbsp;&nbsp;<br />
+<a href="https://dotaznik.zlkraj.cz"  target="_blank">Dotazník</a>&nbsp;&nbsp;<br />
+<a href="http://www.zkouskaosobnosti.cz"  target="_blank">Zkouska osobnosti</a>&nbsp;&nbsp;<br />
+<a href="http://www.testosobnosti.zarohem.cz"  target="_blank">Zkouska osobnosti</a>&nbsp;&nbsp;<br />
+<a href="http://www.mujzivotposkole.cz"  target="_blank">Po skole</a>&nbsp;&nbsp;<br />
+<a href="http://www.testmojeplus.cz"  target="_blank">Moje plus</a>&nbsp;&nbsp;<br />
+<a href="http://www.job-hub.cz"  target="_blank">Job</a>&nbsp;&nbsp;<br />
+<a href="https://www.salmondo.cz"  target="_blank">Salmondo</a>&nbsp;&nbsp;<br />
+<a href="https://www.comdi.cz"  target="_blank">Comdi</a>&nbsp;&nbsp;<br />
+<a href="https://www.regio-advisor.cz"  target="_blank">Advisor</a>&nbsp;&nbsp;<br />
+<a href="https://cs.wikipedia.org/wiki/Coping"  target="_blank">Coping</a>&nbsp;&nbsp;<br />
+</details>
+
+
+<details close>
+<summary>Předměty</summary>
+<h3  style="color: red">Matematika</h3>
+<a href="https://wordwall.net/cs-cz/community/matematika/kv%C3%ADz-z-matematiky"  target="_blank">Matematika kviz</a>&nbsp;&nbsp;<br />
+<a href="https://www.skolasnadhledem.cz/"  target="_blank">Škola s nadhledem</a>&nbsp;&nbsp;<br />
+<a href="https://www.geogebra.org/calculator"  target="_blank">Grafy  vyobrazení</a>&nbsp;&nbsp;<br />
+<a href="https://www.geogebra.org/materials"  target="_blank">Výukové materiály</a>&nbsp;&nbsp;<br />
+<a href="https://www.matweb.cz/"  target="_blank">Matematika polopatě</a>&nbsp;&nbsp;<br />
+<a href="http://www.rovnice-nerovnice.cz/index.html"  target="_blank">Rovnice nerovnice</a>&nbsp;&nbsp;<br />
+<a href="https://skolaposkole.cz/matematika-ss/kvadraticke-rovnice"  target="_blank">Kvadratické rovnice</a>&nbsp;&nbsp;<br />
+<a href="https://reseneulohy.cz/cs"  target="_blank">Sbírka řešených úloh</a>&nbsp;&nbsp;<br />
+<a href="https://www.priklady.com/cs_new/index.php/priklady-z-matematiky-pro-vysoke-skoly"  target="_blank">Příklady z Matematiky pro Vysoké Školy</a>&nbsp;&nbsp;<br />
+<a href="https://kdm.karlin.mff.cuni.cz/diplomky/stepan_kurka/trojuhelnik.htm"  target="_blank">Konstrukční úlohy</a>&nbsp;&nbsp;<br />
+<h3  style="color: red">Fyzika</h3>
+<a href="https://iqlandia.cz/iqblog/section:22"  target="_blank">Iqlandia - Fyzika</a>&nbsp;&nbsp;<br />
+<a href="https://www.e-fyzika.cz/priklady/"  target="_blank">Fyzika - Příklady na středoškolskou fyziku</a>&nbsp;&nbsp;<br />
+<h3  style="color: red">Chemie</h3>
+<a href="https://chemicke-vypocty.cz/"  target="_blank">Chemické výpočty</a>&nbsp;&nbsp;<br />
+</details>
+
+
+<details close>
+<summary>Obecné</summary>
 [Facebook](https://www.facebook.com/)
 [Twitter](https://twitter.com/home)
 [Instagram](https://www.instagram.com/)
@@ -138,6 +193,7 @@
 [Muj vodafone](https://www.vodafone.cz/muj/prihlaseni)
 [Oskarta](https://moje.oskarta.cz/)
 [Jidelny](https://www.jidelny.me.cz/jidelna14/)
+</details>
 
 <details close>
 <summary>Html šablony</summary>
