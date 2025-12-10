@@ -117,8 +117,6 @@
 
 </details>
 
-<br />
-
 <details close>
 <summary>Užitečné zdroje obrázků bez porušení autorských práv</summary>
 <a href="https://www.pexels.com/" target="_blank">Pexels – Obrázky a videa zdarma</a>
