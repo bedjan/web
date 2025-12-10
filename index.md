@@ -1,3 +1,13 @@
+<details open>
+<summary> Škola</summary>
+<a href="https://github.com/bedjan/ucitel/blob/main/rozvrh.md" target="_blank">Rozvrh</a>
+<a href="https://portal.ujep.cz" target="_blank">Stag</a>
+<a href="https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty" target="_blank">Kontakty</a>
+<a href="https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska" target="_blank">Přihláška CCV</a>
+<a href="https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html" target="_blank">Epřihláška ke studiu</a>
+<a href="https://markdowntohtml.com/" target="_blank">Markdown to html</a>
+</details>
+
 <details close>
 <summary> Oblíbené</summary>
 <a href="https://app.simplenote.com/" target="_blank">Simplenote</a>
@@ -36,14 +46,32 @@
 </details>
 
 
-<details close>
-<summary> Škola</summary>
-<a href="https://github.com/bedjan/ucitel/blob/main/rozvrh.md" target="_blank">Rozvrh</a>
-<a href="https://portal.ujep.cz" target="_blank">Stag</a>
-<a href="https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty" target="_blank">Kontakty</a>
-<a href="https://www.pf.ujep.cz/cs/centrum-celozivotniho-vzdelavani-prihlaska" target="_blank">Přihláška CCV</a>
-<a href="https://portal.ujep.cz/portal/studium/uchazec/eprihlaska.html" target="_blank">Epřihláška ke studiu</a>
-<a href="https://markdowntohtml.com/" target="_blank">Markdown to html</a>
+
+
+
+<details>
+<summary>TV</summary>
+<a href"https://rdy.cz/tv" target="_blank">Zkracene tv</a>
+<a href"https://mrkaj.si/" target="_blank">Mrkaj si</a>
+<a href"https://www.bombuj.si/" target="_blank">Bombuj</a>
+<a href"https://filmyzadara.cz/" target="_blank">Filmová zadara</a>
+<a href"https://serialyzadara.cz/" target="_blank">Sériová zadara</a>
+<a href"https://tv.prehraj.me/cs/" target="_blank">Přehraj to</a>
+<a href"https://filmyzadara.cz/" target="_blank">Filmy zadara</a>
+<a href"https://mrkaj.si/tv/breaking-bad/S01E01" target="_blank">Mrkaj si - pernik. táta</a>
+<a href"https://www.najserialy.io/" target="_blank">Nejseriály</a>
+<a href"https://serialyzadara.cz/" target="_blank">Seriály zadara</a>
+<a href"https://www.najserialy.io/?page=7" target="_blank">Naj seriály</a>
+<a href"https://dupe.cz/serialy/" target="_blank">Dupe seriály</a>
+<a href"https://www.serialzone.cz/serialy/" target="_blank">Seriálzone</a>
+<a href"https://sledujserialy.io/" target="_blank">Sleduj seriály</a>
+<a href"https://www.iprima.cz/serialy/pad" target="_blank">Iprima Pad</a>
+<a href="https://www.spustit.cz/" target="_blank">Spustit</a>
+<a href="https://www.youtube.com" target="_blank">Youtube</a>
+<a href="https://www.iprima.cz/" target="_blank">Iprima</a>
+<a href="https://sledovanitv.cz/" target="_blank">Sledování TV</a>
+<a href="https://www.hellspy.to/" target="_blank">Hellspy</a>
+<a href="https://www.ivysilani.cz/" target="_blank">Ivysilani</a>
 </details>
 
 <details close>
