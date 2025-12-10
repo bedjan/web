@@ -48,7 +48,6 @@
 
 
 
-
 <details>
 <summary>TV</summary>
 <a href"https://rdy.cz/tv" target="_blank">Zkracene tv</a>
@@ -72,6 +71,65 @@
 <a href="https://sledovanitv.cz/" target="_blank">Sledování TV</a>
 <a href="https://www.hellspy.to/" target="_blank">Hellspy</a>
 <a href="https://www.ivysilani.cz/" target="_blank">Ivysilani</a>
+</details>
+
+<details>
+<summary>Radia m3u playlist</summary>
+<a href="https://raw.githubusercontent.com/bedjan/mm/refs/heads/master/radia_online.m3u" target="_blank">Radia m3u</a>
+</details>
+
+<details>
+<summary>Rádiové Streamy</summary>
+<a href="https://stream.rcs.revma.com/asn0cmvb938uv" target="_blank">Kiss</a>
+<a href="http://mpc1.mediacp.eu:8342/stream" target="_blank">Radio 4U</a>
+<a href="http://ice.actve.net/fm-evropa2-128" target="_blank">Evropa 2</a>
+<a href="https://westradio.cz/radio/8010/radio.mp3" target="_blank">Comedy klubové rádio Diana</a>
+<a href="https://stream.rcs.revma.com/3d47nqvb938uv" target="_blank">Radio Beat</a>
+<a href="http://ice.abradio.cz:8000/hitmi128.mp3" target="_blank">City milenium</a>
+<a href="http://ice.abradio.cz/city90128.mp3" target="_blank">City 90</a>
+<a href="http://ice.abradio.cz/city80128.mp3" target="_blank">City 80</a>
+<a href="http://stream.funradio.sk:8000/cs128.mp3" target="_blank">Zábavné rádio</a>
+<a href="https://ice.abradio.cz/fajnfresh128.mp3" target="_blank">Zábavné rádio čerstvé</a>
+<a href="http://ice.abradio.cz:8000/helax128.mp3" target="_blank">Helax</a>
+<a href="http://ice.abradio.cz/cernahora64.mp3" target="_blank">Cerna hora</a>
+<a href="https://ice.abradio.cz/rockradio128.mp3" target="_blank">Rock radio</a>
+<a href="http://ice.actve.net/dance-radio128.mp3" target="_blank">Taneční rádio</a>
+<a href="http://icecast5.play.cz/expres128mp3" target="_blank">Express rádio</a>
+<a href="https://ice.abradio.cz/fajn128.mp3" target="_blank">rádio Fajn</a>
+<a href="https://ice3.abradio.cz/hitradiocontact128.mp3" target="_blank">Kontaktní rádio</a>
+<a href="http://ice.abradio.cz:8000/hitpoprock128.mp3" target="_blank">Poprock radio</a>
+<a href="http://stream.nonstopradio.cz:8080" target="_blank">Nonstop rádio</a>
+<a href="http://ice.abradio.cz/oldiesradio128.mp3" target="_blank">Oldies radio</a>
+<a href="http://icecast1.play.cz/radio1.mp3" target="_blank">Radio1</a>
+<a href="http://ice.actve.net/fm-bonton-128" target="_blank">Bonton</a>
+<a href="http://sc.ipip.cz:8046/" target="_blank">Cesky jukebox</a>
+<a href="https://ice4.abradio.cz/depeche128.mp3" target="_blank">režim Depeche</a>
+<a href="http://icecast3.play.cz/hey-radio128.mp3" target="_blank">Radio Hey</a>
+<a href="http://icecast5.play.cz/impuls128.mp3" target="_blank">Radio Impuls</a>
+<a href="http://icecast4.play.cz/spin128.mp3" target="_blank">Radio Spin</a>
+<a href="http://live.seejay.cz/seejay128.mp3" target="_blank">Radio Seejay</a>
+<a href="http://sc.ipip.cz:7980" target="_blank">Radio Sex radio</a>
+<a href="http://mp3stream4.abradio.cz/chillout128.mp3" target="_blank">Chillout</a>
+<a href="http://mp3stream4.abradio.cz:8000/humor.mp3" target="_blank">Humor 64</a>
+<a href="http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3" target="_blank">Radio Harmony FM DE 128 mp3</a>
+<a href="http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3" target="_blank">Hity Sky Radio 80</a>
+<a href="http://mp3stream4.abradio.cz:8000/humor128.mp3" target="_blank">Humor 128</a>
+<a href="http://mp3stream2.abradio.cz:8000/folk.mp3" target="_blank">Folk</a>
+<a href="http://ice.abradio.cz/blanikcz128.mp3" target="_blank">Blanik</a>
+<a href="http://icecast5.play.cz:8000/dechovka128.mp3" target="_blank">Dechovka</a>
+<a href="http://ice.abradio.cz/oldiesradio128.mp3" target="_blank">Oldies</a>
+<a href="http://mp3stream4.abradio.cz/oldiesrock128.mp3" target="_blank">Oldies Rock</a>
+<a href="http://mp3stream4.abradio.cz/chillout128.mp3" target="_blank">Chillout</a>
+<a href="http://ice3.abradio.cz/alternative128.mp3" target="_blank">Alternativní časy</a>
+<a href="http://ice6.abradio.cz/relax-sea128.mp3" target="_blank">Více</a>
+<a href="http://ice6.abradio.cz/relax-thunder-rain128.mp3" target="_blank">Bourka</a>
+<a href="http://ice6.abradio.cz/relax-morning-birds128.mp3" target="_blank">Zpev_ptaku</a>
+<a href="http://ice6.abradio.cz/relax-fire128.mp3" target="_blank">Ohen v krvi</a>
+<a href="http://ice6.abradio.cz/relax-fire128.mp3" target="_blank">Ohen_v_krbu 128</a>
+<a href="http://ice3.abradio.cz/pohadka128.mp3" target="_blank">Pohadka 128</a>
+<a href="http://ice3.abradio.cz/povidka128.mp3" target="_blank">Povidka 128</a>
+<a href="http://mp3stream4.abradio.cz/domino128.mp3" target="_blank">Pohadky_domino</a>
+<a href="https://185.33.21.112/atr_128?icy=https%22" target="_blank">Trance</a>
 </details>
 
 <details close>
