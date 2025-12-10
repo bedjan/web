@@ -1,5 +1,5 @@
 <details open>
-<summary> Škola</summary>
+<summary>Škola</summary>
 <a href="https://github.com/bedjan/ucitel/blob/main/rozvrh.md" target="_blank">Rozvrh</a>
 <a href="https://portal.ujep.cz" target="_blank">Stag</a>
 <a href="https://www.pf.ujep.cz/cs/cat/centrum-celozivotniho-vzdelavani-kontakty" target="_blank">Kontakty</a>
@@ -9,7 +9,7 @@
 </details>
 
 <details close>
-<summary> Oblíbené</summary>
+<summary>Oblíbené</summary>
 <a href="https://app.simplenote.com/" target="_blank">Simplenote</a>
 <a href="https://wttr.in/duchcov" target="_blank">Počasí</a>
 <a href="https://calendar.google.com/calendar/u/0/r?opentasks=1" target="_blank">Tasks</a>
@@ -133,14 +133,14 @@
 </details>
 
 <details close>
-<summary> Google</summary>
+<summary>Google</summary>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Gmail</a>
 <a href="http://free-website-translation.com/" target="_blank">Web prekladac</a>
 <a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Kalendář</a>
 </details>
 
 <details close>
-<summary> AI</summary>
+<summary>AI</summary>
 <a href="https://chatgpt.com/" target="_blank">Chat gpt</a>
 <a href="https://gemini.google.com" target="_blank">Gemini</a>
 <a href="https://qwen.ai/home" target="_blank">Qwen ai</a>
@@ -166,7 +166,7 @@
 </details>
 
 <details close>
-<summary> Online videa</summary>
+<summary>Online videa</summary>
 <a href="https://odysee.com/" target="_blank">Odysee</a>
 <a href="https://rumble.com/" target="_blank">Rumble</a>
 </details>
@@ -186,7 +186,7 @@
 </details>
 
 <details close>
-<summary> Úložiště</summary>
+<summary>Úložiště</summary>
 <a href="https://fastshare.cz"  target="_blank">Fastshare</a>
 <a href="https://datoid.cz"  target="_blank">Datoid</a>
 <a href="https://webshare.cz/"  target="_blank">Webshare</a>
@@ -212,7 +212,7 @@
 </details>
 
 <details close>
-<summary> Html šablony</summary>
+<summary>Html šablony</summary>
 <a href="https://html5up.net/?utm_source=chatgpt.com"  target="_blank">Html 5 UP</a>
 <a href="https://templatemo.com/"  target="_blank">Template mo</a>
 <a href="https://startbootstrap.com/"  target="_blank">Start bootstrap</a>
@@ -220,7 +220,7 @@
 </details>
 
 <details close>
-<summary> Testy - Výběr povolání</summary>
+<summary>Testy - Výběr povolání</summary>
 <a href="http://www.emiero.cz"  target="_blank">Emiero</a>
 <a href="http://www.infoabsolvent.cz/Profitest"  target="_blank">Profitest</a>
 <a href="https://dotaznik.zlkraj.cz"  target="_blank">Dotazník</a>
@@ -237,7 +237,7 @@
 
 
 <details close>
-<summary> Předměty</summary>
+<summary>Předměty</summary>
 <h3 style="color: red">Matematika</h3>
 <a href="https://wordwall.net/cs-cz/community/matematika/kv%C3%ADz-z-matematiky"  target="_blank">Matematika kviz</a>
 <a href="https://www.skolasnadhledem.cz/"  target="_blank">Škola s nadhledem</a>
@@ -258,7 +258,7 @@
 
 
 <details close>
-<summary> Obecné</summary>
+<summary>Obecné</summary>
 <a href="https://www.facebook.com/" target="_blank">Facebook</a>
 <a href="https://twitter.com/home" target="_blank">Twitter</a>
 <a href="https://www.instagram.com/" target="_blank">Instagram</a>
@@ -273,7 +273,7 @@
 </details>
 
 <details close>
-<summary> Html šablony</summary>
+<summary>Html šablony</summary>
 <a href="https://html5up.net/?utm_source=chatgpt.com"  target="_blank">Html 5 UP</a>
 <a href="https://templatemo.com/"  target="_blank">Template mo</a>
 <a href="https://startbootstrap.com/"  target="_blank">Start bootstrap</a>
@@ -282,7 +282,7 @@
 
 
 <details close>
-<summary> Google</summary>
+<summary>Google</summary>
 <a href="https://translate.google.cz/" target="_blank">Gtranslate</a>
 <a href="https://calendar.google.com/calendar/u/0/r?opentasks=1" target="_blank">Tasks</a>
 <a href="https://www.youtube.com/" target="_blank">Youtube</a>
@@ -298,7 +298,7 @@
 
 
 <details close>
-<summary> Banky, pojišťovny, služby</summary>
+<summary>Banky, pojišťovny, služby</summary>
 <a href="https://bezpecnost.csas.cz/login/?client_id=georgeclient_cz" target="_blank">Česká spořitelna</a>
 <a href="https://www.pre.cz/cs/moje-pre/neprihlaseny-uzivatel/prihlaseni-uzivatele/" target="_blank">PRE online</a>
 <a href="https://www.equabanking.cz/IBS/" target="_blank">Equa</a>
@@ -310,7 +310,7 @@
 </details>
 
 <details close>
-<summary> Úprava textu</summary>
+<summary>Úprava textu</summary>
 <a href="https://write-box.appspot.com/" target="_blank">Psani textu online 1</a>
 <a href="https://www.editpad.org/" target="_blank">Psani textu online 22</a>
 <a href="https://dillinger.io/" target="_blank">markdown editor online</a>
@@ -320,7 +320,7 @@
 
 
 <details close>
-<summary> Linux</summary>
+<summary>Linux</summary>
 <a href="https://www.abclinuxu.cz/" target="_blank">Abclinuxu</a>
 <a href="https://www.root.cz/" target="_blank">Root</a>
 <a href="https://www.linuxexpres.cz/" target="_blank">Linuxexpress</a>
@@ -337,12 +337,12 @@
 </details>
 
 <details close>
-<summary> Němčina</summary>
+<summary>Němčina</summary>
 <a href="https://www.youtube.com/channel/UC4LQ7gUVS5w45ba1VubmJpg/videos" target="_blank">Nemcina_youtube</a>
 </details>
 
 <details close>
-<summary> Programování</summary>
+<summary>Programování</summary>
 <a href="https://github.com/bedjan/" target="_blank">Github</a>
 <a href="https://github.com/bedjan/debian/blob/master/skripty/all.sh" target="_blank">Github_all</a>
 <a href="https://zdrojak.cz/" target="_blank">Zdrojak</a>
@@ -365,7 +365,7 @@
 
 
 <details close>
-<summary> Github</summary>
+<summary>Github</summary>
 <a href="https://github.com/bedjan/akupresura/blob/master/akupresura_prvni_pomoc.md" target="_blank">Github_akupresura</a>
 <a href="https://github.com/bedjan/windows" target="_blank">Github_windows</a>
 <a href="https://github.com/bedjan/github/blob/master/README.md" target="_blank">Github_poznamky</a>
@@ -378,7 +378,7 @@
 
 
 <details close>
-<summary> Životní prostředí</summary>
+<summary>Životní prostředí</summary>
 <a href="http://www.enviweb.cz/" target="_blank">Enviweb</a>
 <a href="https://www.mzp.cz/" target="_blank">Mžp</a>
 <a href="http://arnika.org/zero-waste" target="_blank">Arnika zerowaste</a>
@@ -389,13 +389,13 @@
 </details>
 
 <details close>
-<summary> Minimalismus</summary>
+<summary>Minimalismus</summary>
 <a href="http://zijememinimalismem.cz/minimalismus-co-to-je-prosim-te/" target="_blank">Co je minimalismus</a>
 <a href="https://translate.google.cz/translate?hl=cs?sl=en&tl=cs&u=www.becomingminimalist.com/most-popular-posts/" target="_blank">Minimalismus ve světě</a>
 </details>
 
 <details close>
-<summary> Psychologie</summary>
+<summary>Psychologie</summary>
 <a href="https://psychologie.cz/clanky/" target="_blank">Psychologie</a>
 <a href="https://www.pronaladu.cz/" target="_blank">Pronaladu</a>
 <a href="https://e-psycholog.eu/archiv" target="_blank">Epsychologie</a>
@@ -404,13 +404,13 @@
 
 
 <details close>
-<summary> Pedagogika</summary>
+<summary>Pedagogika</summary>
 <a href="http://htmlpreview.github.io/?https://rawcdn.githack.com/bedjan/skola/master/psychologie.html" target="_blank">Psychologie</a>
 <a href="http://htmlpreview.github.io/?https://rawcdn.githack.com/bedjan/skola/master/pedagogika.html" target="_blank">Pedagogika</a>
 </details>
  
 <details close>
-<summary> Ostatní</summary>
+<summary>Ostatní</summary>
        <a href="https://login.yahoo.com" target="_blank">Yahoo_email</a>
 <a href="https://www.seznam.cz/" target="_blank">Seznam</a>
 <a href="https://login.szn.cz/" target="_blank">Seznam_email</a>
@@ -426,7 +426,7 @@
 </details>
 
 <details close>
-<summary> Firefox</summary>
+<summary>Firefox</summary>
        <a href="https://addons.mozilla.org/cs/firefox/addon/open-with/" target="_blank">open_with</a>
 		   <a href="https://addons.mozilla.org/cs/firefox/addon/foxy-gestures/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">foxy gestures</a>
 <a href="https://addons.mozilla.org/cs/firefox/addon/ublock-origin/" target="_blank">ublock origin</a>
@@ -438,7 +438,7 @@
 </details>
 
 <details close>
-<summary> Další</summary>
+<summary>Další</summary>
 <a href="https://github.com/lastpass/lastpass-cli" target="_blank">lastpass cli</a>
 <a href="https://www.tsduchcov.cz/svoz-odpadu/svoz-brko/" target="_blank">biodopad</a>
 <a href="http://www.prepper.cz/" target="_blank">prepper</a>
