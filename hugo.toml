@@ -1,11 +1,8 @@
 baseURL = "/"
 languageCode = "cs-cz"
-title = "Moje Stránka s Rozvrhem"
-theme = "moje-custom-sablona" # Nastavíme toto na vlastní název, protože nepoužíváme externí theme
-paginate = 5 # Nastavení stránkování, pokud by se jednalo o blog
-
-# Zde definujeme, kde se najdou Markdown soubory.
-# Hugo defaultně používá 'content', takže zde není třeba měnit.
+title = "Osobní Repozitář a Poznámky"
+# Nastavte zde theme, pokud byste nechtěl plně customizovat
+disableKinds = ["taxonomy", "term"] # Vypne nepotřebné funkce pro jednoduchý web
 
 [params]
-    description = "Statická stránka generovaná Hugem a stylovaná pomocí Bootstrapu."
+    description = "Materiály generované Hugem."
