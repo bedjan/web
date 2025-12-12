@@ -1,8 +1,10 @@
 baseURL = "/"
 languageCode = "cs-cz"
-title = "Osobní Repozitář a Poznámky"
-# Nastavte zde theme, pokud byste nechtěl plně customizovat
-disableKinds = ["taxonomy", "term"] # Vypne nepotřebné funkce pro jednoduchý web
+title = "Osobní Rozcestník (Hugo)"
+
+# Hugo by měl projít všechny adresáře, které obsahují Markdown
+# a generovat z nich stránky.
+disableKinds = ["taxonomy", "term"] # Vypne pokročilé funkce (tagy, kategorie) pro jednoduchý web
 
 [params]
-    description = "Materiály generované Hugem."
+    description = "Statické stránky generované Hugem a stylované pomocí Bootstrapu."
