@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    {{/* Nastaví titulek stránky - důležité pro SEO */}}
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    
+    {{/* Odkaz na Vaše styly CSS (pokud máte) */}}
+    <link rel="stylesheet" href="/css/style.css"> 
+    
+</head>
+<body>
+
+    {{/* HLAVIČKA/NAVIGACE - ZDE MŮŽETE PŘIDAT SVŮJ HEADER */}}
+    <header>
+        <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+        <nav>
+            {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+        </nav>
+    </header>
+
+    {{/* HLAVNÍ OBSAH DOMOVSKÉ STRÁNKY */}}
+    <main>
+        {{/* Pokud má domovská stránka obsah (z _index.md), zobrazí ho */}}
+        {{ .Content }}
+
+        {{/* VÝPIS ČLÁNKŮ/SEKCÍ - Vypíše poslední články ze sekce "post" */}}
+        <h2>Poslední články</h2>
+        <ul>
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ .Date.Format "2006-01-02" }})
+                </li>
+            {{ end }}
+        </ul>
+        
+    </main>
+
+    {{/* PATIČKA */}}
+    <footer>
+        <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+
+</body>
+</html>
